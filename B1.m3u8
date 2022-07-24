@@ -1,0 +1,4608 @@
+#EXTM3U 17/04/2022
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,A&E 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90647.ts
+#EXTINF:-1,A&E FHD
+http://ccdn.so:80/vsabG/499AKVptc/71760.ts
+#EXTINF:-1,A&E FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71761.ts
+#EXTINF:-1,A&E HD
+http://ccdn.so:80/vsabG/499AKVptc/71762.ts
+#EXTINF:-1,A&E SD
+http://ccdn.so:80/vsabG/499AKVptc/71763.ts
+#EXTINF:-1,AgroMais 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103532.ts
+#EXTINF:-1,AgroMais FHD
+http://ccdn.so:80/vsabG/499AKVptc/71764.ts
+#EXTINF:-1,AgroMais FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71765.ts
+#EXTINF:-1,AgroMais HD
+http://ccdn.so:80/vsabG/499AKVptc/71766.ts
+#EXTINF:-1,AgroMais SD
+http://ccdn.so:80/vsabG/499AKVptc/71767.ts
+#EXTINF:-1,AMC 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90646.ts
+#EXTINF:-1,AMC FHD
+http://ccdn.so:80/vsabG/499AKVptc/71768.ts
+#EXTINF:-1,AMC FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71769.ts
+#EXTINF:-1,AMC HD
+http://ccdn.so:80/vsabG/499AKVptc/71770.ts
+#EXTINF:-1,AMC SD
+http://ccdn.so:80/vsabG/499AKVptc/71771.ts
+#EXTINF:-1,Animal Planet 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71774.ts
+#EXTINF:-1,Animal Planet FHD
+http://ccdn.so:80/vsabG/499AKVptc/71772.ts
+#EXTINF:-1,Animal Planet FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71773.ts
+#EXTINF:-1,Animal Planet HD
+http://ccdn.so:80/vsabG/499AKVptc/71775.ts
+#EXTINF:-1,Animal Planet SD
+http://ccdn.so:80/vsabG/499AKVptc/71776.ts
+#EXTINF:-1,Arte 1 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103531.ts
+#EXTINF:-1,Arte 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/71777.ts
+#EXTINF:-1,Arte 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71778.ts
+#EXTINF:-1,Arte 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/71779.ts
+#EXTINF:-1,Arte 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/71780.ts
+#EXTINF:-1,AXN 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90645.ts
+#EXTINF:-1,AXN FHD
+http://ccdn.so:80/vsabG/499AKVptc/71781.ts
+#EXTINF:-1,AXN FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71782.ts
+#EXTINF:-1,AXN FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90716.ts
+#EXTINF:-1,AXN HD
+http://ccdn.so:80/vsabG/499AKVptc/71783.ts
+#EXTINF:-1,AXN HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90715.ts
+#EXTINF:-1,AXN SD
+http://ccdn.so:80/vsabG/499AKVptc/71784.ts
+#EXTINF:-1,AXN SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90714.ts
+#EXTINF:-1,Baby TV SD
+http://ccdn.so:80/vsabG/499AKVptc/130198.ts
+#EXTINF:-1,Band BA SD
+http://ccdn.so:80/vsabG/499AKVptc/72620.ts
+#EXTINF:-1,Band Maringa FHD
+http://ccdn.so:80/vsabG/499AKVptc/71785.ts
+#EXTINF:-1,Band Maringa FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71786.ts
+#EXTINF:-1,Band Maringa HD
+http://ccdn.so:80/vsabG/499AKVptc/71787.ts
+#EXTINF:-1,Band Maringa SD
+http://ccdn.so:80/vsabG/499AKVptc/71788.ts
+#EXTINF:-1,Band News 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103526.ts
+#EXTINF:-1,Band News FHD
+http://ccdn.so:80/vsabG/499AKVptc/71789.ts
+#EXTINF:-1,Band News FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71790.ts
+#EXTINF:-1,Band News HD
+http://ccdn.so:80/vsabG/499AKVptc/71791.ts
+#EXTINF:-1,Band News SD
+http://ccdn.so:80/vsabG/499AKVptc/71792.ts
+#EXTINF:-1,Band SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/79311.ts
+#EXTINF:-1,Band SP FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104943.ts
+#EXTINF:-1,Band SP HD
+http://ccdn.so:80/vsabG/499AKVptc/72597.ts
+#EXTINF:-1,Band SP SD
+http://ccdn.so:80/vsabG/499AKVptc/79312.ts
+#EXTINF:-1,Band Sports 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103525.ts
+#EXTINF:-1,Band Sports FHD
+http://ccdn.so:80/vsabG/499AKVptc/71801.ts
+#EXTINF:-1,Band Sports FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71802.ts
+#EXTINF:-1,Band Sports HD
+http://ccdn.so:80/vsabG/499AKVptc/71803.ts
+#EXTINF:-1,Band Sports SD
+http://ccdn.so:80/vsabG/499AKVptc/71804.ts
+#EXTINF:-1,BBC SD
+http://ccdn.so:80/vsabG/499AKVptc/71805.ts
+#EXTINF:-1,BIS 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103527.ts
+#EXTINF:-1,BIS FHD
+http://ccdn.so:80/vsabG/499AKVptc/71806.ts
+#EXTINF:-1,BIS FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71807.ts
+#EXTINF:-1,BIS HD
+http://ccdn.so:80/vsabG/499AKVptc/71808.ts
+#EXTINF:-1,BIS SD
+http://ccdn.so:80/vsabG/499AKVptc/71809.ts
+#EXTINF:-1,BJJ STARS 8 FHD
+http://ccdn.so:80/vsabG/499AKVptc/159276.ts
+#EXTINF:-1,BJJ STARS 8 HD
+http://ccdn.so:80/vsabG/499AKVptc/159277.ts
+#EXTINF:-1,BJJ STARS 8 SD
+http://ccdn.so:80/vsabG/499AKVptc/159278.ts
+#EXTINF:-1,Bloomberg SD
+http://ccdn.so:80/vsabG/499AKVptc/71810.ts
+#EXTINF:-1,Boa Vontade TV SD
+http://ccdn.so:80/vsabG/499AKVptc/71811.ts
+#EXTINF:-1,Brasileirao Serie C 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/157407.ts
+#EXTINF:-1,Brasileirao Serie C 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/157408.ts
+#EXTINF:-1,Brasileirao Serie C 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/157409.ts
+#EXTINF:-1,Brasileirao Serie C 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/157410.ts
+#EXTINF:-1,Brasileirao Serie C 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/157411.ts
+#EXTINF:-1,Brasileirao Serie C 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/157412.ts
+#EXTINF:-1,Brasileirao Serie C 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/157413.ts
+#EXTINF:-1,Brasileirao Serie C 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/157414.ts
+#EXTINF:-1,Brasileirao Serie C 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/157415.ts
+#EXTINF:-1,Campeonato Carioca 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/96513.ts
+#EXTINF:-1,Campeonato Carioca 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/96515.ts
+#EXTINF:-1,Campeonato Carioca 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/96516.ts
+#EXTINF:-1,Campeonato Carioca 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103519.ts
+#EXTINF:-1,Campeonato Carioca 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/96517.ts
+#EXTINF:-1,Campeonato Carioca 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/96518.ts
+#EXTINF:-1,Campeonato Carioca 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/96519.ts
+#EXTINF:-1,Campeonato Carioca 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/96520.ts
+#EXTINF:-1,Campeonato Paranaense 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/111408.ts
+#EXTINF:-1,Campeonato Paranaense 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/111409.ts
+#EXTINF:-1,Campeonato Paranaense 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/111410.ts
+#EXTINF:-1,Canal Brasil 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103518.ts
+#EXTINF:-1,Canal Brasil FHD
+http://ccdn.so:80/vsabG/499AKVptc/71816.ts
+#EXTINF:-1,Canal Brasil FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71817.ts
+#EXTINF:-1,Canal Brasil HD
+http://ccdn.so:80/vsabG/499AKVptc/71818.ts
+#EXTINF:-1,Canal Brasil SD
+http://ccdn.so:80/vsabG/499AKVptc/71819.ts
+#EXTINF:-1,Canal do Boi 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103516.ts
+#EXTINF:-1,Canal do Boi FHD
+http://ccdn.so:80/vsabG/499AKVptc/71820.ts
+#EXTINF:-1,Canal do Boi HD
+http://ccdn.so:80/vsabG/499AKVptc/71821.ts
+#EXTINF:-1,Canal do Boi SD
+http://ccdn.so:80/vsabG/499AKVptc/71822.ts
+#EXTINF:-1,Canal Rural SD
+http://ccdn.so:80/vsabG/499AKVptc/71823.ts
+#EXTINF:-1,Canal Sony 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103517.ts
+#EXTINF:-1,Canal Sony FHD
+http://ccdn.so:80/vsabG/499AKVptc/71824.ts
+#EXTINF:-1,Canal Sony FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71825.ts
+#EXTINF:-1,Canal Sony FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90713.ts
+#EXTINF:-1,Canal Sony HD
+http://ccdn.so:80/vsabG/499AKVptc/71826.ts
+#EXTINF:-1,Canal Sony HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90712.ts
+#EXTINF:-1,Canal Sony SD
+http://ccdn.so:80/vsabG/499AKVptc/71827.ts
+#EXTINF:-1,Canal Sony SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90711.ts
+#EXTINF:-1,Cartoon Network 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71830.ts
+#EXTINF:-1,Cartoon Network FHD
+http://ccdn.so:80/vsabG/499AKVptc/71828.ts
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71829.ts
+#EXTINF:-1,Cartoon Network HD
+http://ccdn.so:80/vsabG/499AKVptc/71831.ts
+#EXTINF:-1,Cartoon Network SD
+http://ccdn.so:80/vsabG/499AKVptc/71832.ts
+#EXTINF:-1,Cartoonito 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90644.ts
+#EXTINF:-1,Cartoonito FHD
+http://ccdn.so:80/vsabG/499AKVptc/71812.ts
+#EXTINF:-1,Cartoonito FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71813.ts
+#EXTINF:-1,Cartoonito HD
+http://ccdn.so:80/vsabG/499AKVptc/71814.ts
+#EXTINF:-1,Cartoonito SD
+http://ccdn.so:80/vsabG/499AKVptc/71815.ts
+#EXTINF:-1,Cine SKY 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/72994.ts
+#EXTINF:-1,Cine SKY 10 HD
+http://ccdn.so:80/vsabG/499AKVptc/73003.ts
+#EXTINF:-1,Cine SKY 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/72995.ts
+#EXTINF:-1,Cine SKY 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/72996.ts
+#EXTINF:-1,Cine SKY 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/72997.ts
+#EXTINF:-1,Cine SKY 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/72998.ts
+#EXTINF:-1,Cine SKY 6 HD
+http://ccdn.so:80/vsabG/499AKVptc/72999.ts
+#EXTINF:-1,Cine SKY 7 HD
+http://ccdn.so:80/vsabG/499AKVptc/73000.ts
+#EXTINF:-1,Cine SKY 8 HD
+http://ccdn.so:80/vsabG/499AKVptc/73001.ts
+#EXTINF:-1,Cine SKY 9 HD
+http://ccdn.so:80/vsabG/499AKVptc/73002.ts
+#EXTINF:-1,Cinecanal 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103468.ts
+#EXTINF:-1,Cinecanal FHD
+http://ccdn.so:80/vsabG/499AKVptc/71939.ts
+#EXTINF:-1,Cinecanal FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71940.ts
+#EXTINF:-1,Cinecanal HD
+http://ccdn.so:80/vsabG/499AKVptc/71941.ts
+#EXTINF:-1,Cinecanal SD
+http://ccdn.so:80/vsabG/499AKVptc/71942.ts
+#EXTINF:-1,Cinemax 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90643.ts
+#EXTINF:-1,Cinemax FHD
+http://ccdn.so:80/vsabG/499AKVptc/71833.ts
+#EXTINF:-1,Cinemax FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71834.ts
+#EXTINF:-1,Cinemax HD
+http://ccdn.so:80/vsabG/499AKVptc/71835.ts
+#EXTINF:-1,Cinemax SD
+http://ccdn.so:80/vsabG/499AKVptc/71836.ts
+#EXTINF:-1,CNN Brasil 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71798.ts
+#EXTINF:-1,CNN Brasil FHD
+http://ccdn.so:80/vsabG/499AKVptc/71837.ts
+#EXTINF:-1,CNN Brasil FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71838.ts
+#EXTINF:-1,CNN Brasil HD
+http://ccdn.so:80/vsabG/499AKVptc/71839.ts
+#EXTINF:-1,CNN Brasil SD
+http://ccdn.so:80/vsabG/499AKVptc/71840.ts
+#EXTINF:-1,CNN International SD
+http://ccdn.so:80/vsabG/499AKVptc/71841.ts
+#EXTINF:-1,Combate 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71844.ts
+#EXTINF:-1,Combate FHD
+http://ccdn.so:80/vsabG/499AKVptc/71842.ts
+#EXTINF:-1,Combate FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71843.ts
+#EXTINF:-1,Combate HD
+http://ccdn.so:80/vsabG/499AKVptc/71845.ts
+#EXTINF:-1,Combate SD
+http://ccdn.so:80/vsabG/499AKVptc/71846.ts
+#EXTINF:-1,Comedy Central 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90642.ts
+#EXTINF:-1,Comedy Central FHD
+http://ccdn.so:80/vsabG/499AKVptc/71847.ts
+#EXTINF:-1,Comedy Central FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71848.ts
+#EXTINF:-1,Comedy Central HD
+http://ccdn.so:80/vsabG/499AKVptc/71849.ts
+#EXTINF:-1,Comedy Central SD
+http://ccdn.so:80/vsabG/499AKVptc/71850.ts
+#EXTINF:-1,CONMEBOL TV 1 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103524.ts
+#EXTINF:-1,Conmebol TV 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72977.ts
+#EXTINF:-1,Conmebol TV 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72978.ts
+#EXTINF:-1,Conmebol TV 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/72979.ts
+#EXTINF:-1,Conmebol TV 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/72980.ts
+#EXTINF:-1,CONMEBOL TV 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103523.ts
+#EXTINF:-1,Conmebol TV 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72981.ts
+#EXTINF:-1,Conmebol TV 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72982.ts
+#EXTINF:-1,Conmebol TV 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/72983.ts
+#EXTINF:-1,Conmebol TV 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/72984.ts
+#EXTINF:-1,CONMEBOL TV 3 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103522.ts
+#EXTINF:-1,Conmebol TV 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72985.ts
+#EXTINF:-1,Conmebol TV 3 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72986.ts
+#EXTINF:-1,Conmebol TV 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/72987.ts
+#EXTINF:-1,Conmebol TV 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/72988.ts
+#EXTINF:-1,CONMEBOL TV 4 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103521.ts
+#EXTINF:-1,Conmebol TV 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72989.ts
+#EXTINF:-1,Conmebol TV 4 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72990.ts
+#EXTINF:-1,Conmebol TV 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/72991.ts
+#EXTINF:-1,Conmebol TV 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/72992.ts
+#EXTINF:-1,Copa Catarinense 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/96011.ts
+#EXTINF:-1,Copa Catarinense 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/96012.ts
+#EXTINF:-1,Copa Catarinense 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/96013.ts
+#EXTINF:-1,Copa Catarinense 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/147527.ts
+#EXTINF:-1,Copa do Brasil 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/150498.ts
+#EXTINF:-1,Copa do Brasil 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/150499.ts
+#EXTINF:-1,Copa do Brasil 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/150500.ts
+#EXTINF:-1,Copa do Brasil 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/150501.ts
+#EXTINF:-1,Copa do Brasil 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/150502.ts
+#EXTINF:-1,Copa do Brasil 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/150503.ts
+#EXTINF:-1,Copa do Nordeste 1 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103515.ts
+#EXTINF:-1,Copa do Nordeste 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/96505.ts
+#EXTINF:-1,Copa do Nordeste 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/96506.ts
+#EXTINF:-1,Copa do Nordeste 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/96507.ts
+#EXTINF:-1,Copa do Nordeste 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/96508.ts
+#EXTINF:-1,Copa do Nordeste 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103514.ts
+#EXTINF:-1,Copa do Nordeste 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/96509.ts
+#EXTINF:-1,Copa do Nordeste 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/96510.ts
+#EXTINF:-1,Copa do Nordeste 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/96511.ts
+#EXTINF:-1,Copa do Nordeste 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/96512.ts
+#EXTINF:-1,Copa do Nordeste 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/101617.ts
+#EXTINF:-1,Copa do Nordeste 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/101618.ts
+#EXTINF:-1,Copa do Nordeste 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/101619.ts
+#EXTINF:-1,Copa do Nordeste 6 HD
+http://ccdn.so:80/vsabG/499AKVptc/101620.ts
+#EXTINF:-1,Copa do Nordeste 7 HD
+http://ccdn.so:80/vsabG/499AKVptc/101621.ts
+#EXTINF:-1,Cultura 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103513.ts
+#EXTINF:-1,Cultura FHD
+http://ccdn.so:80/vsabG/499AKVptc/71851.ts
+#EXTINF:-1,Cultura FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71852.ts
+#EXTINF:-1,Cultura HD
+http://ccdn.so:80/vsabG/499AKVptc/71853.ts
+#EXTINF:-1,Cultura SD
+http://ccdn.so:80/vsabG/499AKVptc/71854.ts
+#EXTINF:-1,Curta FHD
+http://ccdn.so:80/vsabG/499AKVptc/71855.ts
+#EXTINF:-1,Curta FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71856.ts
+#EXTINF:-1,Curta HD
+http://ccdn.so:80/vsabG/499AKVptc/71857.ts
+#EXTINF:-1,Curta SD
+http://ccdn.so:80/vsabG/499AKVptc/71858.ts
+#EXTINF:-1,Curta! 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103512.ts
+#EXTINF:-1,DAZN 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/71860.ts
+#EXTINF:-1,DAZN 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/72630.ts
+#EXTINF:-1,DAZN 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/71861.ts
+#EXTINF:-1,DAZN 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/71859.ts
+#EXTINF:-1,Discovery Channel 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71864.ts
+#EXTINF:-1,Discovery Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/71862.ts
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71863.ts
+#EXTINF:-1,Discovery Channel HD
+http://ccdn.so:80/vsabG/499AKVptc/71865.ts
+#EXTINF:-1,Discovery Channel SD
+http://ccdn.so:80/vsabG/499AKVptc/71866.ts
+#EXTINF:-1,Discovery H&H 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90251.ts
+#EXTINF:-1,Discovery H&H FHD
+http://ccdn.so:80/vsabG/499AKVptc/71867.ts
+#EXTINF:-1,Discovery H&H FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71868.ts
+#EXTINF:-1,Discovery H&H HD
+http://ccdn.so:80/vsabG/499AKVptc/71869.ts
+#EXTINF:-1,Discovery H&H SD
+http://ccdn.so:80/vsabG/499AKVptc/71870.ts
+#EXTINF:-1,Discovery Kids 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90250.ts
+#EXTINF:-1,Discovery Kids FHD
+http://ccdn.so:80/vsabG/499AKVptc/71871.ts
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71872.ts
+#EXTINF:-1,Discovery Kids HD
+http://ccdn.so:80/vsabG/499AKVptc/71873.ts
+#EXTINF:-1,Discovery Kids SD
+http://ccdn.so:80/vsabG/499AKVptc/71874.ts
+#EXTINF:-1,Discovery Science 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103511.ts
+#EXTINF:-1,Discovery Science FHD
+http://ccdn.so:80/vsabG/499AKVptc/71875.ts
+#EXTINF:-1,Discovery Science FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71876.ts
+#EXTINF:-1,Discovery Science HD
+http://ccdn.so:80/vsabG/499AKVptc/71877.ts
+#EXTINF:-1,Discovery Science SD
+http://ccdn.so:80/vsabG/499AKVptc/71878.ts
+#EXTINF:-1,Discovery Theater 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103510.ts
+#EXTINF:-1,Discovery Theater FHD
+http://ccdn.so:80/vsabG/499AKVptc/71879.ts
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71880.ts
+#EXTINF:-1,Discovery Theater HD
+http://ccdn.so:80/vsabG/499AKVptc/71881.ts
+#EXTINF:-1,Discovery Theater SD
+http://ccdn.so:80/vsabG/499AKVptc/71882.ts
+#EXTINF:-1,Discovery Turbo 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90641.ts
+#EXTINF:-1,Discovery Turbo FHD
+http://ccdn.so:80/vsabG/499AKVptc/71883.ts
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71884.ts
+#EXTINF:-1,Discovery Turbo HD
+http://ccdn.so:80/vsabG/499AKVptc/71885.ts
+#EXTINF:-1,Discovery Turbo SD
+http://ccdn.so:80/vsabG/499AKVptc/71886.ts
+#EXTINF:-1,Discovery World 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103509.ts
+#EXTINF:-1,Discovery World FHD
+http://ccdn.so:80/vsabG/499AKVptc/71887.ts
+#EXTINF:-1,Discovery World FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71888.ts
+#EXTINF:-1,Discovery World HD
+http://ccdn.so:80/vsabG/499AKVptc/71889.ts
+#EXTINF:-1,Discovery World SD
+http://ccdn.so:80/vsabG/499AKVptc/71890.ts
+#EXTINF:-1,Disney Channel 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103508.ts
+#EXTINF:-1,Disney Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/71891.ts
+#EXTINF:-1,Disney Channel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71892.ts
+#EXTINF:-1,Disney Channel HD
+http://ccdn.so:80/vsabG/499AKVptc/71893.ts
+#EXTINF:-1,Disney Channel SD
+http://ccdn.so:80/vsabG/499AKVptc/71894.ts
+#EXTINF:-1,Disney XD SD
+http://ccdn.so:80/vsabG/499AKVptc/71899.ts
+#EXTINF:-1,Dog TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/76922.ts
+#EXTINF:-1,DOG TV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104909.ts
+#EXTINF:-1,Dog TV HD
+http://ccdn.so:80/vsabG/499AKVptc/76923.ts
+#EXTINF:-1,Dog TV SD
+http://ccdn.so:80/vsabG/499AKVptc/104908.ts
+#EXTINF:-1,DW (Deutsch+) SD
+http://ccdn.so:80/vsabG/499AKVptc/104940.ts
+#EXTINF:-1,E! 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103506.ts
+#EXTINF:-1,E! FHD
+http://ccdn.so:80/vsabG/499AKVptc/71900.ts
+#EXTINF:-1,E! FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71901.ts
+#EXTINF:-1,E! HD
+http://ccdn.so:80/vsabG/499AKVptc/71902.ts
+#EXTINF:-1,E! SD
+http://ccdn.so:80/vsabG/499AKVptc/71903.ts
+#EXTINF:-1,ESPN 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71921.ts
+#EXTINF:-1,ESPN 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/71919.ts
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71920.ts
+#EXTINF:-1,ESPN 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/71922.ts
+#EXTINF:-1,ESPN 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/71923.ts
+#EXTINF:-1,ESPN 3 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103504.ts
+#EXTINF:-1,ESPN 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/71907.ts
+#EXTINF:-1,ESPN 3 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71908.ts
+#EXTINF:-1,ESPN 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/71909.ts
+#EXTINF:-1,ESPN 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/71910.ts
+#EXTINF:-1,ESPN 4 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71959.ts
+#EXTINF:-1,ESPN 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/71957.ts
+#EXTINF:-1,ESPN 4 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71958.ts
+#EXTINF:-1,ESPN 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/71960.ts
+#EXTINF:-1,ESPN 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/71961.ts
+#EXTINF:-1,ESPN 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90640.ts
+#EXTINF:-1,ESPN Extra 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103505.ts
+#EXTINF:-1,ESPN Extra FHD
+http://ccdn.so:80/vsabG/499AKVptc/71915.ts
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71916.ts
+#EXTINF:-1,ESPN Extra HD
+http://ccdn.so:80/vsabG/499AKVptc/71917.ts
+#EXTINF:-1,ESPN Extra SD
+http://ccdn.so:80/vsabG/499AKVptc/71918.ts
+#EXTINF:-1,ESPN FHD
+http://ccdn.so:80/vsabG/499AKVptc/71911.ts
+#EXTINF:-1,ESPN FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71912.ts
+#EXTINF:-1,ESPN HD
+http://ccdn.so:80/vsabG/499AKVptc/71913.ts
+#EXTINF:-1,ESPN SD
+http://ccdn.so:80/vsabG/499AKVptc/71914.ts
+#EXTINF:-1,Estádio TNT Sports 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/76671.ts
+#EXTINF:-1,Estádio TNT Sports 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/76672.ts
+#EXTINF:-1,Eurochannel FHD
+http://ccdn.so:80/vsabG/499AKVptc/104910.ts
+#EXTINF:-1,Eurochannel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104913.ts
+#EXTINF:-1,Eurochannel HD
+http://ccdn.so:80/vsabG/499AKVptc/104911.ts
+#EXTINF:-1,Eurochannel SD
+http://ccdn.so:80/vsabG/499AKVptc/104912.ts
+#EXTINF:-1,Facebook Watch
+http://ccdn.so:80/vsabG/499AKVptc/73005.ts
+#EXTINF:-1,Facebook Watch 2
+http://ccdn.so:80/vsabG/499AKVptc/79316.ts
+#EXTINF:-1,Facebook Watch 3
+http://ccdn.so:80/vsabG/499AKVptc/79317.ts
+#EXTINF:-1,Fashion TV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103503.ts
+#EXTINF:-1,FashionTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/71924.ts
+#EXTINF:-1,FashionTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71925.ts
+#EXTINF:-1,FashionTV HD
+http://ccdn.so:80/vsabG/499AKVptc/71926.ts
+#EXTINF:-1,FashionTV SD
+http://ccdn.so:80/vsabG/499AKVptc/71927.ts
+#EXTINF:-1,Film&Arts FHD
+http://ccdn.so:80/vsabG/499AKVptc/104914.ts
+#EXTINF:-1,Film&Arts FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104920.ts
+#EXTINF:-1,Film&Arts HD
+http://ccdn.so:80/vsabG/499AKVptc/104915.ts
+#EXTINF:-1,Film&Arts SD
+http://ccdn.so:80/vsabG/499AKVptc/104916.ts
+#EXTINF:-1,Fish TV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103502.ts
+#EXTINF:-1,Fish TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/71928.ts
+#EXTINF:-1,Fish TV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71929.ts
+#EXTINF:-1,Fish TV HD
+http://ccdn.so:80/vsabG/499AKVptc/71930.ts
+#EXTINF:-1,Fish TV SD
+http://ccdn.so:80/vsabG/499AKVptc/71931.ts
+#EXTINF:-1,Food Network 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103501.ts
+#EXTINF:-1,Food Network FHD
+http://ccdn.so:80/vsabG/499AKVptc/71932.ts
+#EXTINF:-1,Food Network FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71933.ts
+#EXTINF:-1,Food Network HD
+http://ccdn.so:80/vsabG/499AKVptc/71934.ts
+#EXTINF:-1,Food Network SD
+http://ccdn.so:80/vsabG/499AKVptc/71935.ts
+#EXTINF:-1,Formula 1 TV HD
+http://ccdn.so:80/vsabG/499AKVptc/98395.ts
+#EXTINF:-1,Fox Sports 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/71954.ts
+#EXTINF:-1,Fox Sports 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/71952.ts
+#EXTINF:-1,Fox Sports 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71953.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/71955.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/71956.ts
+#EXTINF:-1,France 24 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103500.ts
+#EXTINF:-1,France 24 FHD
+http://ccdn.so:80/vsabG/499AKVptc/104906.ts
+#EXTINF:-1,France 24 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104942.ts
+#EXTINF:-1,France 24 HD
+http://ccdn.so:80/vsabG/499AKVptc/104907.ts
+#EXTINF:-1,France 24 SD
+http://ccdn.so:80/vsabG/499AKVptc/104941.ts
+#EXTINF:-1,Furacao Live FHD
+http://ccdn.so:80/vsabG/499AKVptc/142040.ts
+#EXTINF:-1,Furacao Live HD
+http://ccdn.so:80/vsabG/499AKVptc/105789.ts
+#EXTINF:-1,Furacao Live SD
+http://ccdn.so:80/vsabG/499AKVptc/142041.ts
+#EXTINF:-1,Futura 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103499.ts
+#EXTINF:-1,Futura FHD
+http://ccdn.so:80/vsabG/499AKVptc/71962.ts
+#EXTINF:-1,Futura FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71963.ts
+#EXTINF:-1,Futura HD
+http://ccdn.so:80/vsabG/499AKVptc/71964.ts
+#EXTINF:-1,Futura SD
+http://ccdn.so:80/vsabG/499AKVptc/71965.ts
+#EXTINF:-1,FX 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90639.ts
+#EXTINF:-1,FX FHD
+http://ccdn.so:80/vsabG/499AKVptc/71966.ts
+#EXTINF:-1,FX FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71967.ts
+#EXTINF:-1,FX FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90710.ts
+#EXTINF:-1,FX HD
+http://ccdn.so:80/vsabG/499AKVptc/71968.ts
+#EXTINF:-1,FX HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90709.ts
+#EXTINF:-1,FX SD
+http://ccdn.so:80/vsabG/499AKVptc/71969.ts
+#EXTINF:-1,FX SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90708.ts
+#EXTINF:-1,Globo Brasilia FHD
+http://ccdn.so:80/vsabG/499AKVptc/131151.ts
+#EXTINF:-1,Globo Brasilia HD
+http://ccdn.so:80/vsabG/499AKVptc/131164.ts
+#EXTINF:-1,Globo Brasilia SD
+http://ccdn.so:80/vsabG/499AKVptc/131116.ts
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://ccdn.so:80/vsabG/499AKVptc/131150.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+http://ccdn.so:80/vsabG/499AKVptc/71977.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+http://ccdn.so:80/vsabG/499AKVptc/131210.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+http://ccdn.so:80/vsabG/499AKVptc/131172.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://ccdn.so:80/vsabG/499AKVptc/131178.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://ccdn.so:80/vsabG/499AKVptc/131202.ts
+#EXTINF:-1,Globo EPTV Sao Carlos FHD
+http://ccdn.so:80/vsabG/499AKVptc/131141.ts
+#EXTINF:-1,Globo EPTV Sao Carlos HD
+http://ccdn.so:80/vsabG/499AKVptc/131129.ts
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://ccdn.so:80/vsabG/499AKVptc/72592.ts
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://ccdn.so:80/vsabG/499AKVptc/71979.ts
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://ccdn.so:80/vsabG/499AKVptc/71980.ts
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://ccdn.so:80/vsabG/499AKVptc/131201.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://ccdn.so:80/vsabG/499AKVptc/71982.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://ccdn.so:80/vsabG/499AKVptc/71983.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://ccdn.so:80/vsabG/499AKVptc/131131.ts
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+http://ccdn.so:80/vsabG/499AKVptc/71985.ts
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://ccdn.so:80/vsabG/499AKVptc/71986.ts
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://ccdn.so:80/vsabG/499AKVptc/131186.ts
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://ccdn.so:80/vsabG/499AKVptc/131143.ts
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://ccdn.so:80/vsabG/499AKVptc/71989.ts
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://ccdn.so:80/vsabG/499AKVptc/71990.ts
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://ccdn.so:80/vsabG/499AKVptc/71991.ts
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://ccdn.so:80/vsabG/499AKVptc/131115.ts
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://ccdn.so:80/vsabG/499AKVptc/131114.ts
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://ccdn.so:80/vsabG/499AKVptc/71994.ts
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://ccdn.so:80/vsabG/499AKVptc/71995.ts
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://ccdn.so:80/vsabG/499AKVptc/71996.ts
+#EXTINF:-1,Globo InterTV Costa Branca HD
+http://ccdn.so:80/vsabG/499AKVptc/93581.ts
+#EXTINF:-1,Globo InterTV Costa Branca SD
+http://ccdn.so:80/vsabG/499AKVptc/93585.ts
+#EXTINF:-1,Globo InterTV Planicie HD
+http://ccdn.so:80/vsabG/499AKVptc/93586.ts
+#EXTINF:-1,Globo InterTV Planicie SD
+http://ccdn.so:80/vsabG/499AKVptc/93587.ts
+#EXTINF:-1,Globo Minas FHD
+http://ccdn.so:80/vsabG/499AKVptc/131200.ts
+#EXTINF:-1,Globo Minas HD
+http://ccdn.so:80/vsabG/499AKVptc/131159.ts
+#EXTINF:-1,Globo Minas SD
+http://ccdn.so:80/vsabG/499AKVptc/131209.ts
+#EXTINF:-1,Globo Nacional FHD
+http://ccdn.so:80/vsabG/499AKVptc/131217.ts
+#EXTINF:-1,Globo Nacional SD
+http://ccdn.so:80/vsabG/499AKVptc/131145.ts
+#EXTINF:-1,Globo News 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90248.ts
+#EXTINF:-1,Globo News FHD
+http://ccdn.so:80/vsabG/499AKVptc/71997.ts
+#EXTINF:-1,Globo News FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71998.ts
+#EXTINF:-1,Globo News HD
+http://ccdn.so:80/vsabG/499AKVptc/71999.ts
+#EXTINF:-1,Globo News SD
+http://ccdn.so:80/vsabG/499AKVptc/131112.ts
+#EXTINF:-1,Globo Nordeste FHD
+http://ccdn.so:80/vsabG/499AKVptc/72001.ts
+#EXTINF:-1,Globo Nordeste HD
+http://ccdn.so:80/vsabG/499AKVptc/131157.ts
+#EXTINF:-1,Globo Nordeste SD
+http://ccdn.so:80/vsabG/499AKVptc/72003.ts
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://ccdn.so:80/vsabG/499AKVptc/72004.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://ccdn.so:80/vsabG/499AKVptc/72005.ts
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://ccdn.so:80/vsabG/499AKVptc/131192.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://ccdn.so:80/vsabG/499AKVptc/135432.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://ccdn.so:80/vsabG/499AKVptc/135433.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste SD
+http://ccdn.so:80/vsabG/499AKVptc/135434.ts
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://ccdn.so:80/vsabG/499AKVptc/131174.ts
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://ccdn.so:80/vsabG/499AKVptc/72008.ts
+#EXTINF:-1,Globo NSC TV Chapeco SD
+http://ccdn.so:80/vsabG/499AKVptc/131190.ts
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+http://ccdn.so:80/vsabG/499AKVptc/135426.ts
+#EXTINF:-1,Globo NSC TV Criciuma HD
+http://ccdn.so:80/vsabG/499AKVptc/135427.ts
+#EXTINF:-1,Globo NSC TV Criciuma SD
+http://ccdn.so:80/vsabG/499AKVptc/135428.ts
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://ccdn.so:80/vsabG/499AKVptc/72010.ts
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://ccdn.so:80/vsabG/499AKVptc/131183.ts
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://ccdn.so:80/vsabG/499AKVptc/131144.ts
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://ccdn.so:80/vsabG/499AKVptc/91034.ts
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://ccdn.so:80/vsabG/499AKVptc/131167.ts
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://ccdn.so:80/vsabG/499AKVptc/91032.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://ccdn.so:80/vsabG/499AKVptc/131160.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://ccdn.so:80/vsabG/499AKVptc/72014.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://ccdn.so:80/vsabG/499AKVptc/131130.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://ccdn.so:80/vsabG/499AKVptc/133064.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://ccdn.so:80/vsabG/499AKVptc/133065.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo SD
+http://ccdn.so:80/vsabG/499AKVptc/133066.ts
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://ccdn.so:80/vsabG/499AKVptc/72617.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://ccdn.so:80/vsabG/499AKVptc/131121.ts
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://ccdn.so:80/vsabG/499AKVptc/131207.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://ccdn.so:80/vsabG/499AKVptc/131102.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://ccdn.so:80/vsabG/499AKVptc/72017.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://ccdn.so:80/vsabG/499AKVptc/131198.ts
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://ccdn.so:80/vsabG/499AKVptc/135423.ts
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://ccdn.so:80/vsabG/499AKVptc/135424.ts
+#EXTINF:-1,Globo RBS TV Santa Maria SD
+http://ccdn.so:80/vsabG/499AKVptc/135425.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa FHD
+http://ccdn.so:80/vsabG/499AKVptc/133055.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa HD
+http://ccdn.so:80/vsabG/499AKVptc/133056.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa SD
+http://ccdn.so:80/vsabG/499AKVptc/133057.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista FHD
+http://ccdn.so:80/vsabG/499AKVptc/131185.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista HD
+http://ccdn.so:80/vsabG/499AKVptc/93588.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista SD
+http://ccdn.so:80/vsabG/499AKVptc/93589.ts
+#EXTINF:-1,Globo Rede Amazonica Macapa HD
+http://ccdn.so:80/vsabG/499AKVptc/93590.ts
+#EXTINF:-1,Globo Rede Amazonica Macapa SD
+http://ccdn.so:80/vsabG/499AKVptc/93591.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus FHD
+http://ccdn.so:80/vsabG/499AKVptc/72019.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://ccdn.so:80/vsabG/499AKVptc/72020.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+http://ccdn.so:80/vsabG/499AKVptc/72021.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho FHD
+http://ccdn.so:80/vsabG/499AKVptc/108684.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho HD
+http://ccdn.so:80/vsabG/499AKVptc/93592.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho SD
+http://ccdn.so:80/vsabG/499AKVptc/131184.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco FHD
+http://ccdn.so:80/vsabG/499AKVptc/131148.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco HD
+http://ccdn.so:80/vsabG/499AKVptc/131162.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco SD
+http://ccdn.so:80/vsabG/499AKVptc/131111.ts
+#EXTINF:-1,Globo Rede Bahia FHD
+http://ccdn.so:80/vsabG/499AKVptc/131213.ts
+#EXTINF:-1,Globo Rede Bahia HD
+http://ccdn.so:80/vsabG/499AKVptc/131123.ts
+#EXTINF:-1,Globo Rede Bahia SD
+http://ccdn.so:80/vsabG/499AKVptc/72024.ts
+#EXTINF:-1,Globo RJ FHD
+http://ccdn.so:80/vsabG/499AKVptc/72025.ts
+#EXTINF:-1,Globo RJ HD
+http://ccdn.so:80/vsabG/499AKVptc/131163.ts
+#EXTINF:-1,Globo RJ SD
+http://ccdn.so:80/vsabG/499AKVptc/131182.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://ccdn.so:80/vsabG/499AKVptc/133058.ts
+#EXTINF:-1,Globo RPC Cascavel HD
+http://ccdn.so:80/vsabG/499AKVptc/133059.ts
+#EXTINF:-1,Globo RPC Cascavel SD
+http://ccdn.so:80/vsabG/499AKVptc/133060.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+http://ccdn.so:80/vsabG/499AKVptc/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+http://ccdn.so:80/vsabG/499AKVptc/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+http://ccdn.so:80/vsabG/499AKVptc/133063.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+http://ccdn.so:80/vsabG/499AKVptc/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+http://ccdn.so:80/vsabG/499AKVptc/131170.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+http://ccdn.so:80/vsabG/499AKVptc/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+http://ccdn.so:80/vsabG/499AKVptc/131199.ts
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://ccdn.so:80/vsabG/499AKVptc/72626.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://ccdn.so:80/vsabG/499AKVptc/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu FHD
+http://ccdn.so:80/vsabG/499AKVptc/131149.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
+http://ccdn.so:80/vsabG/499AKVptc/72033.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu SD
+http://ccdn.so:80/vsabG/499AKVptc/131206.ts
+#EXTINF:-1,Globo RPC TV Maringa FHD
+http://ccdn.so:80/vsabG/499AKVptc/131101.ts
+#EXTINF:-1,Globo RPC TV Maringa HD
+http://ccdn.so:80/vsabG/499AKVptc/96888.ts
+#EXTINF:-1,Globo RPC TV Maringa SD
+http://ccdn.so:80/vsabG/499AKVptc/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://ccdn.so:80/vsabG/499AKVptc/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://ccdn.so:80/vsabG/499AKVptc/72037.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+http://ccdn.so:80/vsabG/499AKVptc/131189.ts
+#EXTINF:-1,Globo SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/72040.ts
+#EXTINF:-1,Globo SP FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/131215.ts
+#EXTINF:-1,Globo SP HD
+http://ccdn.so:80/vsabG/499AKVptc/131212.ts
+#EXTINF:-1,Globo SP SD
+http://ccdn.so:80/vsabG/499AKVptc/72042.ts
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://ccdn.so:80/vsabG/499AKVptc/72043.ts
+#EXTINF:-1,Globo TV Anhanguera HD
+http://ccdn.so:80/vsabG/499AKVptc/131166.ts
+#EXTINF:-1,Globo TV Anhanguera SD
+http://ccdn.so:80/vsabG/499AKVptc/131124.ts
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://ccdn.so:80/vsabG/499AKVptc/102554.ts
+#EXTINF:-1,Globo TV Asa Branca HD
+http://ccdn.so:80/vsabG/499AKVptc/102555.ts
+#EXTINF:-1,Globo TV Asa Branca SD
+http://ccdn.so:80/vsabG/499AKVptc/131180.ts
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://ccdn.so:80/vsabG/499AKVptc/131146.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://ccdn.so:80/vsabG/499AKVptc/131110.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://ccdn.so:80/vsabG/499AKVptc/131179.ts
+#EXTINF:-1,Globo TV Centro America FHD
+http://ccdn.so:80/vsabG/499AKVptc/72049.ts
+#EXTINF:-1,Globo TV Centro America HD
+http://ccdn.so:80/vsabG/499AKVptc/72050.ts
+#EXTINF:-1,Globo TV Centro America SD
+http://ccdn.so:80/vsabG/499AKVptc/72051.ts
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://ccdn.so:80/vsabG/499AKVptc/131105.ts
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://ccdn.so:80/vsabG/499AKVptc/72053.ts
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://ccdn.so:80/vsabG/499AKVptc/131196.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes FHD
+http://ccdn.so:80/vsabG/499AKVptc/131100.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes HD
+http://ccdn.so:80/vsabG/499AKVptc/97596.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes SD
+http://ccdn.so:80/vsabG/499AKVptc/97597.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente FHD
+http://ccdn.so:80/vsabG/499AKVptc/97587.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+http://ccdn.so:80/vsabG/499AKVptc/97588.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+http://ccdn.so:80/vsabG/499AKVptc/131177.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://ccdn.so:80/vsabG/499AKVptc/131158.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://ccdn.so:80/vsabG/499AKVptc/131214.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://ccdn.so:80/vsabG/499AKVptc/131142.ts
+#EXTINF:-1,Globo TV Gazeta Sul FHD
+http://ccdn.so:80/vsabG/499AKVptc/131099.ts
+#EXTINF:-1,Globo TV Gazeta Sul HD
+http://ccdn.so:80/vsabG/499AKVptc/72059.ts
+#EXTINF:-1,Globo TV Gazeta Sul SD
+http://ccdn.so:80/vsabG/499AKVptc/72060.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://ccdn.so:80/vsabG/499AKVptc/72061.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://ccdn.so:80/vsabG/499AKVptc/131154.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://ccdn.so:80/vsabG/499AKVptc/131175.ts
+#EXTINF:-1,Globo TV Integracao Araxa FHD
+http://ccdn.so:80/vsabG/499AKVptc/131203.ts
+#EXTINF:-1,Globo TV Integracao Araxa HD
+http://ccdn.so:80/vsabG/499AKVptc/131126.ts
+#EXTINF:-1,Globo TV Integracao Araxa SD
+http://ccdn.so:80/vsabG/499AKVptc/131140.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora FHD
+http://ccdn.so:80/vsabG/499AKVptc/72067.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora HD
+http://ccdn.so:80/vsabG/499AKVptc/72068.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora SD
+http://ccdn.so:80/vsabG/499AKVptc/131106.ts
+#EXTINF:-1,Globo TV Integracao Uberaba FHD
+http://ccdn.so:80/vsabG/499AKVptc/133052.ts
+#EXTINF:-1,Globo TV Integracao Uberaba HD
+http://ccdn.so:80/vsabG/499AKVptc/133053.ts
+#EXTINF:-1,Globo TV Integracao Uberaba SD
+http://ccdn.so:80/vsabG/499AKVptc/133054.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia FHD
+http://ccdn.so:80/vsabG/499AKVptc/133051.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia HD
+http://ccdn.so:80/vsabG/499AKVptc/93598.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia SD
+http://ccdn.so:80/vsabG/499AKVptc/93599.ts
+#EXTINF:-1,Globo TV Liberal Belem FHD
+http://ccdn.so:80/vsabG/499AKVptc/131152.ts
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://ccdn.so:80/vsabG/499AKVptc/72071.ts
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://ccdn.so:80/vsabG/499AKVptc/72072.ts
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+http://ccdn.so:80/vsabG/499AKVptc/133050.ts
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://ccdn.so:80/vsabG/499AKVptc/93600.ts
+#EXTINF:-1,Globo TV Mirante Cocais SD
+http://ccdn.so:80/vsabG/499AKVptc/93601.ts
+#EXTINF:-1,Globo TV Mirante Imperatriz HD
+http://ccdn.so:80/vsabG/499AKVptc/93602.ts
+#EXTINF:-1,Globo TV Mirante Imperatriz SD
+http://ccdn.so:80/vsabG/499AKVptc/93603.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+http://ccdn.so:80/vsabG/499AKVptc/131103.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://ccdn.so:80/vsabG/499AKVptc/72074.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://ccdn.so:80/vsabG/499AKVptc/131195.ts
+#EXTINF:-1,Globo TV Morena FHD
+http://ccdn.so:80/vsabG/499AKVptc/72076.ts
+#EXTINF:-1,Globo TV Morena HD
+http://ccdn.so:80/vsabG/499AKVptc/131169.ts
+#EXTINF:-1,Globo TV Morena SD
+http://ccdn.so:80/vsabG/499AKVptc/131122.ts
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://ccdn.so:80/vsabG/499AKVptc/72079.ts
+#EXTINF:-1,Globo TV Rio Sul HD
+http://ccdn.so:80/vsabG/499AKVptc/131128.ts
+#EXTINF:-1,Globo TV Rio Sul SD
+http://ccdn.so:80/vsabG/499AKVptc/72082.ts
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://ccdn.so:80/vsabG/499AKVptc/135420.ts
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://ccdn.so:80/vsabG/499AKVptc/135421.ts
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://ccdn.so:80/vsabG/499AKVptc/135422.ts
+#EXTINF:-1,Globo TV Sergipe FHD
+http://ccdn.so:80/vsabG/499AKVptc/131156.ts
+#EXTINF:-1,Globo TV Sergipe HD
+http://ccdn.so:80/vsabG/499AKVptc/131181.ts
+#EXTINF:-1,Globo TV Sergipe SD
+http://ccdn.so:80/vsabG/499AKVptc/131139.ts
+#EXTINF:-1,Globo TV Subae  HD
+http://ccdn.so:80/vsabG/499AKVptc/133068.ts
+#EXTINF:-1,Globo TV Subae FHD
+http://ccdn.so:80/vsabG/499AKVptc/133067.ts
+#EXTINF:-1,Globo TV Subae SD
+http://ccdn.so:80/vsabG/499AKVptc/133069.ts
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://ccdn.so:80/vsabG/499AKVptc/72092.ts
+#EXTINF:-1,Globo TV Sudoeste HD
+http://ccdn.so:80/vsabG/499AKVptc/72093.ts
+#EXTINF:-1,Globo TV Sudoeste SD
+http://ccdn.so:80/vsabG/499AKVptc/72094.ts
+#EXTINF:-1,Globo TV TEM Bauru FHD
+http://ccdn.so:80/vsabG/499AKVptc/91431.ts
+#EXTINF:-1,Globo TV TEM Bauru HD
+http://ccdn.so:80/vsabG/499AKVptc/91432.ts
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://ccdn.so:80/vsabG/499AKVptc/131120.ts
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+http://ccdn.so:80/vsabG/499AKVptc/91435.ts
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://ccdn.so:80/vsabG/499AKVptc/91436.ts
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+http://ccdn.so:80/vsabG/499AKVptc/131119.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto FHD
+http://ccdn.so:80/vsabG/499AKVptc/131155.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto HD
+http://ccdn.so:80/vsabG/499AKVptc/91434.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto SD
+http://ccdn.so:80/vsabG/499AKVptc/131205.ts
+#EXTINF:-1,Globo TV TEM Sorocaba FHD
+http://ccdn.so:80/vsabG/499AKVptc/131191.ts
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://ccdn.so:80/vsabG/499AKVptc/91439.ts
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://ccdn.so:80/vsabG/499AKVptc/131194.ts
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://ccdn.so:80/vsabG/499AKVptc/131135.ts
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://ccdn.so:80/vsabG/499AKVptc/131165.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://ccdn.so:80/vsabG/499AKVptc/131109.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos FHD
+http://ccdn.so:80/vsabG/499AKVptc/131211.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos HD
+http://ccdn.so:80/vsabG/499AKVptc/144027.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+http://ccdn.so:80/vsabG/499AKVptc/72624.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+http://ccdn.so:80/vsabG/499AKVptc/100375.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate HD
+http://ccdn.so:80/vsabG/499AKVptc/93605.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate SD
+http://ccdn.so:80/vsabG/499AKVptc/131187.ts
+#EXTINF:-1,Globo TV Verdes Mares 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/72080.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://ccdn.so:80/vsabG/499AKVptc/91440.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://ccdn.so:80/vsabG/499AKVptc/91441.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri SD
+http://ccdn.so:80/vsabG/499AKVptc/91442.ts
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://ccdn.so:80/vsabG/499AKVptc/131161.ts
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://ccdn.so:80/vsabG/499AKVptc/72096.ts
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://ccdn.so:80/vsabG/499AKVptc/131137.ts
+#EXTINF:-1,Gloob 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103498.ts
+#EXTINF:-1,Gloob FHD
+http://ccdn.so:80/vsabG/499AKVptc/131153.ts
+#EXTINF:-1,Gloob FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72099.ts
+#EXTINF:-1,Gloob HD
+http://ccdn.so:80/vsabG/499AKVptc/72100.ts
+#EXTINF:-1,Gloob SD
+http://ccdn.so:80/vsabG/499AKVptc/131117.ts
+#EXTINF:-1,Gloobinho 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103497.ts
+#EXTINF:-1,Gloobinho FHD
+http://ccdn.so:80/vsabG/499AKVptc/90631.ts
+#EXTINF:-1,Gloobinho FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/90630.ts
+#EXTINF:-1,Gloobinho HD
+http://ccdn.so:80/vsabG/499AKVptc/90629.ts
+#EXTINF:-1,Gloobinho SD
+http://ccdn.so:80/vsabG/499AKVptc/131173.ts
+#EXTINF:-1,GNT 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90638.ts
+#EXTINF:-1,GNT FHD
+http://ccdn.so:80/vsabG/499AKVptc/72102.ts
+#EXTINF:-1,GNT FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72103.ts
+#EXTINF:-1,GNT HD
+http://ccdn.so:80/vsabG/499AKVptc/72104.ts
+#EXTINF:-1,GNT SD
+http://ccdn.so:80/vsabG/499AKVptc/131136.ts
+#EXTINF:-1,H2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90245.ts
+#EXTINF:-1,H2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72106.ts
+#EXTINF:-1,H2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72107.ts
+#EXTINF:-1,H2 HD
+http://ccdn.so:80/vsabG/499AKVptc/72108.ts
+#EXTINF:-1,H2 SD
+http://ccdn.so:80/vsabG/499AKVptc/72109.ts
+#EXTINF:-1,HBO 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90246.ts
+#EXTINF:-1,HBO 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72110.ts
+#EXTINF:-1,HBO 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72111.ts
+#EXTINF:-1,HBO 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/72112.ts
+#EXTINF:-1,HBO 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/72113.ts
+#EXTINF:-1,HBO 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90247.ts
+#EXTINF:-1,HBO Family 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90637.ts
+#EXTINF:-1,HBO Family FHD
+http://ccdn.so:80/vsabG/499AKVptc/72114.ts
+#EXTINF:-1,HBO Family FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72115.ts
+#EXTINF:-1,HBO Family HD
+http://ccdn.so:80/vsabG/499AKVptc/72116.ts
+#EXTINF:-1,HBO Family SD
+http://ccdn.so:80/vsabG/499AKVptc/72117.ts
+#EXTINF:-1,HBO FHD
+http://ccdn.so:80/vsabG/499AKVptc/72118.ts
+#EXTINF:-1,HBO FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72119.ts
+#EXTINF:-1,HBO FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90698.ts
+#EXTINF:-1,HBO HD
+http://ccdn.so:80/vsabG/499AKVptc/72120.ts
+#EXTINF:-1,HBO HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90697.ts
+#EXTINF:-1,HBO Max 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140504.ts
+#EXTINF:-1,HBO Max 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/71904.ts
+#EXTINF:-1,HBO Max 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/140510.ts
+#EXTINF:-1,HBO Max 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140505.ts
+#EXTINF:-1,HBO Max 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/71905.ts
+#EXTINF:-1,HBO Max 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/140511.ts
+#EXTINF:-1,HBO Max 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140506.ts
+#EXTINF:-1,HBO Max 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/71906.ts
+#EXTINF:-1,HBO Max 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/140512.ts
+#EXTINF:-1,HBO Max 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140507.ts
+#EXTINF:-1,HBO Max 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/76673.ts
+#EXTINF:-1,HBO Max 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/140513.ts
+#EXTINF:-1,HBO Max 5 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140508.ts
+#EXTINF:-1,HBO Max 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/130196.ts
+#EXTINF:-1,HBO Max 5 SD
+http://ccdn.so:80/vsabG/499AKVptc/140514.ts
+#EXTINF:-1,HBO Max 6 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140509.ts
+#EXTINF:-1,HBO Max 6 HD
+http://ccdn.so:80/vsabG/499AKVptc/130197.ts
+#EXTINF:-1,HBO Max 6 SD
+http://ccdn.so:80/vsabG/499AKVptc/140515.ts
+#EXTINF:-1,HBO MUNDI 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103496.ts
+#EXTINF:-1,HBO Mundi FHD
+http://ccdn.so:80/vsabG/499AKVptc/72121.ts
+#EXTINF:-1,HBO Mundi FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72122.ts
+#EXTINF:-1,HBO Mundi FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90695.ts
+#EXTINF:-1,HBO Mundi HD
+http://ccdn.so:80/vsabG/499AKVptc/72123.ts
+#EXTINF:-1,HBO Mundi HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90694.ts
+#EXTINF:-1,HBO Mundi SD
+http://ccdn.so:80/vsabG/499AKVptc/72124.ts
+#EXTINF:-1,HBO Mundi SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90693.ts
+#EXTINF:-1,HBO Plus 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90635.ts
+#EXTINF:-1,HBO Plus FHD
+http://ccdn.so:80/vsabG/499AKVptc/72125.ts
+#EXTINF:-1,HBO Plus FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72126.ts
+#EXTINF:-1,HBO Plus FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90692.ts
+#EXTINF:-1,HBO Plus HD
+http://ccdn.so:80/vsabG/499AKVptc/72127.ts
+#EXTINF:-1,HBO Plus HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90691.ts
+#EXTINF:-1,HBO Plus SD
+http://ccdn.so:80/vsabG/499AKVptc/72128.ts
+#EXTINF:-1,HBO Plus SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90690.ts
+#EXTINF:-1,HBO POP 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103495.ts
+#EXTINF:-1,HBO Pop FHD
+http://ccdn.so:80/vsabG/499AKVptc/72129.ts
+#EXTINF:-1,HBO Pop FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72130.ts
+#EXTINF:-1,HBO Pop FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90689.ts
+#EXTINF:-1,HBO Pop HD
+http://ccdn.so:80/vsabG/499AKVptc/72131.ts
+#EXTINF:-1,HBO Pop HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90688.ts
+#EXTINF:-1,HBO Pop SD
+http://ccdn.so:80/vsabG/499AKVptc/72132.ts
+#EXTINF:-1,HBO Pop SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90687.ts
+#EXTINF:-1,HBO SD
+http://ccdn.so:80/vsabG/499AKVptc/72133.ts
+#EXTINF:-1,HBO SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90696.ts
+#EXTINF:-1,HBO Signature 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103494.ts
+#EXTINF:-1,HBO Signature FHD
+http://ccdn.so:80/vsabG/499AKVptc/72134.ts
+#EXTINF:-1,HBO Signature FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72135.ts
+#EXTINF:-1,HBO Signature FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90686.ts
+#EXTINF:-1,HBO Signature HD
+http://ccdn.so:80/vsabG/499AKVptc/72136.ts
+#EXTINF:-1,HBO Signature HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90685.ts
+#EXTINF:-1,HBO Signature SD
+http://ccdn.so:80/vsabG/499AKVptc/72137.ts
+#EXTINF:-1,HBO Signature SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90684.ts
+#EXTINF:-1,HBO Xtreme 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90636.ts
+#EXTINF:-1,HBO Xtreme FHD
+http://ccdn.so:80/vsabG/499AKVptc/72138.ts
+#EXTINF:-1,HBO Xtreme FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72139.ts
+#EXTINF:-1,HBO Xtreme FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90683.ts
+#EXTINF:-1,HBO Xtreme HD
+http://ccdn.so:80/vsabG/499AKVptc/72140.ts
+#EXTINF:-1,HBO Xtreme HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90682.ts
+#EXTINF:-1,HBO Xtreme SD
+http://ccdn.so:80/vsabG/499AKVptc/72141.ts
+#EXTINF:-1,HBO Xtreme SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90681.ts
+#EXTINF:-1,HGTV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103493.ts
+#EXTINF:-1,HGTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/72142.ts
+#EXTINF:-1,HGTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72143.ts
+#EXTINF:-1,HGTV HD
+http://ccdn.so:80/vsabG/499AKVptc/72144.ts
+#EXTINF:-1,HGTV SD
+http://ccdn.so:80/vsabG/499AKVptc/72145.ts
+#EXTINF:-1,History 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90244.ts
+#EXTINF:-1,History FHD
+http://ccdn.so:80/vsabG/499AKVptc/72146.ts
+#EXTINF:-1,History FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72147.ts
+#EXTINF:-1,History HD
+http://ccdn.so:80/vsabG/499AKVptc/72148.ts
+#EXTINF:-1,History SD
+http://ccdn.so:80/vsabG/499AKVptc/72149.ts
+#EXTINF:-1,ID 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90243.ts
+#EXTINF:-1,ID FHD
+http://ccdn.so:80/vsabG/499AKVptc/72150.ts
+#EXTINF:-1,ID FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72151.ts
+#EXTINF:-1,ID HD
+http://ccdn.so:80/vsabG/499AKVptc/72152.ts
+#EXTINF:-1,ID SD
+http://ccdn.so:80/vsabG/499AKVptc/72153.ts
+#EXTINF:-1,Ilha Record FHD
+http://ccdn.so:80/vsabG/499AKVptc/105100.ts
+#EXTINF:-1,Jovem Pan News 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/134021.ts
+#EXTINF:-1,Jovem Pan News FHD
+http://ccdn.so:80/vsabG/499AKVptc/134023.ts
+#EXTINF:-1,Jovem Pan News FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/134022.ts
+#EXTINF:-1,Jovem Pan News HD
+http://ccdn.so:80/vsabG/499AKVptc/134024.ts
+#EXTINF:-1,Jovem Pan News SD
+http://ccdn.so:80/vsabG/499AKVptc/134025.ts
+#EXTINF:-1,Lifetime 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103492.ts
+#EXTINF:-1,Lifetime FHD
+http://ccdn.so:80/vsabG/499AKVptc/72154.ts
+#EXTINF:-1,Lifetime FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72155.ts
+#EXTINF:-1,Lifetime HD
+http://ccdn.so:80/vsabG/499AKVptc/72156.ts
+#EXTINF:-1,Lifetime SD
+http://ccdn.so:80/vsabG/499AKVptc/72157.ts
+#EXTINF:-1,Liga Futsal 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/73006.ts
+#EXTINF:-1,Liga Futsal 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/109225.ts
+#EXTINF:-1,Liga Futsal 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/155741.ts
+#EXTINF:-1,Liga Futsal 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/155742.ts
+#EXTINF:-1,Liga Futsal 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/155743.ts
+#EXTINF:-1,Liga Futsal 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/155744.ts
+#EXTINF:-1,Liga Futsal 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/156663.ts
+#EXTINF:-1,Liga Futsal 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/156664.ts
+#EXTINF:-1,Liga Futsal 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/156665.ts
+#EXTINF:-1,Liga Futsal 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/156666.ts
+#EXTINF:-1,Liga Futsal 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/156667.ts
+#EXTINF:-1,Liga Futsal 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/156668.ts
+#EXTINF:-1,Like 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103491.ts
+#EXTINF:-1,Like FHD
+http://ccdn.so:80/vsabG/499AKVptc/72158.ts
+#EXTINF:-1,Like FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72159.ts
+#EXTINF:-1,Like HD
+http://ccdn.so:80/vsabG/499AKVptc/72160.ts
+#EXTINF:-1,Like SD
+http://ccdn.so:80/vsabG/499AKVptc/72161.ts
+#EXTINF:-1,Live Casimito Brasileirao FHD
+http://ccdn.so:80/vsabG/499AKVptc/158007.ts
+#EXTINF:-1,Live Casimito Brasileirao HD
+http://ccdn.so:80/vsabG/499AKVptc/158008.ts
+#EXTINF:-1,Live Casimito Brasileirao SD
+http://ccdn.so:80/vsabG/499AKVptc/158009.ts
+#EXTINF:-1,Loading FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104923.ts
+#EXTINF:-1,Loading TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/104921.ts
+#EXTINF:-1,Loading TV HD
+http://ccdn.so:80/vsabG/499AKVptc/104922.ts
+#EXTINF:-1,Loading TV SD
+http://ccdn.so:80/vsabG/499AKVptc/89700.ts
+#EXTINF:-1,Love Nature FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/73004.ts
+#EXTINF:-1,Modo Viagem 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103488.ts
+#EXTINF:-1,Modo Viagem FHD
+http://ccdn.so:80/vsabG/499AKVptc/72162.ts
+#EXTINF:-1,Modo Viagem FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72163.ts
+#EXTINF:-1,Modo Viagem HD
+http://ccdn.so:80/vsabG/499AKVptc/72164.ts
+#EXTINF:-1,Modo Viagem SD
+http://ccdn.so:80/vsabG/499AKVptc/72165.ts
+#EXTINF:-1,Mega TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/104924.ts
+#EXTINF:-1,Mega TV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104933.ts
+#EXTINF:-1,Mega TV HD
+http://ccdn.so:80/vsabG/499AKVptc/104925.ts
+#EXTINF:-1,Mega TV SD
+http://ccdn.so:80/vsabG/499AKVptc/104926.ts
+#EXTINF:-1,Megapix 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/131104.ts
+#EXTINF:-1,Megapix FHD
+http://ccdn.so:80/vsabG/499AKVptc/72166.ts
+#EXTINF:-1,Megapix FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72167.ts
+#EXTINF:-1,Megapix FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90680.ts
+#EXTINF:-1,Megapix HD
+http://ccdn.so:80/vsabG/499AKVptc/72169.ts
+#EXTINF:-1,Megapix HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/131118.ts
+#EXTINF:-1,Megapix SD
+http://ccdn.so:80/vsabG/499AKVptc/131204.ts
+#EXTINF:-1,Megapix SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/131171.ts
+#EXTINF:-1,MTV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103490.ts
+#EXTINF:-1,MTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/72171.ts
+#EXTINF:-1,MTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72172.ts
+#EXTINF:-1,MTV HD
+http://ccdn.so:80/vsabG/499AKVptc/72173.ts
+#EXTINF:-1,MTV LIVE 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103489.ts
+#EXTINF:-1,MTV Live FHD
+http://ccdn.so:80/vsabG/499AKVptc/72174.ts
+#EXTINF:-1,MTV Live FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72175.ts
+#EXTINF:-1,MTV Live HD
+http://ccdn.so:80/vsabG/499AKVptc/72176.ts
+#EXTINF:-1,MTV Live SD
+http://ccdn.so:80/vsabG/499AKVptc/72177.ts
+#EXTINF:-1,MTV SD
+http://ccdn.so:80/vsabG/499AKVptc/72178.ts
+#EXTINF:-1,MTVs 00 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103451.ts
+#EXTINF:-1,MTVs 00 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72423.ts
+#EXTINF:-1,MTVs 00 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72424.ts
+#EXTINF:-1,MTVs 00 HD
+http://ccdn.so:80/vsabG/499AKVptc/72425.ts
+#EXTINF:-1,MTVs 00 SD
+http://ccdn.so:80/vsabG/499AKVptc/72426.ts
+#EXTINF:-1,Multishow 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/131138.ts
+#EXTINF:-1,Multishow FHD
+http://ccdn.so:80/vsabG/499AKVptc/131193.ts
+#EXTINF:-1,Multishow FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/131107.ts
+#EXTINF:-1,Multishow HD
+http://ccdn.so:80/vsabG/499AKVptc/72182.ts
+#EXTINF:-1,Multishow SD
+http://ccdn.so:80/vsabG/499AKVptc/131134.ts
+#EXTINF:-1,Music Box Brazil 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103487.ts
+#EXTINF:-1,Music Box Brazil FHD
+http://ccdn.so:80/vsabG/499AKVptc/72184.ts
+#EXTINF:-1,Music Box Brazil FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72185.ts
+#EXTINF:-1,Music Box Brazil HD
+http://ccdn.so:80/vsabG/499AKVptc/72186.ts
+#EXTINF:-1,Music Box Brazil SD
+http://ccdn.so:80/vsabG/499AKVptc/72187.ts
+#EXTINF:-1,MyCujoo TV 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/75026.ts
+#EXTINF:-1,MyCujoo TV 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/77583.ts
+#EXTINF:-1,MyCujoo TV 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/77584.ts
+#EXTINF:-1,Nat Geo Wild 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90242.ts
+#EXTINF:-1,Nat Geo Wild FHD
+http://ccdn.so:80/vsabG/499AKVptc/72192.ts
+#EXTINF:-1,Nat Geo Wild FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72193.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://ccdn.so:80/vsabG/499AKVptc/72194.ts
+#EXTINF:-1,Nat Geo Wild SD
+http://ccdn.so:80/vsabG/499AKVptc/72195.ts
+#EXTINF:-1,National Geographic 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/72198.ts
+#EXTINF:-1,National Geographic FHD
+http://ccdn.so:80/vsabG/499AKVptc/72196.ts
+#EXTINF:-1,National Geographic FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72197.ts
+#EXTINF:-1,National Geographic HD
+http://ccdn.so:80/vsabG/499AKVptc/72199.ts
+#EXTINF:-1,National Geographic SD
+http://ccdn.so:80/vsabG/499AKVptc/72200.ts
+#EXTINF:-1,NBA League Pass 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140516.ts
+#EXTINF:-1,NBA League Pass 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/140517.ts
+#EXTINF:-1,NBA League Pass 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/140518.ts
+#EXTINF:-1,NBA League Pass 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140519.ts
+#EXTINF:-1,NBA League Pass 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/140520.ts
+#EXTINF:-1,NBA League Pass 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/140521.ts
+#EXTINF:-1,NBA League Pass 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140522.ts
+#EXTINF:-1,NBA League Pass 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/140523.ts
+#EXTINF:-1,NBA League Pass 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/140524.ts
+#EXTINF:-1,NBA League Pass 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/140525.ts
+#EXTINF:-1,NBA League Pass 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/140526.ts
+#EXTINF:-1,NBA League Pass 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/140527.ts
+#EXTINF:-1,NBA League Pass 5 FHD
+http://ccdn.so:80/vsabG/499AKVptc/141487.ts
+#EXTINF:-1,NBA League Pass 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/141488.ts
+#EXTINF:-1,NBA League Pass 5 SD
+http://ccdn.so:80/vsabG/499AKVptc/141489.ts
+#EXTINF:-1,NBA League Pass 6 FHD
+http://ccdn.so:80/vsabG/499AKVptc/141490.ts
+#EXTINF:-1,NBA League Pass 6 HD
+http://ccdn.so:80/vsabG/499AKVptc/141491.ts
+#EXTINF:-1,NBA League Pass 6 SD
+http://ccdn.so:80/vsabG/499AKVptc/141492.ts
+#EXTINF:-1,NHK SD
+http://ccdn.so:80/vsabG/499AKVptc/91990.ts
+#EXTINF:-1,Nick Jr FHD
+http://ccdn.so:80/vsabG/499AKVptc/72201.ts
+#EXTINF:-1,Nick Jr FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72202.ts
+#EXTINF:-1,Nick Jr HD
+http://ccdn.so:80/vsabG/499AKVptc/72203.ts
+#EXTINF:-1,Nick Jr SD
+http://ccdn.so:80/vsabG/499AKVptc/72204.ts
+#EXTINF:-1,Nick Jr. 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103485.ts
+#EXTINF:-1,Nickelodeon 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90241.ts
+#EXTINF:-1,Nickelodeon FHD
+http://ccdn.so:80/vsabG/499AKVptc/72205.ts
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72206.ts
+#EXTINF:-1,Nickelodeon HD
+http://ccdn.so:80/vsabG/499AKVptc/72207.ts
+#EXTINF:-1,Nickelodeon SD
+http://ccdn.so:80/vsabG/499AKVptc/72208.ts
+#EXTINF:-1,O Tempo Sports FHD
+http://ccdn.so:80/vsabG/499AKVptc/147524.ts
+#EXTINF:-1,O Tempo Sports HD
+http://ccdn.so:80/vsabG/499AKVptc/147525.ts
+#EXTINF:-1,O Tempo Sports SD
+http://ccdn.so:80/vsabG/499AKVptc/147526.ts
+#EXTINF:-1,OFF 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90240.ts
+#EXTINF:-1,OFF FHD
+http://ccdn.so:80/vsabG/499AKVptc/72209.ts
+#EXTINF:-1,OFF FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72210.ts
+#EXTINF:-1,OFF HD
+http://ccdn.so:80/vsabG/499AKVptc/72211.ts
+#EXTINF:-1,OFF SD
+http://ccdn.so:80/vsabG/499AKVptc/72212.ts
+#EXTINF:-1,Pai Eterno 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103484.ts
+#EXTINF:-1,Pai Eterno FHD
+http://ccdn.so:80/vsabG/499AKVptc/72213.ts
+#EXTINF:-1,Pai Eterno FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72216.ts
+#EXTINF:-1,Pai Eterno HD
+http://ccdn.so:80/vsabG/499AKVptc/72214.ts
+#EXTINF:-1,Pai Eterno SD
+http://ccdn.so:80/vsabG/499AKVptc/72215.ts
+#EXTINF:-1,Paramount Channel 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90634.ts
+#EXTINF:-1,Paramount Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/72217.ts
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72218.ts
+#EXTINF:-1,Paramount Channel HD
+http://ccdn.so:80/vsabG/499AKVptc/72219.ts
+#EXTINF:-1,Paramount Channel SD
+http://ccdn.so:80/vsabG/499AKVptc/72220.ts
+#EXTINF:-1,Paulistao 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/147528.ts
+#EXTINF:-1,Paulistao 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/147529.ts
+#EXTINF:-1,Paulistao 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/147530.ts
+#EXTINF:-1,Paulistao 2  FHD
+http://ccdn.so:80/vsabG/499AKVptc/71943.ts
+#EXTINF:-1,Paulistao 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/71945.ts
+#EXTINF:-1,Paulistao 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/71946.ts
+#EXTINF:-1,Polishop TV SD
+http://ccdn.so:80/vsabG/499AKVptc/104927.ts
+#EXTINF:-1,Power Couple Brasil FHD
+http://ccdn.so:80/vsabG/499AKVptc/159319.ts
+#EXTINF:-1,Premiere 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103482.ts
+#EXTINF:-1,Premiere 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72237.ts
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72238.ts
+#EXTINF:-1,Premiere 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/72239.ts
+#EXTINF:-1,Premiere 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/72240.ts
+#EXTINF:-1,Premiere 3 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103481.ts
+#EXTINF:-1,Premiere 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72241.ts
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72242.ts
+#EXTINF:-1,Premiere 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/72243.ts
+#EXTINF:-1,Premiere 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/72244.ts
+#EXTINF:-1,Premiere 4 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103480.ts
+#EXTINF:-1,Premiere 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72245.ts
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72246.ts
+#EXTINF:-1,Premiere 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/72247.ts
+#EXTINF:-1,Premiere 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/72248.ts
+#EXTINF:-1,Premiere 5 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103479.ts
+#EXTINF:-1,Premiere 5 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72249.ts
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72250.ts
+#EXTINF:-1,Premiere 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/72251.ts
+#EXTINF:-1,Premiere 5 SD
+http://ccdn.so:80/vsabG/499AKVptc/72252.ts
+#EXTINF:-1,Premiere 6 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103478.ts
+#EXTINF:-1,Premiere 6 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72253.ts
+#EXTINF:-1,Premiere 6 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72254.ts
+#EXTINF:-1,Premiere 6 HD
+http://ccdn.so:80/vsabG/499AKVptc/72255.ts
+#EXTINF:-1,Premiere 6 SD
+http://ccdn.so:80/vsabG/499AKVptc/72256.ts
+#EXTINF:-1,Premiere 7 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103477.ts
+#EXTINF:-1,Premiere 7 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72257.ts
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72258.ts
+#EXTINF:-1,Premiere 7 HD
+http://ccdn.so:80/vsabG/499AKVptc/72259.ts
+#EXTINF:-1,Premiere 7 SD
+http://ccdn.so:80/vsabG/499AKVptc/72260.ts
+#EXTINF:-1,Premiere 8 SD
+http://ccdn.so:80/vsabG/499AKVptc/72261.ts
+#EXTINF:-1,Premiere Clubes 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/72264.ts
+#EXTINF:-1,Premiere Clubes FHD
+http://ccdn.so:80/vsabG/499AKVptc/72262.ts
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72263.ts
+#EXTINF:-1,Premiere Clubes HD
+http://ccdn.so:80/vsabG/499AKVptc/72265.ts
+#EXTINF:-1,Premiere Clubes SD
+http://ccdn.so:80/vsabG/499AKVptc/72266.ts
+#EXTINF:-1,Prime Box Brazil 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103476.ts
+#EXTINF:-1,Prime Box Brazil FHD
+http://ccdn.so:80/vsabG/499AKVptc/72267.ts
+#EXTINF:-1,Prime Box Brazil FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72268.ts
+#EXTINF:-1,Prime Box Brazil HD
+http://ccdn.so:80/vsabG/499AKVptc/72269.ts
+#EXTINF:-1,Prime Box Brazil SD
+http://ccdn.so:80/vsabG/499AKVptc/72270.ts
+#EXTINF:-1,PT: 24 Kitchen FHD
+http://ccdn.so:80/vsabG/499AKVptc/74798.ts
+#EXTINF:-1,PT: 24 Kitchen FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74799.ts
+#EXTINF:-1,PT: A Bola TV
+http://ccdn.so:80/vsabG/499AKVptc/74800.ts
+#EXTINF:-1,PT: A Bola TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/74801.ts
+#EXTINF:-1,PT: Afro Music Channel
+http://ccdn.so:80/vsabG/499AKVptc/74802.ts
+#EXTINF:-1,PT: AMC
+http://ccdn.so:80/vsabG/499AKVptc/74803.ts
+#EXTINF:-1,PT: AMC FHD
+http://ccdn.so:80/vsabG/499AKVptc/74804.ts
+#EXTINF:-1,PT: AMC H265
+http://ccdn.so:80/vsabG/499AKVptc/74805.ts
+#EXTINF:-1,PT: ARTV Parlamento
+http://ccdn.so:80/vsabG/499AKVptc/74806.ts
+#EXTINF:-1,PT: AXN Black
+http://ccdn.so:80/vsabG/499AKVptc/74807.ts
+#EXTINF:-1,PT: AXN Black FHD
+http://ccdn.so:80/vsabG/499AKVptc/74808.ts
+#EXTINF:-1,PT: AXN Black FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74809.ts
+#EXTINF:-1,PT: AXN FHD
+http://ccdn.so:80/vsabG/499AKVptc/74810.ts
+#EXTINF:-1,PT: AXN FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74811.ts
+#EXTINF:-1,PT: AXN White
+http://ccdn.so:80/vsabG/499AKVptc/74812.ts
+#EXTINF:-1,PT: AXN White FHD
+http://ccdn.so:80/vsabG/499AKVptc/74813.ts
+#EXTINF:-1,PT: AXN White FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74814.ts
+#EXTINF:-1,PT: Baby TV
+http://ccdn.so:80/vsabG/499AKVptc/74815.ts
+#EXTINF:-1,PT: BBC World News
+http://ccdn.so:80/vsabG/499AKVptc/74816.ts
+#EXTINF:-1,PT: Blaze
+http://ccdn.so:80/vsabG/499AKVptc/74817.ts
+#EXTINF:-1,PT: Blaze FHD
+http://ccdn.so:80/vsabG/499AKVptc/74818.ts
+#EXTINF:-1,PT: Bloomberg
+http://ccdn.so:80/vsabG/499AKVptc/74819.ts
+#EXTINF:-1,PT: BTV
+http://ccdn.so:80/vsabG/499AKVptc/74821.ts
+#EXTINF:-1,PT: BTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/74823.ts
+#EXTINF:-1,PT: BTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74824.ts
+#EXTINF:-1,PT: BTV HD
+http://ccdn.so:80/vsabG/499AKVptc/74825.ts
+#EXTINF:-1,PT: BTV SD
+http://ccdn.so:80/vsabG/499AKVptc/74822.ts
+#EXTINF:-1,PT: Cacavision
+http://ccdn.so:80/vsabG/499AKVptc/74826.ts
+#EXTINF:-1,PT: Canal 11
+http://ccdn.so:80/vsabG/499AKVptc/74827.ts
+#EXTINF:-1,PT: Canal 11 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74828.ts
+#EXTINF:-1,PT: Canal 11 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74829.ts
+#EXTINF:-1,PT: Canal Historia
+http://ccdn.so:80/vsabG/499AKVptc/74830.ts
+#EXTINF:-1,PT: Canal Panda
+http://ccdn.so:80/vsabG/499AKVptc/74831.ts
+#EXTINF:-1,PT: Canal Q
+http://ccdn.so:80/vsabG/499AKVptc/74832.ts
+#EXTINF:-1,PT: CANCAO NOVA
+http://ccdn.so:80/vsabG/499AKVptc/74833.ts
+#EXTINF:-1,PT: Cartoon Network
+http://ccdn.so:80/vsabG/499AKVptc/74834.ts
+#EXTINF:-1,PT: Caza e Pesca
+http://ccdn.so:80/vsabG/499AKVptc/74835.ts
+#EXTINF:-1,PT: CBS Reality
+http://ccdn.so:80/vsabG/499AKVptc/74836.ts
+#EXTINF:-1,PT: CineMundo
+http://ccdn.so:80/vsabG/499AKVptc/74837.ts
+#EXTINF:-1,PT: CineMundo FHD
+http://ccdn.so:80/vsabG/499AKVptc/74838.ts
+#EXTINF:-1,PT: Clubbing TV
+http://ccdn.so:80/vsabG/499AKVptc/74839.ts
+#EXTINF:-1,PT: CMTV
+http://ccdn.so:80/vsabG/499AKVptc/74840.ts
+#EXTINF:-1,PT: CMTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/74841.ts
+#EXTINF:-1,PT: CNBC
+http://ccdn.so:80/vsabG/499AKVptc/74842.ts
+#EXTINF:-1,PT: CNN
+http://ccdn.so:80/vsabG/499AKVptc/74843.ts
+#EXTINF:-1,PT: Crime Investigation
+http://ccdn.so:80/vsabG/499AKVptc/74844.ts
+#EXTINF:-1,PT: Discovery Channel
+http://ccdn.so:80/vsabG/499AKVptc/74845.ts
+#EXTINF:-1,PT: Discovery Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/74846.ts
+#EXTINF:-1,PT: Discovery FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74847.ts
+#EXTINF:-1,PT: Disney Channel
+http://ccdn.so:80/vsabG/499AKVptc/74848.ts
+#EXTINF:-1,PT: Disney Junior
+http://ccdn.so:80/vsabG/499AKVptc/74849.ts
+#EXTINF:-1,PT: E! Entertainment
+http://ccdn.so:80/vsabG/499AKVptc/74851.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74853.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74854.ts
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/74855.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74857.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74858.ts
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/74859.ts
+#EXTINF:-1,PT: Eleven Sports 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/74856.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74861.ts
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/74862.ts
+#EXTINF:-1,PT: Eleven Sports 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/74860.ts
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/74865.ts
+#EXTINF:-1,PT: Eleven Sports 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/74863.ts
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74867.ts
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/74868.ts
+#EXTINF:-1,PT: Eleven Sports 5 SD
+http://ccdn.so:80/vsabG/499AKVptc/74866.ts
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74870.ts
+#EXTINF:-1,PT: Eleven Sports 6 SD
+http://ccdn.so:80/vsabG/499AKVptc/74869.ts
+#EXTINF:-1,PT: Euronews
+http://ccdn.so:80/vsabG/499AKVptc/74871.ts
+#EXTINF:-1,PT: Eurosport 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74872.ts
+#EXTINF:-1,PT: EuroSport 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74873.ts
+#EXTINF:-1,PT: Eurosport 2
+http://ccdn.so:80/vsabG/499AKVptc/74874.ts
+#EXTINF:-1,PT: Fashion TV
+http://ccdn.so:80/vsabG/499AKVptc/74875.ts
+#EXTINF:-1,PT: Fight Network FHD
+http://ccdn.so:80/vsabG/499AKVptc/74876.ts
+#EXTINF:-1,PT: Fine Living Network FHD
+http://ccdn.so:80/vsabG/499AKVptc/74877.ts
+#EXTINF:-1,PT: Food Network FHD
+http://ccdn.so:80/vsabG/499AKVptc/74878.ts
+#EXTINF:-1,PT: Fox
+http://ccdn.so:80/vsabG/499AKVptc/74879.ts
+#EXTINF:-1,PT: Fox Comedy
+http://ccdn.so:80/vsabG/499AKVptc/74880.ts
+#EXTINF:-1,PT: Fox Comedy FHD
+http://ccdn.so:80/vsabG/499AKVptc/74881.ts
+#EXTINF:-1,PT: Fox Crime
+http://ccdn.so:80/vsabG/499AKVptc/74882.ts
+#EXTINF:-1,PT: Fox Crime FHD
+http://ccdn.so:80/vsabG/499AKVptc/74883.ts
+#EXTINF:-1,PT: FOX Crime FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74884.ts
+#EXTINF:-1,PT: Fox FHD
+http://ccdn.so:80/vsabG/499AKVptc/74885.ts
+#EXTINF:-1,PT: FOX FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74886.ts
+#EXTINF:-1,PT: Fox Life
+http://ccdn.so:80/vsabG/499AKVptc/74887.ts
+#EXTINF:-1,PT: Fox Life FHD
+http://ccdn.so:80/vsabG/499AKVptc/74888.ts
+#EXTINF:-1,PT: FOX Life FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74889.ts
+#EXTINF:-1,PT: Fox Movies
+http://ccdn.so:80/vsabG/499AKVptc/74890.ts
+#EXTINF:-1,PT: Fox Movies FHD
+http://ccdn.so:80/vsabG/499AKVptc/74891.ts
+#EXTINF:-1,PT: Fox News
+http://ccdn.so:80/vsabG/499AKVptc/74892.ts
+#EXTINF:-1,PT: Fuel TV
+http://ccdn.so:80/vsabG/499AKVptc/74893.ts
+#EXTINF:-1,PT: Fuel TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/74894.ts
+#EXTINF:-1,PT: Hollywood
+http://ccdn.so:80/vsabG/499AKVptc/74895.ts
+#EXTINF:-1,PT: Hollywood FHD
+http://ccdn.so:80/vsabG/499AKVptc/74896.ts
+#EXTINF:-1,PT: Hollywood FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74897.ts
+#EXTINF:-1,PT: IConcerts FHD
+http://ccdn.so:80/vsabG/499AKVptc/74898.ts
+#EXTINF:-1,PT: ID Investigation Discovery FHD
+http://ccdn.so:80/vsabG/499AKVptc/74899.ts
+#EXTINF:-1,PT: Jim Jam
+http://ccdn.so:80/vsabG/499AKVptc/74900.ts
+#EXTINF:-1,PT: Kombat Sport
+http://ccdn.so:80/vsabG/499AKVptc/74901.ts
+#EXTINF:-1,PT: LocalVisao HD
+http://ccdn.so:80/vsabG/499AKVptc/74902.ts
+#EXTINF:-1,PT: Luxe.TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/74903.ts
+#EXTINF:-1,PT: MCM Pop
+http://ccdn.so:80/vsabG/499AKVptc/74904.ts
+#EXTINF:-1,PT: MCM Top
+http://ccdn.so:80/vsabG/499AKVptc/74905.ts
+#EXTINF:-1,PT: Mezzo
+http://ccdn.so:80/vsabG/499AKVptc/74906.ts
+#EXTINF:-1,PT: Motorvision
+http://ccdn.so:80/vsabG/499AKVptc/74907.ts
+#EXTINF:-1,PT: MTV Portugal
+http://ccdn.so:80/vsabG/499AKVptc/74908.ts
+#EXTINF:-1,PT: MTV Portugal FHD
+http://ccdn.so:80/vsabG/499AKVptc/74909.ts
+#EXTINF:-1,PT: MVM TV
+http://ccdn.so:80/vsabG/499AKVptc/74910.ts
+#EXTINF:-1,PT: My Cuisinne
+http://ccdn.so:80/vsabG/499AKVptc/74911.ts
+#EXTINF:-1,PT: Nat Geo
+http://ccdn.so:80/vsabG/499AKVptc/74912.ts
+#EXTINF:-1,PT: Nat Geo FHD
+http://ccdn.so:80/vsabG/499AKVptc/74913.ts
+#EXTINF:-1,PT: Nat Geo FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74914.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://ccdn.so:80/vsabG/499AKVptc/74915.ts
+#EXTINF:-1,PT: Nat Geo Wild FHD
+http://ccdn.so:80/vsabG/499AKVptc/74916.ts
+#EXTINF:-1,PT: NBA
+http://ccdn.so:80/vsabG/499AKVptc/74917.ts
+#EXTINF:-1,PT: NBA FHD
+http://ccdn.so:80/vsabG/499AKVptc/74918.ts
+#EXTINF:-1,PT: Nick JR.
+http://ccdn.so:80/vsabG/499AKVptc/74919.ts
+#EXTINF:-1,PT: Nickelodeon
+http://ccdn.so:80/vsabG/499AKVptc/74920.ts
+#EXTINF:-1,PT: NOS Studios
+http://ccdn.so:80/vsabG/499AKVptc/74921.ts
+#EXTINF:-1,PT: NOS Studios FHD
+http://ccdn.so:80/vsabG/499AKVptc/74922.ts
+#EXTINF:-1,PT: NOS Studios FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74923.ts
+#EXTINF:-1,PT: Odisseia
+http://ccdn.so:80/vsabG/499AKVptc/74924.ts
+#EXTINF:-1,PT: Odisseia FHD
+http://ccdn.so:80/vsabG/499AKVptc/74925.ts
+#EXTINF:-1,PT: Panda Biggs
+http://ccdn.so:80/vsabG/499AKVptc/74926.ts
+#EXTINF:-1,PT: PFC
+http://ccdn.so:80/vsabG/499AKVptc/74927.ts
+#EXTINF:-1,PT: Porto Canal
+http://ccdn.so:80/vsabG/499AKVptc/74928.ts
+#EXTINF:-1,PT: Porto Canal FHD
+http://ccdn.so:80/vsabG/499AKVptc/74929.ts
+#EXTINF:-1,PT: RECORD TV (NA)
+http://ccdn.so:80/vsabG/499AKVptc/74930.ts
+#EXTINF:-1,PT: RTP 1
+http://ccdn.so:80/vsabG/499AKVptc/74931.ts
+#EXTINF:-1,PT: RTP 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74932.ts
+#EXTINF:-1,PT: RTP 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74933.ts
+#EXTINF:-1,PT: RTP 2
+http://ccdn.so:80/vsabG/499AKVptc/74934.ts
+#EXTINF:-1,PT: RTP 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74935.ts
+#EXTINF:-1,PT: RTP 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74936.ts
+#EXTINF:-1,PT: RTP 3
+http://ccdn.so:80/vsabG/499AKVptc/74937.ts
+#EXTINF:-1,PT: RTP 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74938.ts
+#EXTINF:-1,PT: RTP Acores
+http://ccdn.so:80/vsabG/499AKVptc/74939.ts
+#EXTINF:-1,PT: RTP Africa
+http://ccdn.so:80/vsabG/499AKVptc/74940.ts
+#EXTINF:-1,PT: RTP Madeira
+http://ccdn.so:80/vsabG/499AKVptc/74941.ts
+#EXTINF:-1,PT: RTP Memoria
+http://ccdn.so:80/vsabG/499AKVptc/74942.ts
+#EXTINF:-1,PT: Santuario Fatima
+http://ccdn.so:80/vsabG/499AKVptc/74943.ts
+#EXTINF:-1,PT: Saude FHD
+http://ccdn.so:80/vsabG/499AKVptc/74944.ts
+#EXTINF:-1,PT: SIC
+http://ccdn.so:80/vsabG/499AKVptc/74945.ts
+#EXTINF:-1,PT: SIC Caras
+http://ccdn.so:80/vsabG/499AKVptc/74946.ts
+#EXTINF:-1,PT: SIC Caras FHD
+http://ccdn.so:80/vsabG/499AKVptc/74947.ts
+#EXTINF:-1,PT: SIC FHD
+http://ccdn.so:80/vsabG/499AKVptc/74948.ts
+#EXTINF:-1,PT: SIC FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74949.ts
+#EXTINF:-1,PT: Sic Kids FHD
+http://ccdn.so:80/vsabG/499AKVptc/74950.ts
+#EXTINF:-1,PT: SIC Mulher
+http://ccdn.so:80/vsabG/499AKVptc/74951.ts
+#EXTINF:-1,PT: SIC Mulher FHD
+http://ccdn.so:80/vsabG/499AKVptc/74952.ts
+#EXTINF:-1,PT: SIC Noticias
+http://ccdn.so:80/vsabG/499AKVptc/74953.ts
+#EXTINF:-1,PT: SIC Noticias FHD
+http://ccdn.so:80/vsabG/499AKVptc/74954.ts
+#EXTINF:-1,PT: SIC Radical
+http://ccdn.so:80/vsabG/499AKVptc/74955.ts
+#EXTINF:-1,PT: SIC Radical FHD
+http://ccdn.so:80/vsabG/499AKVptc/74956.ts
+#EXTINF:-1,PT: Sky News
+http://ccdn.so:80/vsabG/499AKVptc/74957.ts
+#EXTINF:-1,PT: Sport TV 1
+http://ccdn.so:80/vsabG/499AKVptc/74958.ts
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74960.ts
+#EXTINF:-1,PT: Sport TV 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74961.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/74962.ts
+#EXTINF:-1,PT: Sport TV 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/74959.ts
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74965.ts
+#EXTINF:-1,PT: Sport TV 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74966.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/74967.ts
+#EXTINF:-1,PT: Sport TV 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/74964.ts
+#EXTINF:-1,PT: Sport TV 3
+http://ccdn.so:80/vsabG/499AKVptc/74968.ts
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74969.ts
+#EXTINF:-1,PT: Sport TV 3 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74970.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/74971.ts
+#EXTINF:-1,PT: Sport TV 4
+http://ccdn.so:80/vsabG/499AKVptc/74972.ts
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74973.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/74974.ts
+#EXTINF:-1,PT: Sport TV 5
+http://ccdn.so:80/vsabG/499AKVptc/74975.ts
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74976.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/74977.ts
+#EXTINF:-1,PT: Sport TV NBA FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74978.ts
+#EXTINF:-1,PT: Sport TV+
+http://ccdn.so:80/vsabG/499AKVptc/74979.ts
+#EXTINF:-1,PT: Sport TV+ FHD
+http://ccdn.so:80/vsabG/499AKVptc/74980.ts
+#EXTINF:-1,PT: Sporting TV
+http://ccdn.so:80/vsabG/499AKVptc/74981.ts
+#EXTINF:-1,PT: Sporting TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/74982.ts
+#EXTINF:-1,PT: SyFy
+http://ccdn.so:80/vsabG/499AKVptc/74983.ts
+#EXTINF:-1,PT: SyFy FHD
+http://ccdn.so:80/vsabG/499AKVptc/74984.ts
+#EXTINF:-1,PT: TCV Internacional
+http://ccdn.so:80/vsabG/499AKVptc/74985.ts
+#EXTINF:-1,PT: TPA Internacional
+http://ccdn.so:80/vsabG/499AKVptc/74989.ts
+#EXTINF:-1,PT: Trace & Urban
+http://ccdn.so:80/vsabG/499AKVptc/74990.ts
+#EXTINF:-1,PT: Trace & Urban FHD
+http://ccdn.so:80/vsabG/499AKVptc/74991.ts
+#EXTINF:-1,PT: Trace Toca
+http://ccdn.so:80/vsabG/499AKVptc/74992.ts
+#EXTINF:-1,PT: Travel Channel
+http://ccdn.so:80/vsabG/499AKVptc/74993.ts
+#EXTINF:-1,PT: Travel Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/74994.ts
+#EXTINF:-1,PT: TV Globo
+http://ccdn.so:80/vsabG/499AKVptc/131218.ts
+#EXTINF:-1,PT: TV Globo FHD
+http://ccdn.so:80/vsabG/499AKVptc/131216.ts
+#EXTINF:-1,PT: TV Globo NOW
+http://ccdn.so:80/vsabG/499AKVptc/131208.ts
+#EXTINF:-1,PT: TV RECORD
+http://ccdn.so:80/vsabG/499AKVptc/74998.ts
+#EXTINF:-1,PT: TV Record FHD
+http://ccdn.so:80/vsabG/499AKVptc/74999.ts
+#EXTINF:-1,PT: TV Series FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/75000.ts
+#EXTINF:-1,PT: TVC News
+http://ccdn.so:80/vsabG/499AKVptc/75001.ts
+#EXTINF:-1,PT: TVCine ACTION
+http://ccdn.so:80/vsabG/499AKVptc/75002.ts
+#EXTINF:-1,PT: TVCine ACTION FHD
+http://ccdn.so:80/vsabG/499AKVptc/75003.ts
+#EXTINF:-1,PT: TVCine Action FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/75004.ts
+#EXTINF:-1,PT: TVCine EDITION
+http://ccdn.so:80/vsabG/499AKVptc/75005.ts
+#EXTINF:-1,PT: TVCine EDITION FHD
+http://ccdn.so:80/vsabG/499AKVptc/75006.ts
+#EXTINF:-1,PT: TVCine Edition FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/75007.ts
+#EXTINF:-1,PT: TVCine EMOTION
+http://ccdn.so:80/vsabG/499AKVptc/75008.ts
+#EXTINF:-1,PT: TVCine EMOTION FHD
+http://ccdn.so:80/vsabG/499AKVptc/75009.ts
+#EXTINF:-1,PT: TVCine Emotion FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/75010.ts
+#EXTINF:-1,PT: TVCine TOP
+http://ccdn.so:80/vsabG/499AKVptc/75011.ts
+#EXTINF:-1,PT: TVCine TOP FHD
+http://ccdn.so:80/vsabG/499AKVptc/75012.ts
+#EXTINF:-1,PT: TVCine Top FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/75013.ts
+#EXTINF:-1,PT: TVI
+http://ccdn.so:80/vsabG/499AKVptc/75014.ts
+#EXTINF:-1,PT: TVI 24
+http://ccdn.so:80/vsabG/499AKVptc/75015.ts
+#EXTINF:-1,PT: TVI 24 FHD
+http://ccdn.so:80/vsabG/499AKVptc/75016.ts
+#EXTINF:-1,PT: TVI FHD
+http://ccdn.so:80/vsabG/499AKVptc/75017.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://ccdn.so:80/vsabG/499AKVptc/75018.ts
+#EXTINF:-1,PT: TVI Ficcao FHD
+http://ccdn.so:80/vsabG/499AKVptc/75019.ts
+#EXTINF:-1,PT: TVI Reality
+http://ccdn.so:80/vsabG/499AKVptc/75021.ts
+#EXTINF:-1,PT: TVI Reality FHD
+http://ccdn.so:80/vsabG/499AKVptc/75022.ts
+#EXTINF:-1,PT: VH1
+http://ccdn.so:80/vsabG/499AKVptc/75023.ts
+#EXTINF:-1,PT: VH1 Classic
+http://ccdn.so:80/vsabG/499AKVptc/75024.ts
+#EXTINF:-1,PT: ZAP Viva FHD
+http://ccdn.so:80/vsabG/499AKVptc/75025.ts
+#EXTINF:-1,Record News FHD
+http://ccdn.so:80/vsabG/499AKVptc/72271.ts
+#EXTINF:-1,Record News HD
+http://ccdn.so:80/vsabG/499AKVptc/72272.ts
+#EXTINF:-1,Record News SD
+http://ccdn.so:80/vsabG/499AKVptc/72273.ts
+#EXTINF:-1,RecordTV Atalaia HD
+http://ccdn.so:80/vsabG/499AKVptc/111242.ts
+#EXTINF:-1,RecordTV BA HD
+http://ccdn.so:80/vsabG/499AKVptc/72976.ts
+#EXTINF:-1,RecordTV Belem FHD
+http://ccdn.so:80/vsabG/499AKVptc/102254.ts
+#EXTINF:-1,RecordTV Belem HD
+http://ccdn.so:80/vsabG/499AKVptc/96523.ts
+#EXTINF:-1,RecordTV Belem SD
+http://ccdn.so:80/vsabG/499AKVptc/73262.ts
+#EXTINF:-1,RecordTV Brasilia HD
+http://ccdn.so:80/vsabG/499AKVptc/72629.ts
+#EXTINF:-1,RecordTV Brasilia SD
+http://ccdn.so:80/vsabG/499AKVptc/96524.ts
+#EXTINF:-1,RecordTV Cabrália HD
+http://ccdn.so:80/vsabG/499AKVptc/72275.ts
+#EXTINF:-1,RecordTV GO FHD
+http://ccdn.so:80/vsabG/499AKVptc/102253.ts
+#EXTINF:-1,RecordTV GO HD
+http://ccdn.so:80/vsabG/499AKVptc/72278.ts
+#EXTINF:-1,RecordTV GO SD
+http://ccdn.so:80/vsabG/499AKVptc/72279.ts
+#EXTINF:-1,RecordTV Interior RJ FHD
+http://ccdn.so:80/vsabG/499AKVptc/102255.ts
+#EXTINF:-1,RecordTV Interior RJ HD
+http://ccdn.so:80/vsabG/499AKVptc/102256.ts
+#EXTINF:-1,RecordTV Interior RJ SD
+http://ccdn.so:80/vsabG/499AKVptc/102257.ts
+#EXTINF:-1,RecordTV Interior SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/102258.ts
+#EXTINF:-1,RecordTV Interior SP HD
+http://ccdn.so:80/vsabG/499AKVptc/102259.ts
+#EXTINF:-1,RecordTV Interior SP SD
+http://ccdn.so:80/vsabG/499AKVptc/102260.ts
+#EXTINF:-1,RecordTV Itapoan FHD
+http://ccdn.so:80/vsabG/499AKVptc/157406.ts
+#EXTINF:-1,RecordTV Itapoan HD
+http://ccdn.so:80/vsabG/499AKVptc/72284.ts
+#EXTINF:-1,RecordTV Itapoan SD
+http://ccdn.so:80/vsabG/499AKVptc/72285.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraiba FHD
+http://ccdn.so:80/vsabG/499AKVptc/102261.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraiba HD
+http://ccdn.so:80/vsabG/499AKVptc/102262.ts
+#EXTINF:-1,RecordTV Litoral/Vale do Paraiba SD
+http://ccdn.so:80/vsabG/499AKVptc/102263.ts
+#EXTINF:-1,RecordTV MG FHD
+http://ccdn.so:80/vsabG/499AKVptc/102252.ts
+#EXTINF:-1,RecordTV MG HD
+http://ccdn.so:80/vsabG/499AKVptc/72619.ts
+#EXTINF:-1,RecordTV MG SD
+http://ccdn.so:80/vsabG/499AKVptc/96525.ts
+#EXTINF:-1,RecordTV RJ FHD
+http://ccdn.so:80/vsabG/499AKVptc/106638.ts
+#EXTINF:-1,RecordTV RJ HD
+http://ccdn.so:80/vsabG/499AKVptc/72594.ts
+#EXTINF:-1,RecordTV RJ SD
+http://ccdn.so:80/vsabG/499AKVptc/96526.ts
+#EXTINF:-1,RecordTV RS FHD
+http://ccdn.so:80/vsabG/499AKVptc/102251.ts
+#EXTINF:-1,RecordTV RS HD
+http://ccdn.so:80/vsabG/499AKVptc/72974.ts
+#EXTINF:-1,RecordTV RS SD
+http://ccdn.so:80/vsabG/499AKVptc/72975.ts
+#EXTINF:-1,RecordTV Sao Jose do Rio Preto FHD
+http://ccdn.so:80/vsabG/499AKVptc/102264.ts
+#EXTINF:-1,RecordTV Sao Jose do Rio Preto HD
+http://ccdn.so:80/vsabG/499AKVptc/102265.ts
+#EXTINF:-1,RecordTV Sao Jose do Rio Preto SD
+http://ccdn.so:80/vsabG/499AKVptc/102266.ts
+#EXTINF:-1,RecordTV SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/77654.ts
+#EXTINF:-1,RecordTV SP FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72595.ts
+#EXTINF:-1,RecordTV SP HD
+http://ccdn.so:80/vsabG/499AKVptc/72973.ts
+#EXTINF:-1,RecordTV SP SD
+http://ccdn.so:80/vsabG/499AKVptc/96522.ts
+#EXTINF:-1,Rede 21 SD
+http://ccdn.so:80/vsabG/499AKVptc/104928.ts
+#EXTINF:-1,Rede Gospel FHD
+http://ccdn.so:80/vsabG/499AKVptc/104929.ts
+#EXTINF:-1,Rede Gospel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104932.ts
+#EXTINF:-1,Rede Gospel HD
+http://ccdn.so:80/vsabG/499AKVptc/104930.ts
+#EXTINF:-1,Rede Gospel SD
+http://ccdn.so:80/vsabG/499AKVptc/104931.ts
+#EXTINF:-1,Rede Vida 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103475.ts
+#EXTINF:-1,Rede Vida FHD
+http://ccdn.so:80/vsabG/499AKVptc/72293.ts
+#EXTINF:-1,Rede Vida FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72294.ts
+#EXTINF:-1,Rede Vida HD
+http://ccdn.so:80/vsabG/499AKVptc/72295.ts
+#EXTINF:-1,Rede Vida SD
+http://ccdn.so:80/vsabG/499AKVptc/72296.ts
+#EXTINF:-1,RedeTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/72297.ts
+#EXTINF:-1,RedeTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72298.ts
+#EXTINF:-1,RedeTV HD
+http://ccdn.so:80/vsabG/499AKVptc/72299.ts
+#EXTINF:-1,RedeTV SD
+http://ccdn.so:80/vsabG/499AKVptc/72300.ts
+#EXTINF:-1,RIT TV SD
+http://ccdn.so:80/vsabG/499AKVptc/72301.ts
+#EXTINF:-1,Sabor & Arte 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/112013.ts
+#EXTINF:-1,Sabor & Arte FHD
+http://ccdn.so:80/vsabG/499AKVptc/112017.ts
+#EXTINF:-1,Sabor & Arte FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/112014.ts
+#EXTINF:-1,Sabor & Arte HD
+http://ccdn.so:80/vsabG/499AKVptc/112016.ts
+#EXTINF:-1,Sabor & Arte SD
+http://ccdn.so:80/vsabG/499AKVptc/112015.ts
+#EXTINF:-1,SBT Rede Massa PR FHD
+http://ccdn.so:80/vsabG/499AKVptc/72303.ts
+#EXTINF:-1,SBT Rede Massa PR HD
+http://ccdn.so:80/vsabG/499AKVptc/72305.ts
+#EXTINF:-1,SBT Rede Massa PR SD
+http://ccdn.so:80/vsabG/499AKVptc/72306.ts
+#EXTINF:-1,SBT RJ FHD
+http://ccdn.so:80/vsabG/499AKVptc/108681.ts
+#EXTINF:-1,SBT RJ HD
+http://ccdn.so:80/vsabG/499AKVptc/108682.ts
+#EXTINF:-1,SBT RJ SD
+http://ccdn.so:80/vsabG/499AKVptc/108683.ts
+#EXTINF:-1,SBT RS HD
+http://ccdn.so:80/vsabG/499AKVptc/75028.ts
+#EXTINF:-1,SBT SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/77963.ts
+#EXTINF:-1,SBT SP FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104939.ts
+#EXTINF:-1,SBT SP HD
+http://ccdn.so:80/vsabG/499AKVptc/72598.ts
+#EXTINF:-1,SBT SP SD
+http://ccdn.so:80/vsabG/499AKVptc/77964.ts
+#EXTINF:-1,SBT TV Alterosa HD
+http://ccdn.so:80/vsabG/499AKVptc/72621.ts
+#EXTINF:-1,Shoptime SD
+http://ccdn.so:80/vsabG/499AKVptc/72311.ts
+#EXTINF:-1,SIC Internacional SD
+http://ccdn.so:80/vsabG/499AKVptc/72312.ts
+#EXTINF:-1,Smithsonian 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103473.ts
+#EXTINF:-1,Smithsonian FHD
+http://ccdn.so:80/vsabG/499AKVptc/72313.ts
+#EXTINF:-1,Smithsonian FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72314.ts
+#EXTINF:-1,Smithsonian HD
+http://ccdn.so:80/vsabG/499AKVptc/72315.ts
+#EXTINF:-1,Smithsonian SD
+http://ccdn.so:80/vsabG/499AKVptc/72316.ts
+#EXTINF:-1,Space 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90633.ts
+#EXTINF:-1,Space FHD
+http://ccdn.so:80/vsabG/499AKVptc/72317.ts
+#EXTINF:-1,Space FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72318.ts
+#EXTINF:-1,Space FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90677.ts
+#EXTINF:-1,Space HD
+http://ccdn.so:80/vsabG/499AKVptc/72319.ts
+#EXTINF:-1,Space HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90676.ts
+#EXTINF:-1,Space SD
+http://ccdn.so:80/vsabG/499AKVptc/72320.ts
+#EXTINF:-1,Space SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90675.ts
+#EXTINF:-1,SporTV 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103472.ts
+#EXTINF:-1,SporTV 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72321.ts
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/131147.ts
+#EXTINF:-1,SporTV 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/131176.ts
+#EXTINF:-1,SporTV 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/72324.ts
+#EXTINF:-1,SporTV 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/72325.ts
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72326.ts
+#EXTINF:-1,SporTV 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/131113.ts
+#EXTINF:-1,SporTV 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/131108.ts
+#EXTINF:-1,SporTV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/131188.ts
+#EXTINF:-1,SporTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/72329.ts
+#EXTINF:-1,SporTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72330.ts
+#EXTINF:-1,SporTV HD
+http://ccdn.so:80/vsabG/499AKVptc/72332.ts
+#EXTINF:-1,SporTV SD
+http://ccdn.so:80/vsabG/499AKVptc/131132.ts
+#EXTINF:-1,SporTV3 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103471.ts
+#EXTINF:-1,Star + 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/142032.ts
+#EXTINF:-1,Star + 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/128347.ts
+#EXTINF:-1,Star + 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/142033.ts
+#EXTINF:-1,Star + 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/142034.ts
+#EXTINF:-1,Star + 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/129345.ts
+#EXTINF:-1,Star + 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/142035.ts
+#EXTINF:-1,Star + 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/142036.ts
+#EXTINF:-1,Star + 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/129346.ts
+#EXTINF:-1,Star + 3 SD
+http://ccdn.so:80/vsabG/499AKVptc/142037.ts
+#EXTINF:-1,Star + 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/142038.ts
+#EXTINF:-1,Star + 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/129347.ts
+#EXTINF:-1,Star + 4 SD
+http://ccdn.so:80/vsabG/499AKVptc/142039.ts
+#EXTINF:-1,Star Channel 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90249.ts
+#EXTINF:-1,Star Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/71936.ts
+#EXTINF:-1,Star Channel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71937.ts
+#EXTINF:-1,Star Channel FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90707.ts
+#EXTINF:-1,Star Channel HD
+http://ccdn.so:80/vsabG/499AKVptc/71938.ts
+#EXTINF:-1,Star Channel HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90706.ts
+#EXTINF:-1,Star Channel SD
+http://ccdn.so:80/vsabG/499AKVptc/71951.ts
+#EXTINF:-1,Star Channel SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90705.ts
+#EXTINF:-1,Star Hits 2 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103470.ts
+#EXTINF:-1,Star Hits 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/71947.ts
+#EXTINF:-1,Star Hits 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71948.ts
+#EXTINF:-1,Star Hits 2 FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90701.ts
+#EXTINF:-1,Star Hits 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/71949.ts
+#EXTINF:-1,Star Hits 2 HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90700.ts
+#EXTINF:-1,Star Hits 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/71950.ts
+#EXTINF:-1,Star Hits 2 SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90699.ts
+#EXTINF:-1,Star Hits 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103469.ts
+#EXTINF:-1,Star Hits FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71944.ts
+#EXTINF:-1,Star Hits FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90704.ts
+#EXTINF:-1,Star Hits HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90703.ts
+#EXTINF:-1,Star Hits SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90702.ts
+#EXTINF:-1,Studio Universal 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103467.ts
+#EXTINF:-1,Studio Universal FHD
+http://ccdn.so:80/vsabG/499AKVptc/72334.ts
+#EXTINF:-1,Studio Universal FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72335.ts
+#EXTINF:-1,Studio Universal HD
+http://ccdn.so:80/vsabG/499AKVptc/72336.ts
+#EXTINF:-1,Studio Universal SD
+http://ccdn.so:80/vsabG/499AKVptc/72337.ts
+#EXTINF:-1,SYFY 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103474.ts
+#EXTINF:-1,SyFy FHD
+http://ccdn.so:80/vsabG/499AKVptc/72338.ts
+#EXTINF:-1,SyFy FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72339.ts
+#EXTINF:-1,SyFy HD
+http://ccdn.so:80/vsabG/499AKVptc/72340.ts
+#EXTINF:-1,SyFy SD
+http://ccdn.so:80/vsabG/499AKVptc/72341.ts
+#EXTINF:-1,TBS 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103466.ts
+#EXTINF:-1,TBS FHD
+http://ccdn.so:80/vsabG/499AKVptc/72342.ts
+#EXTINF:-1,TBS FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72343.ts
+#EXTINF:-1,TBS HD
+http://ccdn.so:80/vsabG/499AKVptc/72344.ts
+#EXTINF:-1,TBS SD
+http://ccdn.so:80/vsabG/499AKVptc/72345.ts
+#EXTINF:-1,TCM FHD
+http://ccdn.so:80/vsabG/499AKVptc/73251.ts
+#EXTINF:-1,TCM HD
+http://ccdn.so:80/vsabG/499AKVptc/73252.ts
+#EXTINF:-1,TCM SD
+http://ccdn.so:80/vsabG/499AKVptc/73253.ts
+#EXTINF:-1,Telecine Action 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90239.ts
+#EXTINF:-1,Telecine Action FHD
+http://ccdn.so:80/vsabG/499AKVptc/72346.ts
+#EXTINF:-1,Telecine Action FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72347.ts
+#EXTINF:-1,Telecine Action FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90668.ts
+#EXTINF:-1,Telecine Action HD
+http://ccdn.so:80/vsabG/499AKVptc/72348.ts
+#EXTINF:-1,Telecine Action HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90667.ts
+#EXTINF:-1,Telecine Action SD
+http://ccdn.so:80/vsabG/499AKVptc/72349.ts
+#EXTINF:-1,Telecine Action SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90666.ts
+#EXTINF:-1,Telecine Cult 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103456.ts
+#EXTINF:-1,Telecine Cult FHD
+http://ccdn.so:80/vsabG/499AKVptc/72350.ts
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72351.ts
+#EXTINF:-1,Telecine Cult FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90665.ts
+#EXTINF:-1,Telecine Cult HD
+http://ccdn.so:80/vsabG/499AKVptc/72352.ts
+#EXTINF:-1,Telecine Cult HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90664.ts
+#EXTINF:-1,Telecine Cult SD
+http://ccdn.so:80/vsabG/499AKVptc/72353.ts
+#EXTINF:-1,Telecine Cult SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90663.ts
+#EXTINF:-1,Telecine Fun 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103455.ts
+#EXTINF:-1,Telecine Fun FHD
+http://ccdn.so:80/vsabG/499AKVptc/72354.ts
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72355.ts
+#EXTINF:-1,Telecine Fun FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90662.ts
+#EXTINF:-1,Telecine Fun HD
+http://ccdn.so:80/vsabG/499AKVptc/72356.ts
+#EXTINF:-1,Telecine Fun HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90661.ts
+#EXTINF:-1,Telecine Fun SD
+http://ccdn.so:80/vsabG/499AKVptc/72357.ts
+#EXTINF:-1,Telecine Fun SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90660.ts
+#EXTINF:-1,Telecine Pipoca 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90238.ts
+#EXTINF:-1,Telecine Pipoca FHD
+http://ccdn.so:80/vsabG/499AKVptc/72358.ts
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72359.ts
+#EXTINF:-1,Telecine Pipoca FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90659.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://ccdn.so:80/vsabG/499AKVptc/72360.ts
+#EXTINF:-1,Telecine Pipoca HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90658.ts
+#EXTINF:-1,Telecine Pipoca SD
+http://ccdn.so:80/vsabG/499AKVptc/72361.ts
+#EXTINF:-1,Telecine Pipoca SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90657.ts
+#EXTINF:-1,Telecine Premium 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90237.ts
+#EXTINF:-1,Telecine Premium FHD
+http://ccdn.so:80/vsabG/499AKVptc/72362.ts
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72363.ts
+#EXTINF:-1,Telecine Premium FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90656.ts
+#EXTINF:-1,Telecine Premium HD
+http://ccdn.so:80/vsabG/499AKVptc/72364.ts
+#EXTINF:-1,Telecine Premium HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90655.ts
+#EXTINF:-1,Telecine Premium SD
+http://ccdn.so:80/vsabG/499AKVptc/72365.ts
+#EXTINF:-1,Telecine Premium SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90654.ts
+#EXTINF:-1,Telecine Touch 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103454.ts
+#EXTINF:-1,Telecine Touch FHD
+http://ccdn.so:80/vsabG/499AKVptc/72366.ts
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72367.ts
+#EXTINF:-1,Telecine Touch FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90653.ts
+#EXTINF:-1,Telecine Touch HD
+http://ccdn.so:80/vsabG/499AKVptc/72368.ts
+#EXTINF:-1,Telecine Touch HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90652.ts
+#EXTINF:-1,Telecine Touch SD
+http://ccdn.so:80/vsabG/499AKVptc/72369.ts
+#EXTINF:-1,Telecine Touch SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90651.ts
+#EXTINF:-1,Terra Viva SD
+http://ccdn.so:80/vsabG/499AKVptc/72370.ts
+#EXTINF:-1,TLC 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103465.ts
+#EXTINF:-1,TLC FHD
+http://ccdn.so:80/vsabG/499AKVptc/72371.ts
+#EXTINF:-1,TLC FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72372.ts
+#EXTINF:-1,TLC HD
+http://ccdn.so:80/vsabG/499AKVptc/72373.ts
+#EXTINF:-1,TLC SD
+http://ccdn.so:80/vsabG/499AKVptc/72374.ts
+#EXTINF:-1,TNT 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/72377.ts
+#EXTINF:-1,TNT FHD
+http://ccdn.so:80/vsabG/499AKVptc/72375.ts
+#EXTINF:-1,TNT FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72376.ts
+#EXTINF:-1,TNT FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90674.ts
+#EXTINF:-1,TNT HD
+http://ccdn.so:80/vsabG/499AKVptc/72378.ts
+#EXTINF:-1,TNT HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90673.ts
+#EXTINF:-1,TNT SD
+http://ccdn.so:80/vsabG/499AKVptc/72379.ts
+#EXTINF:-1,TNT SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90672.ts
+#EXTINF:-1,TNT Series 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/72382.ts
+#EXTINF:-1,TNT Series FHD
+http://ccdn.so:80/vsabG/499AKVptc/72380.ts
+#EXTINF:-1,TNT Series FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72381.ts
+#EXTINF:-1,TNT Series FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90671.ts
+#EXTINF:-1,TNT Series HD
+http://ccdn.so:80/vsabG/499AKVptc/72383.ts
+#EXTINF:-1,TNT Series HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90670.ts
+#EXTINF:-1,TNT Series SD
+http://ccdn.so:80/vsabG/499AKVptc/72384.ts
+#EXTINF:-1,TNT Series SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90669.ts
+#EXTINF:-1,Tooncast SD
+http://ccdn.so:80/vsabG/499AKVptc/72385.ts
+#EXTINF:-1,Trace Brazuca 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103453.ts
+#EXTINF:-1,Trace Brazuca FHD
+http://ccdn.so:80/vsabG/499AKVptc/72386.ts
+#EXTINF:-1,Trace Brazuca FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72387.ts
+#EXTINF:-1,Trace Brazuca HD
+http://ccdn.so:80/vsabG/499AKVptc/72388.ts
+#EXTINF:-1,Trace Brazuca SD
+http://ccdn.so:80/vsabG/499AKVptc/72389.ts
+#EXTINF:-1,Travel Box Brazil 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103452.ts
+#EXTINF:-1,Travel Box Brazil FHD
+http://ccdn.so:80/vsabG/499AKVptc/72390.ts
+#EXTINF:-1,Travel Box Brazil FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72391.ts
+#EXTINF:-1,Travel Box Brazil HD
+http://ccdn.so:80/vsabG/499AKVptc/72392.ts
+#EXTINF:-1,Travel Box Brazil SD
+http://ccdn.so:80/vsabG/499AKVptc/72393.ts
+#EXTINF:-1,TruTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/76668.ts
+#EXTINF:-1,TruTV HD
+http://ccdn.so:80/vsabG/499AKVptc/76669.ts
+#EXTINF:-1,TruTV SD
+http://ccdn.so:80/vsabG/499AKVptc/76670.ts
+#EXTINF:-1,TV Aparecida 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103464.ts
+#EXTINF:-1,TV Aparecida FHD
+http://ccdn.so:80/vsabG/499AKVptc/72394.ts
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72395.ts
+#EXTINF:-1,TV Aparecida HD
+http://ccdn.so:80/vsabG/499AKVptc/72396.ts
+#EXTINF:-1,TV Aparecida SD
+http://ccdn.so:80/vsabG/499AKVptc/72397.ts
+#EXTINF:-1,TV Aratu SBT Bahia HD
+http://ccdn.so:80/vsabG/499AKVptc/73260.ts
+#EXTINF:-1,TV Brasil 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/72398.ts
+#EXTINF:-1,TV Brasil 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103463.ts
+#EXTINF:-1,TV Brasil FHD
+http://ccdn.so:80/vsabG/499AKVptc/72399.ts
+#EXTINF:-1,TV Brasil FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72400.ts
+#EXTINF:-1,TV Brasil HD
+http://ccdn.so:80/vsabG/499AKVptc/72401.ts
+#EXTINF:-1,TV Brasil SD
+http://ccdn.so:80/vsabG/499AKVptc/72402.ts
+#EXTINF:-1,TV Camara SD
+http://ccdn.so:80/vsabG/499AKVptc/72403.ts
+#EXTINF:-1,TV Cancao Nova SD
+http://ccdn.so:80/vsabG/499AKVptc/72404.ts
+#EXTINF:-1,TV Cidade - RECORDTV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103462.ts
+#EXTINF:-1,TV Cidade RecordTV FHD
+http://ccdn.so:80/vsabG/499AKVptc/92666.ts
+#EXTINF:-1,TV Cidade RecordTV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/92667.ts
+#EXTINF:-1,TV Cidade RecordTV HD
+http://ccdn.so:80/vsabG/499AKVptc/92668.ts
+#EXTINF:-1,TV Cidade RecordTV SD
+http://ccdn.so:80/vsabG/499AKVptc/92669.ts
+#EXTINF:-1,TV Coxa HD
+http://ccdn.so:80/vsabG/499AKVptc/105790.ts
+#EXTINF:-1,TV Diario 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103461.ts
+#EXTINF:-1,TV Diario Fortaleza FHD
+http://ccdn.so:80/vsabG/499AKVptc/92670.ts
+#EXTINF:-1,TV Diario Fortaleza HD
+http://ccdn.so:80/vsabG/499AKVptc/72593.ts
+#EXTINF:-1,TV Diario Fortaleza SD
+http://ccdn.so:80/vsabG/499AKVptc/92671.ts
+#EXTINF:-1,TV Evangelizar SD
+http://ccdn.so:80/vsabG/499AKVptc/72628.ts
+#EXTINF:-1,TV Gazeta FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104919.ts
+#EXTINF:-1,TV Gazeta SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/104917.ts
+#EXTINF:-1,TV Gazeta SP HD
+http://ccdn.so:80/vsabG/499AKVptc/72406.ts
+#EXTINF:-1,TV Gazeta SP SD
+http://ccdn.so:80/vsabG/499AKVptc/104918.ts
+#EXTINF:-1,TV Guarapari FHD
+http://ccdn.so:80/vsabG/499AKVptc/79313.ts
+#EXTINF:-1,TV Guarapari HD
+http://ccdn.so:80/vsabG/499AKVptc/79314.ts
+#EXTINF:-1,TV Guarapari SD
+http://ccdn.so:80/vsabG/499AKVptc/79315.ts
+#EXTINF:-1,TV Jangadeiro - SBT 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103460.ts
+#EXTINF:-1,TV Jangadeiro - SBT FHD
+http://ccdn.so:80/vsabG/499AKVptc/100416.ts
+#EXTINF:-1,TV Jangadeiro - SBT FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/100417.ts
+#EXTINF:-1,TV Jangadeiro - SBT HD
+http://ccdn.so:80/vsabG/499AKVptc/100418.ts
+#EXTINF:-1,TV Jangadeiro - SBT SD
+http://ccdn.so:80/vsabG/499AKVptc/100419.ts
+#EXTINF:-1,TV Justiça SD
+http://ccdn.so:80/vsabG/499AKVptc/77620.ts
+#EXTINF:-1,TV Novo Tempo 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103459.ts
+#EXTINF:-1,TV Novo Tempo FHD
+http://ccdn.so:80/vsabG/499AKVptc/72408.ts
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72409.ts
+#EXTINF:-1,TV Novo Tempo HD
+http://ccdn.so:80/vsabG/499AKVptc/72410.ts
+#EXTINF:-1,TV Novo Tempo SD
+http://ccdn.so:80/vsabG/499AKVptc/72411.ts
+#EXTINF:-1,TV Ra Tim Bum 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103458.ts
+#EXTINF:-1,TV Ra-Tim-Bum FHD
+http://ccdn.so:80/vsabG/499AKVptc/72412.ts
+#EXTINF:-1,TV Ra-Tim-Bum FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72413.ts
+#EXTINF:-1,TV Ra-Tim-Bum HD
+http://ccdn.so:80/vsabG/499AKVptc/72414.ts
+#EXTINF:-1,TV Ra-Tim-Bum SD
+http://ccdn.so:80/vsabG/499AKVptc/72415.ts
+#EXTINF:-1,TV Senado SD
+http://ccdn.so:80/vsabG/499AKVptc/72416.ts
+#EXTINF:-1,TV Uniao 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103457.ts
+#EXTINF:-1,TV Uniao Fortaleza FHD
+http://ccdn.so:80/vsabG/499AKVptc/100420.ts
+#EXTINF:-1,TV Uniao Fortaleza FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/100422.ts
+#EXTINF:-1,TV Uniao Fortaleza HD
+http://ccdn.so:80/vsabG/499AKVptc/100423.ts
+#EXTINF:-1,TV Uniao Fortaleza SD
+http://ccdn.so:80/vsabG/499AKVptc/100424.ts
+#EXTINF:-1,TV WA SD
+http://ccdn.so:80/vsabG/499AKVptc/72417.ts
+#EXTINF:-1,TV5 Monde SD
+http://ccdn.so:80/vsabG/499AKVptc/72418.ts
+#EXTINF:-1,Universal TV 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90632.ts
+#EXTINF:-1,Universal TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/72419.ts
+#EXTINF:-1,Universal TV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72420.ts
+#EXTINF:-1,Universal TV HD
+http://ccdn.so:80/vsabG/499AKVptc/72421.ts
+#EXTINF:-1,Universal TV SD
+http://ccdn.so:80/vsabG/499AKVptc/72422.ts
+#EXTINF:-1,Viva 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103450.ts
+#EXTINF:-1,Viva FHD
+http://ccdn.so:80/vsabG/499AKVptc/72427.ts
+#EXTINF:-1,Viva FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72428.ts
+#EXTINF:-1,Viva HD
+http://ccdn.so:80/vsabG/499AKVptc/72429.ts
+#EXTINF:-1,Viva SD
+http://ccdn.so:80/vsabG/499AKVptc/72430.ts
+#EXTINF:-1,Warner Channel 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/90236.ts
+#EXTINF:-1,Warner Channel FHD
+http://ccdn.so:80/vsabG/499AKVptc/72431.ts
+#EXTINF:-1,Warner Channel FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72432.ts
+#EXTINF:-1,Warner Channel FHD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90650.ts
+#EXTINF:-1,Warner Channel HD
+http://ccdn.so:80/vsabG/499AKVptc/72433.ts
+#EXTINF:-1,Warner Channel HD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90649.ts
+#EXTINF:-1,Warner Channel SD
+http://ccdn.so:80/vsabG/499AKVptc/72434.ts
+#EXTINF:-1,Warner Channel SD [LEG]
+http://ccdn.so:80/vsabG/499AKVptc/90648.ts
+#EXTINF:-1,Woohoo 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103449.ts
+#EXTINF:-1,WooHoo FHD
+http://ccdn.so:80/vsabG/499AKVptc/72435.ts
+#EXTINF:-1,WooHoo FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72436.ts
+#EXTINF:-1,WooHoo HD
+http://ccdn.so:80/vsabG/499AKVptc/72437.ts
+#EXTINF:-1,WooHoo SD
+http://ccdn.so:80/vsabG/499AKVptc/72438.ts
+#EXTINF:-1,Zoomoo FHD
+http://ccdn.so:80/vsabG/499AKVptc/104934.ts
+#EXTINF:-1,Zoomoo FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104937.ts
+#EXTINF:-1,Zoomoo HD
+http://ccdn.so:80/vsabG/499AKVptc/104935.ts
+#EXTINF:-1,Zoomoo SD
+http://ccdn.so:80/vsabG/499AKVptc/104936.ts
+#EXTINF:-1,[24h] 101 Dalmatas
+http://ccdn.so:80/vsabG/499AKVptc/137614.ts
+#EXTINF:-1,[24H] 3 Palavrinhas
+http://ccdn.so:80/vsabG/499AKVptc/138711.ts
+#EXTINF:-1,[24H] 44 Gatos
+http://ccdn.so:80/vsabG/499AKVptc/137410.ts
+#EXTINF:-1,[24H] A Beleza Secreta dos Animais
+http://ccdn.so:80/vsabG/499AKVptc/138011.ts
+#EXTINF:-1,[24H] A Bruxinha Sabrina
+http://ccdn.so:80/vsabG/499AKVptc/138935.ts
+#EXTINF:-1,[24H] A Casa da Coruja
+http://ccdn.so:80/vsabG/499AKVptc/137411.ts
+#EXTINF:-1,[24H] A Casa da Coruja
+http://ccdn.so:80/vsabG/499AKVptc/151948.ts
+#EXTINF:-1,[24H] A Casa do Mickey Mouse
+http://ccdn.so:80/vsabG/499AKVptc/137412.ts
+#EXTINF:-1,[24H] A Casa Magica da Gabby
+http://ccdn.so:80/vsabG/499AKVptc/137137.ts
+#EXTINF:-1,[24H] A Cegonha da Perna Fina
+http://ccdn.so:80/vsabG/499AKVptc/138936.ts
+#EXTINF:-1,[24H] A Culpa e da Carlota
+http://ccdn.so:80/vsabG/499AKVptc/140763.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral Na Estrada
+http://ccdn.so:80/vsabG/499AKVptc/140764.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S01]
+http://ccdn.so:80/vsabG/499AKVptc/140765.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S02]
+http://ccdn.so:80/vsabG/499AKVptc/140766.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S03]
+http://ccdn.so:80/vsabG/499AKVptc/140767.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S04]
+http://ccdn.so:80/vsabG/499AKVptc/140768.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S05]
+http://ccdn.so:80/vsabG/499AKVptc/140769.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S06]
+http://ccdn.so:80/vsabG/499AKVptc/140770.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S07]
+http://ccdn.so:80/vsabG/499AKVptc/140771.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S08]
+http://ccdn.so:80/vsabG/499AKVptc/140772.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S09]
+http://ccdn.so:80/vsabG/499AKVptc/140773.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S10]
+http://ccdn.so:80/vsabG/499AKVptc/140774.ts
+#EXTINF:-1,[24H] A Diarista
+http://ccdn.so:80/vsabG/499AKVptc/139273.ts
+#EXTINF:-1,[24H] A Familia Addams
+http://ccdn.so:80/vsabG/499AKVptc/138937.ts
+#EXTINF:-1,[24H] A Familia Dracula
+http://ccdn.so:80/vsabG/499AKVptc/152013.ts
+#EXTINF:-1,[24H] A Familia Urso
+http://ccdn.so:80/vsabG/499AKVptc/135544.ts
+#EXTINF:-1,[24H] A Formiga e O Tamandua
+http://ccdn.so:80/vsabG/499AKVptc/135535.ts
+#EXTINF:-1,[24H] A Grande Familia [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137413.ts
+#EXTINF:-1,[24H] A Grande Familia [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137414.ts
+#EXTINF:-1,[24H] A Grande Familia [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137415.ts
+#EXTINF:-1,[24H] A Grande Familia [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137416.ts
+#EXTINF:-1,[24H] A Grande Familia [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137417.ts
+#EXTINF:-1,[24H] A Grande Familia [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137418.ts
+#EXTINF:-1,[24H] A Grande Familia [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137419.ts
+#EXTINF:-1,[24H] A Grande Familia [S08]
+http://ccdn.so:80/vsabG/499AKVptc/137420.ts
+#EXTINF:-1,[24H] A Grande Familia [S09]
+http://ccdn.so:80/vsabG/499AKVptc/137421.ts
+#EXTINF:-1,[24H] A Grande Familia [S10]
+http://ccdn.so:80/vsabG/499AKVptc/137422.ts
+#EXTINF:-1,[24H] A Grande Familia [S11]
+http://ccdn.so:80/vsabG/499AKVptc/137423.ts
+#EXTINF:-1,[24H] A Grande Familia [S12]
+http://ccdn.so:80/vsabG/499AKVptc/137424.ts
+#EXTINF:-1,[24H] A Grande Familia [S13]
+http://ccdn.so:80/vsabG/499AKVptc/137425.ts
+#EXTINF:-1,[24H] A Grande Familia [S14]
+http://ccdn.so:80/vsabG/499AKVptc/137426.ts
+#EXTINF:-1,[24H] A Lula Lele
+http://ccdn.so:80/vsabG/499AKVptc/135536.ts
+#EXTINF:-1,[24H] A Pantera Cor de Rosa
+http://ccdn.so:80/vsabG/499AKVptc/135537.ts
+#EXTINF:-1,[24H] A Pequena Sereia
+http://ccdn.so:80/vsabG/499AKVptc/135538.ts
+#EXTINF:-1,[24H] A Turma do Charlie Brown e Snoopy
+http://ccdn.so:80/vsabG/499AKVptc/137409.ts
+#EXTINF:-1,[24H] A Turma do Manda Chuva
+http://ccdn.so:80/vsabG/499AKVptc/135539.ts
+#EXTINF:-1,[24H] A Turma do Pateta
+http://ccdn.so:80/vsabG/499AKVptc/138812.ts
+#EXTINF:-1,[24H] A Vaca e o Frango
+http://ccdn.so:80/vsabG/499AKVptc/135553.ts
+#EXTINF:-1,[24H] A Vila [S01]
+http://ccdn.so:80/vsabG/499AKVptc/140730.ts
+#EXTINF:-1,[24H] A Vila [S02]
+http://ccdn.so:80/vsabG/499AKVptc/140731.ts
+#EXTINF:-1,[24H] A Vila [S03]
+http://ccdn.so:80/vsabG/499AKVptc/140732.ts
+#EXTINF:-1,[24H] A Vila [S04]
+http://ccdn.so:80/vsabG/499AKVptc/140733.ts
+#EXTINF:-1,[24H] Aaahh!!! Monstros
+http://ccdn.so:80/vsabG/499AKVptc/135549.ts
+#EXTINF:-1,[24H] Acampamento Lakebottom
+http://ccdn.so:80/vsabG/499AKVptc/141493.ts
+#EXTINF:-1,[24H] Aeon Flux
+http://ccdn.so:80/vsabG/499AKVptc/136697.ts
+#EXTINF:-1,[24H] Aeroporto Area Restrita [S01]
+http://ccdn.so:80/vsabG/499AKVptc/150488.ts
+#EXTINF:-1,[24H] Aeroporto Area Restrita [S02]
+http://ccdn.so:80/vsabG/499AKVptc/150489.ts
+#EXTINF:-1,[24H] Aeroporto Area Restrita [S03]
+http://ccdn.so:80/vsabG/499AKVptc/150490.ts
+#EXTINF:-1,[24H] Agente K.C
+http://ccdn.so:80/vsabG/499AKVptc/155407.ts
+#EXTINF:-1,[24H] Aladdin
+http://ccdn.so:80/vsabG/499AKVptc/138730.ts
+#EXTINF:-1,[24H] Alf O Eteimoso
+http://ccdn.so:80/vsabG/499AKVptc/135550.ts
+#EXTINF:-1,[24H] Alien TV
+http://ccdn.so:80/vsabG/499AKVptc/140775.ts
+#EXTINF:-1,[24H] Alienigenas do Passado
+http://ccdn.so:80/vsabG/499AKVptc/140734.ts
+#EXTINF:-1,[24H] Ana Pimentinha
+http://ccdn.so:80/vsabG/499AKVptc/138939.ts
+#EXTINF:-1,[24H] Andy Panda
+http://ccdn.so:80/vsabG/499AKVptc/140776.ts
+#EXTINF:-1,[24H] Animaniacs (1993)
+http://ccdn.so:80/vsabG/499AKVptc/135540.ts
+#EXTINF:-1,[24H] Animaniacs (2020)
+http://ccdn.so:80/vsabG/499AKVptc/135541.ts
+#EXTINF:-1,[24H] Anota Ai
+http://ccdn.so:80/vsabG/499AKVptc/140777.ts
+#EXTINF:-1,[24H] Arquivo Morto [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138731.ts
+#EXTINF:-1,[24H] Arquivo Morto [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138732.ts
+#EXTINF:-1,[24H] Arquivo Morto [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138733.ts
+#EXTINF:-1,[24H] Arquivo Morto [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138734.ts
+#EXTINF:-1,[24H] Arquivo Morto [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138735.ts
+#EXTINF:-1,[24H] Arquivo Morto [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138736.ts
+#EXTINF:-1,[24H] Arquivo Morto [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138737.ts
+#EXTINF:-1,[24H] Arquivo X [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138738.ts
+#EXTINF:-1,[24H] Arquivo X [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138739.ts
+#EXTINF:-1,[24H] Arquivo X [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138740.ts
+#EXTINF:-1,[24H] Arquivo X [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138741.ts
+#EXTINF:-1,[24H] Arquivo X [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138742.ts
+#EXTINF:-1,[24H] Arquivo X [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138743.ts
+#EXTINF:-1,[24H] Arquivo X [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138744.ts
+#EXTINF:-1,[24H] Arquivo X [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138745.ts
+#EXTINF:-1,[24H] Arquivo X [S09]
+http://ccdn.so:80/vsabG/499AKVptc/138746.ts
+#EXTINF:-1,[24H] Arquivo X [S10]
+http://ccdn.so:80/vsabG/499AKVptc/138747.ts
+#EXTINF:-1,[24H] Arquivo X [S11]
+http://ccdn.so:80/vsabG/499AKVptc/138748.ts
+#EXTINF:-1,[24H] As Aventura de Tom e Jerry
+http://ccdn.so:80/vsabG/499AKVptc/136815.ts
+#EXTINF:-1,[24H] As Aventuras de Jackie Chan
+http://ccdn.so:80/vsabG/499AKVptc/135542.ts
+#EXTINF:-1,[24H] As Aventuras do Batman
+http://ccdn.so:80/vsabG/499AKVptc/135543.ts
+#EXTINF:-1,[24H] As Aventuras do Gato de Botas
+http://ccdn.so:80/vsabG/499AKVptc/140528.ts
+#EXTINF:-1,[24H] As Meninas Superpoderosas
+http://ccdn.so:80/vsabG/499AKVptc/137138.ts
+#EXTINF:-1,[24H] As Novas Aventuras de Christine
+http://ccdn.so:80/vsabG/499AKVptc/138749.ts
+#EXTINF:-1,[24H] As Novas Aventuras do Superman
+http://ccdn.so:80/vsabG/499AKVptc/135554.ts
+#EXTINF:-1,[24H] As Novas Aventuras do Ursinho Puff
+http://ccdn.so:80/vsabG/499AKVptc/135557.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja (1987)
+http://ccdn.so:80/vsabG/499AKVptc/150494.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S01]
+http://ccdn.so:80/vsabG/499AKVptc/151613.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S02]
+http://ccdn.so:80/vsabG/499AKVptc/151614.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S03]
+http://ccdn.so:80/vsabG/499AKVptc/151615.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S04]
+http://ccdn.so:80/vsabG/499AKVptc/151616.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S05]
+http://ccdn.so:80/vsabG/499AKVptc/151617.ts
+#EXTINF:-1,[24H] As Terriveis Aventuras de Billy e Mandy
+http://ccdn.so:80/vsabG/499AKVptc/135551.ts
+#EXTINF:-1,[24H] As Visoes da Raven
+http://ccdn.so:80/vsabG/499AKVptc/135558.ts
+#EXTINF:-1,[24H] Austin e Ally
+http://ccdn.so:80/vsabG/499AKVptc/138750.ts
+#EXTINF:-1,[24H] B Positive
+http://ccdn.so:80/vsabG/499AKVptc/140778.ts
+#EXTINF:-1,[24H] Baby Looney Tunes
+http://ccdn.so:80/vsabG/499AKVptc/138813.ts
+#EXTINF:-1,[24H] Bake Off Brasil Celebridades
+http://ccdn.so:80/vsabG/499AKVptc/138017.ts
+#EXTINF:-1,[24H] Barbie Dreamhouse Adventures
+http://ccdn.so:80/vsabG/499AKVptc/135559.ts
+#EXTINF:-1,[24H] Barney e Seus Amigos
+http://ccdn.so:80/vsabG/499AKVptc/141494.ts
+#EXTINF:-1,[24H] Batalha Makers Brasil
+http://ccdn.so:80/vsabG/499AKVptc/138751.ts
+#EXTINF:-1,[24H] Ben 10 [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138715.ts
+#EXTINF:-1,[24H] Ben 10 [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138716.ts
+#EXTINF:-1,[24H] Ben 10 [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138717.ts
+#EXTINF:-1,[24H] Ben 10 [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138718.ts
+#EXTINF:-1,[24H] Betty a Feia
+http://ccdn.so:80/vsabG/499AKVptc/138018.ts
+#EXTINF:-1,[24H] Betty Em Nova York
+http://ccdn.so:80/vsabG/499AKVptc/138019.ts
+#EXTINF:-1,[24H] Beyblade [S01]
+http://ccdn.so:80/vsabG/499AKVptc/140543.ts
+#EXTINF:-1,[24H] Beyblade [S02] V Force
+http://ccdn.so:80/vsabG/499AKVptc/140544.ts
+#EXTINF:-1,[24H] Beyblade [S03] G Revolution
+http://ccdn.so:80/vsabG/499AKVptc/140545.ts
+#EXTINF:-1,[24H] Beyblade [S04] Metal Fusion
+http://ccdn.so:80/vsabG/499AKVptc/140546.ts
+#EXTINF:-1,[24H] Bibo Pai e Bobi Filho
+http://ccdn.so:80/vsabG/499AKVptc/145377.ts
+#EXTINF:-1,[24H] Big Mouth
+http://ccdn.so:80/vsabG/499AKVptc/135560.ts
+#EXTINF:-1,[24H] Black Kamen Rider
+http://ccdn.so:80/vsabG/499AKVptc/149549.ts
+#EXTINF:-1,[24H] Blaze e os Monster Machines
+http://ccdn.so:80/vsabG/499AKVptc/138752.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Chegada [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138758.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Entrada Sorrateira no Hueco Mundo [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138759.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Falsa Cidade de Karakura [S12]
+http://ccdn.so:80/vsabG/499AKVptc/138764.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Luta Feroz [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138760.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Queda [S14]
+http://ccdn.so:80/vsabG/499AKVptc/138766.ts
+#EXTINF:-1,[24H] Bleach - Arrankar VS Shinigami [S10]
+http://ccdn.so:80/vsabG/499AKVptc/138762.ts
+#EXTINF:-1,[24H] Bleach - O Ataque dos Bounts a Sociedade das Almas [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138757.ts
+#EXTINF:-1,[24H] Bleach - O Conto da Zanpakuto Desconhecida [S13]
+http://ccdn.so:80/vsabG/499AKVptc/138765.ts
+#EXTINF:-1,[24H] Bleach - O Exercito de Invasao das 13 Divisoes [S15]
+http://ccdn.so:80/vsabG/499AKVptc/138767.ts
+#EXTINF:-1,[24H] Bleach - O Novo Capitao Amagai Shusuke [S09]
+http://ccdn.so:80/vsabG/499AKVptc/138761.ts
+#EXTINF:-1,[24H] Bleach - O Passado [S11]
+http://ccdn.so:80/vsabG/499AKVptc/138763.ts
+#EXTINF:-1,[24H] Bleach - O Shinigami Substituto Desaparecido [S16]
+http://ccdn.so:80/vsabG/499AKVptc/138768.ts
+#EXTINF:-1,[24H] Bleach - O Substituto [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138753.ts
+#EXTINF:-1,[24H] Bleach - Os Bounts [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138756.ts
+#EXTINF:-1,[24H] Bleach - Sociedade das Almas A Entrada [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138754.ts
+#EXTINF:-1,[24H] Bleach - Sociedade das Almas O Resgate [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138755.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138065.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138066.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138067.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138068.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138069.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138070.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138071.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138072.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S09]
+http://ccdn.so:80/vsabG/499AKVptc/138073.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S10]
+http://ccdn.so:80/vsabG/499AKVptc/138074.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S11]
+http://ccdn.so:80/vsabG/499AKVptc/138075.ts
+#EXTINF:-1,[24H] Bojack Horseman
+http://ccdn.so:80/vsabG/499AKVptc/136694.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138769.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138770.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138771.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138772.ts
+#EXTINF:-1,[24H] Brilhante Victoria
+http://ccdn.so:80/vsabG/499AKVptc/138773.ts
+#EXTINF:-1,[24H] Cacadores de Bugs
+http://ccdn.so:80/vsabG/499AKVptc/138774.ts
+#EXTINF:-1,[24H] Cacadores de Dinossauros
+http://ccdn.so:80/vsabG/499AKVptc/138775.ts
+#EXTINF:-1,[24H] Cameras Escondidas Silvio Santos
+http://ccdn.so:80/vsabG/499AKVptc/152014.ts
+#EXTINF:-1,[24H] Casamento as Cegas Brasil [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138778.ts
+#EXTINF:-1,[24H] Casamento as Cegas [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138776.ts
+#EXTINF:-1,[24H] Casamento as Cegas [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138777.ts
+#EXTINF:-1,[24H] Castelo Ra-Tim-Bum
+http://ccdn.so:80/vsabG/499AKVptc/138728.ts
+#EXTINF:-1,[24H] Cavalo de Fogo
+http://ccdn.so:80/vsabG/499AKVptc/137613.ts
+#EXTINF:-1,[24H] Caverna do Dragao
+http://ccdn.so:80/vsabG/499AKVptc/135454.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138000.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138001.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138002.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138003.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138004.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138005.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138006.ts
+#EXTINF:-1,[24H] Chaves Em Desenho Animado
+http://ccdn.so:80/vsabG/499AKVptc/140735.ts
+#EXTINF:-1,[24H] Chaves [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137139.ts
+#EXTINF:-1,[24H] Chaves [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137140.ts
+#EXTINF:-1,[24H] Chaves [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137141.ts
+#EXTINF:-1,[24H] Chaves [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137142.ts
+#EXTINF:-1,[24H] Chaves [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137143.ts
+#EXTINF:-1,[24H] Chaves [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137144.ts
+#EXTINF:-1,[24H] Chaves [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137145.ts
+#EXTINF:-1,[24H] Chesapeake Shores
+http://ccdn.so:80/vsabG/499AKVptc/139306.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138780.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138781.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138782.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138783.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138784.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138785.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138786.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138787.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S09] [L]
+http://ccdn.so:80/vsabG/499AKVptc/150497.ts
+#EXTINF:-1,[24H] Cobra Kai [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138712.ts
+#EXTINF:-1,[24H] Cobra Kai [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138713.ts
+#EXTINF:-1,[24H] Cobra Kai [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138714.ts
+#EXTINF:-1,[24H] Cocorico
+http://ccdn.so:80/vsabG/499AKVptc/156653.ts
+#EXTINF:-1,[24H] Comidas Cheias de Historia
+http://ccdn.so:80/vsabG/499AKVptc/140779.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S01]
+http://ccdn.so:80/vsabG/499AKVptc/139288.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S02]
+http://ccdn.so:80/vsabG/499AKVptc/139289.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S03]
+http://ccdn.so:80/vsabG/499AKVptc/139290.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S04]
+http://ccdn.so:80/vsabG/499AKVptc/139291.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S05]
+http://ccdn.so:80/vsabG/499AKVptc/139292.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S06]
+http://ccdn.so:80/vsabG/499AKVptc/139293.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S01]
+http://ccdn.so:80/vsabG/499AKVptc/139279.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S02]
+http://ccdn.so:80/vsabG/499AKVptc/139280.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S03]
+http://ccdn.so:80/vsabG/499AKVptc/139281.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S04]
+http://ccdn.so:80/vsabG/499AKVptc/139282.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S05]
+http://ccdn.so:80/vsabG/499AKVptc/139283.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S06]
+http://ccdn.so:80/vsabG/499AKVptc/139284.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S07]
+http://ccdn.so:80/vsabG/499AKVptc/139285.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S08]
+http://ccdn.so:80/vsabG/499AKVptc/139286.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S09]
+http://ccdn.so:80/vsabG/499AKVptc/139287.ts
+#EXTINF:-1,[24H] Como Funciona O Universo
+http://ccdn.so:80/vsabG/499AKVptc/140736.ts
+#EXTINF:-1,[24H] Corrida Maluca
+http://ccdn.so:80/vsabG/499AKVptc/145378.ts
+#EXTINF:-1,[24H] Cosmos Mundos Possiveis
+http://ccdn.so:80/vsabG/499AKVptc/140780.ts
+#EXTINF:-1,[24H] Criadores de Diversao
+http://ccdn.so:80/vsabG/499AKVptc/151618.ts
+#EXTINF:-1,[24H] Dani Se
+http://ccdn.so:80/vsabG/499AKVptc/140781.ts
+#EXTINF:-1,[24H] Dennis o Pimentinha
+http://ccdn.so:80/vsabG/499AKVptc/135500.ts
+#EXTINF:-1,[24H] Desenhos Biblicos Historias Inesqueciveis
+http://ccdn.so:80/vsabG/499AKVptc/139277.ts
+#EXTINF:-1,[24H] Digimon Adventure
+http://ccdn.so:80/vsabG/499AKVptc/137620.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138076.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138077.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138078.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138079.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138080.ts
+#EXTINF:-1,[24H] Digimon Savers
+http://ccdn.so:80/vsabG/499AKVptc/137621.ts
+#EXTINF:-1,[24H] Digimon Tamers
+http://ccdn.so:80/vsabG/499AKVptc/138025.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137623.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137624.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137625.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137626.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137627.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137628.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137629.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S08]
+http://ccdn.so:80/vsabG/499AKVptc/137630.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S09]
+http://ccdn.so:80/vsabG/499AKVptc/137631.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S10]
+http://ccdn.so:80/vsabG/499AKVptc/137632.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S11]
+http://ccdn.so:80/vsabG/499AKVptc/137633.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S12]
+http://ccdn.so:80/vsabG/499AKVptc/137634.ts
+#EXTINF:-1,[24H] Donas de Casa Desesperadas
+http://ccdn.so:80/vsabG/499AKVptc/138789.ts
+#EXTINF:-1,[24H] Dora Aventureira
+http://ccdn.so:80/vsabG/499AKVptc/151949.ts
+#EXTINF:-1,[24H] Doug
+http://ccdn.so:80/vsabG/499AKVptc/135552.ts
+#EXTINF:-1,[24H] Dragon Ball Classico
+http://ccdn.so:80/vsabG/499AKVptc/135473.ts
+#EXTINF:-1,[24H] Dragon Ball GT
+http://ccdn.so:80/vsabG/499AKVptc/135483.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Golden Freeza [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135485.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Saga Deus da Destruicao Bills [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135484.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Sobrevivencia do Universo [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135488.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Trunks do Futuro [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135487.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Universo 6 [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135486.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Androide Cell (Parte 1) [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135478.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Androide Cell (Parte 2) [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135479.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Freeza (Parte 1) [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135475.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Freeza (Parte 2) [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135476.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Garlic Jr [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135477.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Majin Boo (Parte 1) [S08]
+http://ccdn.so:80/vsabG/499AKVptc/135481.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Majin Boo (Parte 2) [S09]
+http://ccdn.so:80/vsabG/499AKVptc/135482.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Torneio do Outro Mundo [S07]
+http://ccdn.so:80/vsabG/499AKVptc/135480.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga dos Saiyajins [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135474.ts
+#EXTINF:-1,[24H] Drake e Josh
+http://ccdn.so:80/vsabG/499AKVptc/137622.ts
+#EXTINF:-1,[24H] Ei Arnold
+http://ccdn.so:80/vsabG/499AKVptc/138946.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138050.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138051.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138052.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138053.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138054.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138055.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138056.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138057.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S09]
+http://ccdn.so:80/vsabG/499AKVptc/138058.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S10]
+http://ccdn.so:80/vsabG/499AKVptc/138059.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S11]
+http://ccdn.so:80/vsabG/499AKVptc/138060.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S12]
+http://ccdn.so:80/vsabG/499AKVptc/138061.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S13]
+http://ccdn.so:80/vsabG/499AKVptc/138062.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S14]
+http://ccdn.so:80/vsabG/499AKVptc/138063.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S15]
+http://ccdn.so:80/vsabG/499AKVptc/138064.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo
+http://ccdn.so:80/vsabG/499AKVptc/137611.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138028.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138029.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138030.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138031.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138032.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138033.ts
+#EXTINF:-1,[24H] Esquadrao Especial Winspector
+http://ccdn.so:80/vsabG/499AKVptc/156654.ts
+#EXTINF:-1,[24H] Esquadrao Relampago Changeman
+http://ccdn.so:80/vsabG/499AKVptc/138779.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138020.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138021.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138022.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138023.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138024.ts
+#EXTINF:-1,[24H] Farejando Novos Mundos
+http://ccdn.so:80/vsabG/499AKVptc/139274.ts
+#EXTINF:-1,[24H] Formiga Atomica
+http://ccdn.so:80/vsabG/499AKVptc/135545.ts
+#EXTINF:-1,[24H] Formula 1 Dirigir Para Viver
+http://ccdn.so:80/vsabG/499AKVptc/152015.ts
+#EXTINF:-1,[24H] Friends [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138814.ts
+#EXTINF:-1,[24H] Friends [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138815.ts
+#EXTINF:-1,[24H] Friends [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138816.ts
+#EXTINF:-1,[24H] Friends [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138817.ts
+#EXTINF:-1,[24H] Friends [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138818.ts
+#EXTINF:-1,[24H] Friends [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138819.ts
+#EXTINF:-1,[24H] Friends [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138820.ts
+#EXTINF:-1,[24H] Friends [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138821.ts
+#EXTINF:-1,[24H] Friends [S09]
+http://ccdn.so:80/vsabG/499AKVptc/138822.ts
+#EXTINF:-1,[24H] Friends [S10]
+http://ccdn.so:80/vsabG/499AKVptc/138823.ts
+#EXTINF:-1,[24H] Game of Thrones [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135534.ts
+#EXTINF:-1,[24H] Game of Thrones [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135533.ts
+#EXTINF:-1,[24H] Game of Thrones [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135532.ts
+#EXTINF:-1,[24H] Game of Thrones [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135531.ts
+#EXTINF:-1,[24H] Game of Thrones [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135530.ts
+#EXTINF:-1,[24H] Game of Thrones [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135529.ts
+#EXTINF:-1,[24H] Game of Thrones [S07]
+http://ccdn.so:80/vsabG/499AKVptc/135528.ts
+#EXTINF:-1,[24H] Game of Thrones [S08]
+http://ccdn.so:80/vsabG/499AKVptc/135527.ts
+#EXTINF:-1,[24H] Game Shakers [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138007.ts
+#EXTINF:-1,[24H] Game Shakers [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138008.ts
+#EXTINF:-1,[24H] Game Shakers [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138009.ts
+#EXTINF:-1,[24H] Garfield e Seus Amigos
+http://ccdn.so:80/vsabG/499AKVptc/138026.ts
+#EXTINF:-1,[24H] Gasparzinho O Fantasminha Camarada
+http://ccdn.so:80/vsabG/499AKVptc/151619.ts
+#EXTINF:-1,[24H] Gus O Pequeno Cavaleiro
+http://ccdn.so:80/vsabG/499AKVptc/150112.ts
+#EXTINF:-1,[24H] Hannah Montana
+http://ccdn.so:80/vsabG/499AKVptc/139272.ts
+#EXTINF:-1,[24H] He Man e Os Defensores do Universo
+http://ccdn.so:80/vsabG/499AKVptc/135514.ts
+#EXTINF:-1,[24H] He Man E Os Mestres do Universo
+http://ccdn.so:80/vsabG/499AKVptc/135516.ts
+#EXTINF:-1,[24H] High School Musical A Serie O Musical [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138709.ts
+#EXTINF:-1,[24H] High School Musical A Serie O Musical [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138710.ts
+#EXTINF:-1,[24H] Historias Animadas da Biblia - Novo Testamento
+http://ccdn.so:80/vsabG/499AKVptc/137428.ts
+#EXTINF:-1,[24H] Historias Animadas da Biblia - Velho Testamento
+http://ccdn.so:80/vsabG/499AKVptc/137427.ts
+#EXTINF:-1,[24H] Homem Aranha da Marvel [S01]
+http://ccdn.so:80/vsabG/499AKVptc/155451.ts
+#EXTINF:-1,[24H] Homem Aranha da Marvel [S02]
+http://ccdn.so:80/vsabG/499AKVptc/155452.ts
+#EXTINF:-1,[24H] Homem Aranha da Marvel [S03]
+http://ccdn.so:80/vsabG/499AKVptc/155453.ts
+#EXTINF:-1,[24H] Hora de Aventura [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135526.ts
+#EXTINF:-1,[24H] Hora de Aventura [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135525.ts
+#EXTINF:-1,[24H] Hora de Aventura [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135524.ts
+#EXTINF:-1,[24H] Hora de Aventura [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135523.ts
+#EXTINF:-1,[24H] Hora de Aventura [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135521.ts
+#EXTINF:-1,[24H] Hora de Aventura [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135522.ts
+#EXTINF:-1,[24H] Hora de Aventura [S07]
+http://ccdn.so:80/vsabG/499AKVptc/135520.ts
+#EXTINF:-1,[24H] Hora de Aventura [S08]
+http://ccdn.so:80/vsabG/499AKVptc/135519.ts
+#EXTINF:-1,[24H] Hora de Aventura [S09]
+http://ccdn.so:80/vsabG/499AKVptc/135518.ts
+#EXTINF:-1,[24H] Hora de Aventura [S10]
+http://ccdn.so:80/vsabG/499AKVptc/135517.ts
+#EXTINF:-1,[24H] Hora do Recreio
+http://ccdn.so:80/vsabG/499AKVptc/139278.ts
+#EXTINF:-1,[24H] Hotel Transilvania A Serie
+http://ccdn.so:80/vsabG/499AKVptc/135512.ts
+#EXTINF:-1,[24H] iCarly (2021)
+http://ccdn.so:80/vsabG/499AKVptc/135455.ts
+#EXTINF:-1,[24H] iCarly [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135506.ts
+#EXTINF:-1,[24H] iCarly [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135507.ts
+#EXTINF:-1,[24H] iCarly [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135508.ts
+#EXTINF:-1,[24H] iCarly [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135509.ts
+#EXTINF:-1,[24H] iCarly [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135510.ts
+#EXTINF:-1,[24H] iCarly [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135511.ts
+#EXTINF:-1,[24H] Inspetor Bugiganga (1983)
+http://ccdn.so:80/vsabG/499AKVptc/156655.ts
+#EXTINF:-1,[24H] Inspetor Bugiganga (2015)
+http://ccdn.so:80/vsabG/499AKVptc/156656.ts
+#EXTINF:-1,[24H] Irmao do Jorel
+http://ccdn.so:80/vsabG/499AKVptc/135567.ts
+#EXTINF:-1,[24H] Irmaos a Obra
+http://ccdn.so:80/vsabG/499AKVptc/140782.ts
+#EXTINF:-1,[24H] Jeannie
+http://ccdn.so:80/vsabG/499AKVptc/152016.ts
+#EXTINF:-1,[24H] Jellystone
+http://ccdn.so:80/vsabG/499AKVptc/156657.ts
+#EXTINF:-1,[24H] Jessie [S01]
+http://ccdn.so:80/vsabG/499AKVptc/139294.ts
+#EXTINF:-1,[24H] Jessie [S02]
+http://ccdn.so:80/vsabG/499AKVptc/139295.ts
+#EXTINF:-1,[24H] Jessie [S03]
+http://ccdn.so:80/vsabG/499AKVptc/139296.ts
+#EXTINF:-1,[24H] Jessie [S04]
+http://ccdn.so:80/vsabG/499AKVptc/139297.ts
+#EXTINF:-1,[24H] Jiraiya O Incrivel Ninja
+http://ccdn.so:80/vsabG/499AKVptc/135569.ts
+#EXTINF:-1,[24H] Johnny Bravo
+http://ccdn.so:80/vsabG/499AKVptc/150495.ts
+#EXTINF:-1,[24H] Johnny Test
+http://ccdn.so:80/vsabG/499AKVptc/139298.ts
+#EXTINF:-1,[24H] Jonny Quest
+http://ccdn.so:80/vsabG/499AKVptc/149550.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S01]
+http://ccdn.so:80/vsabG/499AKVptc/139300.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S02]
+http://ccdn.so:80/vsabG/499AKVptc/139301.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S03]
+http://ccdn.so:80/vsabG/499AKVptc/139302.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S04]
+http://ccdn.so:80/vsabG/499AKVptc/139303.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137123.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137124.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137125.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137126.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137127.ts
+#EXTINF:-1,[24H] Jovens Construtores
+http://ccdn.so:80/vsabG/499AKVptc/138947.ts
+#EXTINF:-1,[24H] Jurassic World Acampamento Jurassico
+http://ccdn.so:80/vsabG/499AKVptc/135561.ts
+#EXTINF:-1,[24H] Kamp Koral Bob Esponja Primeiros Anos
+http://ccdn.so:80/vsabG/499AKVptc/135562.ts
+#EXTINF:-1,[24H] Kenan e Kel
+http://ccdn.so:80/vsabG/499AKVptc/138955.ts
+#EXTINF:-1,[24H] Kevin Pode Esperar [S01]
+http://ccdn.so:80/vsabG/499AKVptc/139275.ts
+#EXTINF:-1,[24H] Kevin Pode Esperar [S02]
+http://ccdn.so:80/vsabG/499AKVptc/139276.ts
+#EXTINF:-1,[24H] Kick Buttowski
+http://ccdn.so:80/vsabG/499AKVptc/140533.ts
+#EXTINF:-1,[24H] Kung Fu Panda Lendas do Dragao Guerreiro
+http://ccdn.so:80/vsabG/499AKVptc/138948.ts
+#EXTINF:-1,[24H] Lab Rats
+http://ccdn.so:80/vsabG/499AKVptc/138949.ts
+#EXTINF:-1,[24H] Lady Night [S01]
+http://ccdn.so:80/vsabG/499AKVptc/149520.ts
+#EXTINF:-1,[24H] Lady Night [S02]
+http://ccdn.so:80/vsabG/499AKVptc/149521.ts
+#EXTINF:-1,[24H] Lady Night [S03]
+http://ccdn.so:80/vsabG/499AKVptc/149522.ts
+#EXTINF:-1,[24H] Lady Night [S04]
+http://ccdn.so:80/vsabG/499AKVptc/149523.ts
+#EXTINF:-1,[24H] Lady Night [S05]
+http://ccdn.so:80/vsabG/499AKVptc/149524.ts
+#EXTINF:-1,[24H] Lady Night [S06]
+http://ccdn.so:80/vsabG/499AKVptc/149525.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S01]
+http://ccdn.so:80/vsabG/499AKVptc/140737.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S02]
+http://ccdn.so:80/vsabG/499AKVptc/140738.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S03]
+http://ccdn.so:80/vsabG/499AKVptc/140739.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S04]
+http://ccdn.so:80/vsabG/499AKVptc/140740.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S05]
+http://ccdn.so:80/vsabG/499AKVptc/140741.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S06]
+http://ccdn.so:80/vsabG/499AKVptc/145926.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S07]
+http://ccdn.so:80/vsabG/499AKVptc/145927.ts
+#EXTINF:-1,[24H] Largados e Pelados [S01]
+http://ccdn.so:80/vsabG/499AKVptc/145928.ts
+#EXTINF:-1,[24H] Largados e Pelados [S02]
+http://ccdn.so:80/vsabG/499AKVptc/145929.ts
+#EXTINF:-1,[24H] Largados e Pelados [S03]
+http://ccdn.so:80/vsabG/499AKVptc/145930.ts
+#EXTINF:-1,[24H] Largados e Pelados [S04]
+http://ccdn.so:80/vsabG/499AKVptc/145931.ts
+#EXTINF:-1,[24H] Largados e Pelados [S05]
+http://ccdn.so:80/vsabG/499AKVptc/145932.ts
+#EXTINF:-1,[24H] Largados e Pelados [S06]
+http://ccdn.so:80/vsabG/499AKVptc/145933.ts
+#EXTINF:-1,[24H] Largados e Pelados [S07]
+http://ccdn.so:80/vsabG/499AKVptc/145934.ts
+#EXTINF:-1,[24H] Largados e Pelados [S08]
+http://ccdn.so:80/vsabG/499AKVptc/145935.ts
+#EXTINF:-1,[24H] Largados e Pelados [S09]
+http://ccdn.so:80/vsabG/499AKVptc/145936.ts
+#EXTINF:-1,[24H] Largados e Pelados [S10]
+http://ccdn.so:80/vsabG/499AKVptc/145937.ts
+#EXTINF:-1,[24H] Largados e Pelados [S11]
+http://ccdn.so:80/vsabG/499AKVptc/145938.ts
+#EXTINF:-1,[24H] Liga da Justica Sem Limites
+http://ccdn.so:80/vsabG/499AKVptc/138950.ts
+#EXTINF:-1,[24H] Liga da Justica [S01]
+http://ccdn.so:80/vsabG/499AKVptc/149551.ts
+#EXTINF:-1,[24H] Liga da Justica [S02]
+http://ccdn.so:80/vsabG/499AKVptc/149552.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135563.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135564.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135565.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135566.ts
+#EXTINF:-1,[24H] Luluzinha
+http://ccdn.so:80/vsabG/499AKVptc/149604.ts
+#EXTINF:-1,[24H] Marvels M.O.D.O.K
+http://ccdn.so:80/vsabG/499AKVptc/136816.ts
+#EXTINF:-1,[24H] Masha e o Urso
+http://ccdn.so:80/vsabG/499AKVptc/137619.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137146.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137147.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137148.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137149.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137150.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137151.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137152.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S08]
+http://ccdn.so:80/vsabG/499AKVptc/137153.ts
+#EXTINF:-1,[24H] Mega Man Potencia Maxima
+http://ccdn.so:80/vsabG/499AKVptc/137128.ts
+#EXTINF:-1,[24H] Mestre do Sabor [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137154.ts
+#EXTINF:-1,[24H] Mestre do Sabor [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137155.ts
+#EXTINF:-1,[24H] Mestre do Sabor [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137156.ts
+#EXTINF:-1,[24H] Mestres da Sobrevivencia
+http://ccdn.so:80/vsabG/499AKVptc/137129.ts
+#EXTINF:-1,[24H] Mestres de Ferro
+http://ccdn.so:80/vsabG/499AKVptc/137157.ts
+#EXTINF:-1,[24H] Mestres do Universo Salvando Eternia
+http://ccdn.so:80/vsabG/499AKVptc/137158.ts
+#EXTINF:-1,[24H] Mickey e Donald
+http://ccdn.so:80/vsabG/499AKVptc/140742.ts
+#EXTINF:-1,[24H] Miraculous As Aventuras de Ladybug
+http://ccdn.so:80/vsabG/499AKVptc/137159.ts
+#EXTINF:-1,[24H] Mister Brau
+http://ccdn.so:80/vsabG/499AKVptc/138951.ts
+#EXTINF:-1,[24H] Momonstros
+http://ccdn.so:80/vsabG/499AKVptc/145379.ts
+#EXTINF:-1,[24H] Monstro do Amor
+http://ccdn.so:80/vsabG/499AKVptc/151620.ts
+#EXTINF:-1,[24H] Mortal Kombat Defensores da Terra
+http://ccdn.so:80/vsabG/499AKVptc/139299.ts
+#EXTINF:-1,[24H] Mucha Lucha
+http://ccdn.so:80/vsabG/499AKVptc/138952.ts
+#EXTINF:-1,[24H] Mundo Bita
+http://ccdn.so:80/vsabG/499AKVptc/135452.ts
+#EXTINF:-1,[24H] Mundo Bita e a Natureza
+http://ccdn.so:80/vsabG/499AKVptc/135498.ts
+#EXTINF:-1,[24H] Mundo Bita e as Brincadeiras
+http://ccdn.so:80/vsabG/499AKVptc/135497.ts
+#EXTINF:-1,[24H] Mundo Bita e o Corpo Humano
+http://ccdn.so:80/vsabG/499AKVptc/135496.ts
+#EXTINF:-1,[24H] Mundo Bita e o Nosso Dia
+http://ccdn.so:80/vsabG/499AKVptc/135495.ts
+#EXTINF:-1,[24H] Mundo Bita e os Animais
+http://ccdn.so:80/vsabG/499AKVptc/135494.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S01]
+http://ccdn.so:80/vsabG/499AKVptc/145939.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S02]
+http://ccdn.so:80/vsabG/499AKVptc/145940.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S03]
+http://ccdn.so:80/vsabG/499AKVptc/145941.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S04]
+http://ccdn.so:80/vsabG/499AKVptc/145942.ts
+#EXTINF:-1,[24H] O Acampamento de Lazlo
+http://ccdn.so:80/vsabG/499AKVptc/150113.ts
+#EXTINF:-1,[24H] O Chefinho De Volta aos Negocios
+http://ccdn.so:80/vsabG/499AKVptc/138953.ts
+#EXTINF:-1,[24H] O Fantastico Jaspion
+http://ccdn.so:80/vsabG/499AKVptc/135568.ts
+#EXTINF:-1,[24H] O Fantastico Mundo de Bobby
+http://ccdn.so:80/vsabG/499AKVptc/138940.ts
+#EXTINF:-1,[24H] O Laboratorio de Dexter
+http://ccdn.so:80/vsabG/499AKVptc/150114.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S01]
+http://ccdn.so:80/vsabG/499AKVptc/145943.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S02]
+http://ccdn.so:80/vsabG/499AKVptc/145944.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S03]
+http://ccdn.so:80/vsabG/499AKVptc/145945.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S04]
+http://ccdn.so:80/vsabG/499AKVptc/145946.ts
+#EXTINF:-1,[24H] O Maskara
+http://ccdn.so:80/vsabG/499AKVptc/145380.ts
+#EXTINF:-1,[24H] O Mundo Maravilhoso de Mickey Mouse
+http://ccdn.so:80/vsabG/499AKVptc/151621.ts
+#EXTINF:-1,[24H] O Novo Show do Pica Pau
+http://ccdn.so:80/vsabG/499AKVptc/145381.ts
+#EXTINF:-1,[24H] O Rancho [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138956.ts
+#EXTINF:-1,[24H] O Rancho [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138957.ts
+#EXTINF:-1,[24H] O Rancho [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138958.ts
+#EXTINF:-1,[24H] O Rancho [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138959.ts
+#EXTINF:-1,[24H] O Show de Tom e Jerry
+http://ccdn.so:80/vsabG/499AKVptc/140743.ts
+#EXTINF:-1,[24H] O Show do Garfield
+http://ccdn.so:80/vsabG/499AKVptc/137429.ts
+#EXTINF:-1,[24H] O Socio
+http://ccdn.so:80/vsabG/499AKVptc/137167.ts
+#EXTINF:-1,[24H] Odo
+http://ccdn.so:80/vsabG/499AKVptc/150491.ts
+#EXTINF:-1,[24H] Operacao Big Hero
+http://ccdn.so:80/vsabG/499AKVptc/137430.ts
+#EXTINF:-1,[24H] Operacao Fronteira America do Sul
+http://ccdn.so:80/vsabG/499AKVptc/139304.ts
+#EXTINF:-1,[24H] Os Astronautas
+http://ccdn.so:80/vsabG/499AKVptc/137431.ts
+#EXTINF:-1,[24H] Os Backyardigans
+http://ccdn.so:80/vsabG/499AKVptc/141495.ts
+#EXTINF:-1,[24H] Os Busbys + 5
+http://ccdn.so:80/vsabG/499AKVptc/151622.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Alma de Ouro
+http://ccdn.so:80/vsabG/499AKVptc/137135.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Omega
+http://ccdn.so:80/vsabG/499AKVptc/138954.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Asgard [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137131.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Hades [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137133.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Poseidon [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137132.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga do Santuario [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137130.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - The Lost Canvas
+http://ccdn.so:80/vsabG/499AKVptc/137134.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodíaco Saint Seiya
+http://ccdn.so:80/vsabG/499AKVptc/137136.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138960.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138961.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138962.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138963.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137160.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137161.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137162.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137163.ts
+#EXTINF:-1,[24H] Os Herculoides
+http://ccdn.so:80/vsabG/499AKVptc/137164.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137169.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137170.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137171.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137172.ts
+#EXTINF:-1,[24H] Os Incriveis Espioes
+http://ccdn.so:80/vsabG/499AKVptc/140744.ts
+#EXTINF:-1,[24H] Os Jetsons
+http://ccdn.so:80/vsabG/499AKVptc/137165.ts
+#EXTINF:-1,[24H] Os Misterios de Frajola e Piu Piu
+http://ccdn.so:80/vsabG/499AKVptc/138027.ts
+#EXTINF:-1,[24H] Os Normais
+http://ccdn.so:80/vsabG/499AKVptc/137168.ts
+#EXTINF:-1,[24H] Os Padrinhos Magicos
+http://ccdn.so:80/vsabG/499AKVptc/135546.ts
+#EXTINF:-1,[24H] Os Roni
+http://ccdn.so:80/vsabG/499AKVptc/138964.ts
+#EXTINF:-1,[24H] Os Simpsons [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135601.ts
+#EXTINF:-1,[24H] Os Simpsons [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135600.ts
+#EXTINF:-1,[24H] Os Simpsons [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135599.ts
+#EXTINF:-1,[24H] Os Simpsons [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135598.ts
+#EXTINF:-1,[24H] Os Simpsons [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135597.ts
+#EXTINF:-1,[24H] Os Simpsons [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135596.ts
+#EXTINF:-1,[24H] Os Simpsons [S07]
+http://ccdn.so:80/vsabG/499AKVptc/135595.ts
+#EXTINF:-1,[24H] Os Simpsons [S08]
+http://ccdn.so:80/vsabG/499AKVptc/135594.ts
+#EXTINF:-1,[24H] Os Simpsons [S09]
+http://ccdn.so:80/vsabG/499AKVptc/135593.ts
+#EXTINF:-1,[24H] Os Simpsons [S10]
+http://ccdn.so:80/vsabG/499AKVptc/135592.ts
+#EXTINF:-1,[24H] Os Simpsons [S11]
+http://ccdn.so:80/vsabG/499AKVptc/135591.ts
+#EXTINF:-1,[24H] Os Simpsons [S12]
+http://ccdn.so:80/vsabG/499AKVptc/135590.ts
+#EXTINF:-1,[24H] Os Simpsons [S13]
+http://ccdn.so:80/vsabG/499AKVptc/135589.ts
+#EXTINF:-1,[24H] Os Simpsons [S14]
+http://ccdn.so:80/vsabG/499AKVptc/135588.ts
+#EXTINF:-1,[24H] Os Simpsons [S15]
+http://ccdn.so:80/vsabG/499AKVptc/135587.ts
+#EXTINF:-1,[24H] Os Simpsons [S16]
+http://ccdn.so:80/vsabG/499AKVptc/135586.ts
+#EXTINF:-1,[24H] Os Simpsons [S17]
+http://ccdn.so:80/vsabG/499AKVptc/135585.ts
+#EXTINF:-1,[24H] Os Simpsons [S18]
+http://ccdn.so:80/vsabG/499AKVptc/135584.ts
+#EXTINF:-1,[24H] Os Simpsons [S19]
+http://ccdn.so:80/vsabG/499AKVptc/135583.ts
+#EXTINF:-1,[24H] Os Simpsons [S20]
+http://ccdn.so:80/vsabG/499AKVptc/135582.ts
+#EXTINF:-1,[24H] Os Simpsons [S21]
+http://ccdn.so:80/vsabG/499AKVptc/135581.ts
+#EXTINF:-1,[24H] Os Simpsons [S22]
+http://ccdn.so:80/vsabG/499AKVptc/135580.ts
+#EXTINF:-1,[24H] Os Simpsons [S23]
+http://ccdn.so:80/vsabG/499AKVptc/135579.ts
+#EXTINF:-1,[24H] Os Simpsons [S24]
+http://ccdn.so:80/vsabG/499AKVptc/135578.ts
+#EXTINF:-1,[24H] Os Simpsons [S25]
+http://ccdn.so:80/vsabG/499AKVptc/135577.ts
+#EXTINF:-1,[24H] Os Simpsons [S26]
+http://ccdn.so:80/vsabG/499AKVptc/135576.ts
+#EXTINF:-1,[24H] Os Simpsons [S27]
+http://ccdn.so:80/vsabG/499AKVptc/135575.ts
+#EXTINF:-1,[24H] Os Simpsons [S28]
+http://ccdn.so:80/vsabG/499AKVptc/135574.ts
+#EXTINF:-1,[24H] Os Simpsons [S29]
+http://ccdn.so:80/vsabG/499AKVptc/135573.ts
+#EXTINF:-1,[24H] Os Simpsons [S30]
+http://ccdn.so:80/vsabG/499AKVptc/135572.ts
+#EXTINF:-1,[24H] Os Simpsons [S31]
+http://ccdn.so:80/vsabG/499AKVptc/135571.ts
+#EXTINF:-1,[24H] Os Simpsons [S32]
+http://ccdn.so:80/vsabG/499AKVptc/135570.ts
+#EXTINF:-1,[24H] Os Smurfs
+http://ccdn.so:80/vsabG/499AKVptc/136817.ts
+#EXTINF:-1,[24H] Os Thundermans [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137432.ts
+#EXTINF:-1,[24H] Os Thundermans [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137433.ts
+#EXTINF:-1,[24H] Os Thundermans [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137434.ts
+#EXTINF:-1,[24H] Os Ursinhos Carinhosos
+http://ccdn.so:80/vsabG/499AKVptc/150496.ts
+#EXTINF:-1,[24H] Os Ursinhos Gummi
+http://ccdn.so:80/vsabG/499AKVptc/140745.ts
+#EXTINF:-1,[24H] Patrulha Canina
+http://ccdn.so:80/vsabG/499AKVptc/135547.ts
+#EXTINF:-1,[24H] Pe na Cova [S01]
+http://ccdn.so:80/vsabG/499AKVptc/156658.ts
+#EXTINF:-1,[24H] Pe na Cova [S02]
+http://ccdn.so:80/vsabG/499AKVptc/156659.ts
+#EXTINF:-1,[24H] Pe na Cova [S03]
+http://ccdn.so:80/vsabG/499AKVptc/156660.ts
+#EXTINF:-1,[24H] Pe na Cova [S04]
+http://ccdn.so:80/vsabG/499AKVptc/156661.ts
+#EXTINF:-1,[24H] Pe na Cova [S05]
+http://ccdn.so:80/vsabG/499AKVptc/156662.ts
+#EXTINF:-1,[24H] Peppa Pig
+http://ccdn.so:80/vsabG/499AKVptc/135548.ts
+#EXTINF:-1,[24H] Pesadelo Na Cozinha
+http://ccdn.so:80/vsabG/499AKVptc/138722.ts
+#EXTINF:-1,[24H] Pestinha e Feroz
+http://ccdn.so:80/vsabG/499AKVptc/135501.ts
+#EXTINF:-1,[24H] Phineas e Ferb
+http://ccdn.so:80/vsabG/499AKVptc/135499.ts
+#EXTINF:-1,[24H] Pica Pau
+http://ccdn.so:80/vsabG/499AKVptc/136821.ts
+#EXTINF:-1,[24H] Pocoyo
+http://ccdn.so:80/vsabG/499AKVptc/137435.ts
+#EXTINF:-1,[24H] Pokemon [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138791.ts
+#EXTINF:-1,[24H] Pokemon [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138792.ts
+#EXTINF:-1,[24H] Pokemon [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138793.ts
+#EXTINF:-1,[24H] Pokemon [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138794.ts
+#EXTINF:-1,[24H] Pokemon [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138795.ts
+#EXTINF:-1,[24H] Pokemon [S06]
+http://ccdn.so:80/vsabG/499AKVptc/138796.ts
+#EXTINF:-1,[24H] Pokemon [S07]
+http://ccdn.so:80/vsabG/499AKVptc/138797.ts
+#EXTINF:-1,[24H] Pokemon [S08]
+http://ccdn.so:80/vsabG/499AKVptc/138798.ts
+#EXTINF:-1,[24H] Pokemon [S09]
+http://ccdn.so:80/vsabG/499AKVptc/138799.ts
+#EXTINF:-1,[24H] Pokemon [S10]
+http://ccdn.so:80/vsabG/499AKVptc/138800.ts
+#EXTINF:-1,[24H] Pokemon [S11]
+http://ccdn.so:80/vsabG/499AKVptc/138801.ts
+#EXTINF:-1,[24H] Pokemon [S12]
+http://ccdn.so:80/vsabG/499AKVptc/138802.ts
+#EXTINF:-1,[24H] Pokemon [S13]
+http://ccdn.so:80/vsabG/499AKVptc/138803.ts
+#EXTINF:-1,[24H] Pokemon [S14]
+http://ccdn.so:80/vsabG/499AKVptc/138804.ts
+#EXTINF:-1,[24H] Pokemon [S15]
+http://ccdn.so:80/vsabG/499AKVptc/138805.ts
+#EXTINF:-1,[24H] Pokemon [S16]
+http://ccdn.so:80/vsabG/499AKVptc/138806.ts
+#EXTINF:-1,[24H] Pokemon [S17]
+http://ccdn.so:80/vsabG/499AKVptc/138807.ts
+#EXTINF:-1,[24H] Pokemon [S18]
+http://ccdn.so:80/vsabG/499AKVptc/138808.ts
+#EXTINF:-1,[24H] Pokemon [S19]
+http://ccdn.so:80/vsabG/499AKVptc/138809.ts
+#EXTINF:-1,[24H] Pokemon [S20]
+http://ccdn.so:80/vsabG/499AKVptc/138810.ts
+#EXTINF:-1,[24H] Pokemon [S21]
+http://ccdn.so:80/vsabG/499AKVptc/138811.ts
+#EXTINF:-1,[24H] Programa Cameras Escondidas
+http://ccdn.so:80/vsabG/499AKVptc/151950.ts
+#EXTINF:-1,[24H] Quilos Mortais
+http://ccdn.so:80/vsabG/499AKVptc/136820.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S01]
+http://ccdn.so:80/vsabG/499AKVptc/149526.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S02]
+http://ccdn.so:80/vsabG/499AKVptc/149527.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S03]
+http://ccdn.so:80/vsabG/499AKVptc/149528.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S04]
+http://ccdn.so:80/vsabG/499AKVptc/149529.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S05]
+http://ccdn.so:80/vsabG/499AKVptc/149530.ts
+#EXTINF:-1,[24H] Quilos Mortais [S01]
+http://ccdn.so:80/vsabG/499AKVptc/149531.ts
+#EXTINF:-1,[24H] Quilos Mortais [S02]
+http://ccdn.so:80/vsabG/499AKVptc/149532.ts
+#EXTINF:-1,[24H] Quilos Mortais [S03]
+http://ccdn.so:80/vsabG/499AKVptc/149533.ts
+#EXTINF:-1,[24H] Quilos Mortais [S04]
+http://ccdn.so:80/vsabG/499AKVptc/149534.ts
+#EXTINF:-1,[24H] Quilos Mortais [S05]
+http://ccdn.so:80/vsabG/499AKVptc/149535.ts
+#EXTINF:-1,[24H] Quilos Mortais [S06]
+http://ccdn.so:80/vsabG/499AKVptc/149536.ts
+#EXTINF:-1,[24H] Quilos Mortais [S07]
+http://ccdn.so:80/vsabG/499AKVptc/149537.ts
+#EXTINF:-1,[24H] Quilos Mortais [S08]
+http://ccdn.so:80/vsabG/499AKVptc/149538.ts
+#EXTINF:-1,[24H] Ridley Jones A Guardia do Museu
+http://ccdn.so:80/vsabG/499AKVptc/137436.ts
+#EXTINF:-1,[24H] Riquinho
+http://ccdn.so:80/vsabG/499AKVptc/140746.ts
+#EXTINF:-1,[24H] Rocketeer
+http://ccdn.so:80/vsabG/499AKVptc/137437.ts
+#EXTINF:-1,[24H] Rocky e Hudson Os Caubois Gays
+http://ccdn.so:80/vsabG/499AKVptc/137438.ts
+#EXTINF:-1,[24H] Rua Dalmatas 101
+http://ccdn.so:80/vsabG/499AKVptc/137439.ts
+#EXTINF:-1,[24H] Rugrats Os Anjinhos
+http://ccdn.so:80/vsabG/499AKVptc/149539.ts
+#EXTINF:-1,[24H] Sai de Baixo [S01]
+http://ccdn.so:80/vsabG/499AKVptc/140747.ts
+#EXTINF:-1,[24H] Sai de Baixo [S02]
+http://ccdn.so:80/vsabG/499AKVptc/140748.ts
+#EXTINF:-1,[24H] Sai de Baixo [S03]
+http://ccdn.so:80/vsabG/499AKVptc/140749.ts
+#EXTINF:-1,[24H] Sai de Baixo [S04]
+http://ccdn.so:80/vsabG/499AKVptc/140750.ts
+#EXTINF:-1,[24H] Sai de Baixo [S05]
+http://ccdn.so:80/vsabG/499AKVptc/140751.ts
+#EXTINF:-1,[24H] Sai de Baixo [S06]
+http://ccdn.so:80/vsabG/499AKVptc/140752.ts
+#EXTINF:-1,[24H] Sai de Baixo [S07]
+http://ccdn.so:80/vsabG/499AKVptc/140753.ts
+#EXTINF:-1,[24H] Sai de Baixo [S08]
+http://ccdn.so:80/vsabG/499AKVptc/140754.ts
+#EXTINF:-1,[24H] Sailor Moon
+http://ccdn.so:80/vsabG/499AKVptc/140755.ts
+#EXTINF:-1,[24H] Scooby Doo Mistério SA
+http://ccdn.so:80/vsabG/499AKVptc/151951.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137106.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137107.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137108.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137109.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137110.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137100.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137101.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137102.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137103.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137104.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137105.ts
+#EXTINF:-1,[24H] She Ra A Princesa Do Poder
+http://ccdn.so:80/vsabG/499AKVptc/137617.ts
+#EXTINF:-1,[24H] Show do Milhao PicPay
+http://ccdn.so:80/vsabG/499AKVptc/137615.ts
+#EXTINF:-1,[24H] Snoopy e Sua Turma
+http://ccdn.so:80/vsabG/499AKVptc/137027.ts
+#EXTINF:-1,[24H] Soltos em Floripa [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137028.ts
+#EXTINF:-1,[24H] Soltos em Floripa [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137029.ts
+#EXTINF:-1,[24H] Sonny Boy
+http://ccdn.so:80/vsabG/499AKVptc/137616.ts
+#EXTINF:-1,[24H] SOS Cachorrinhos [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137030.ts
+#EXTINF:-1,[24H] South Park [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137031.ts
+#EXTINF:-1,[24H] South Park [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137032.ts
+#EXTINF:-1,[24H] South Park [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137033.ts
+#EXTINF:-1,[24H] South Park [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137034.ts
+#EXTINF:-1,[24H] South Park [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137035.ts
+#EXTINF:-1,[24H] South Park [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137036.ts
+#EXTINF:-1,[24H] South Park [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137037.ts
+#EXTINF:-1,[24H] South Park [S08]
+http://ccdn.so:80/vsabG/499AKVptc/137038.ts
+#EXTINF:-1,[24H] South Park [S09]
+http://ccdn.so:80/vsabG/499AKVptc/137039.ts
+#EXTINF:-1,[24H] South Park [S10]
+http://ccdn.so:80/vsabG/499AKVptc/137040.ts
+#EXTINF:-1,[24H] South Park [S11]
+http://ccdn.so:80/vsabG/499AKVptc/137041.ts
+#EXTINF:-1,[24H] South Park [S12]
+http://ccdn.so:80/vsabG/499AKVptc/137042.ts
+#EXTINF:-1,[24H] South Park [S13]
+http://ccdn.so:80/vsabG/499AKVptc/137043.ts
+#EXTINF:-1,[24H] South Park [S14]
+http://ccdn.so:80/vsabG/499AKVptc/137044.ts
+#EXTINF:-1,[24H] South Park [S15]
+http://ccdn.so:80/vsabG/499AKVptc/137045.ts
+#EXTINF:-1,[24H] South Park [S16]
+http://ccdn.so:80/vsabG/499AKVptc/137046.ts
+#EXTINF:-1,[24H] South Park [S17]
+http://ccdn.so:80/vsabG/499AKVptc/137047.ts
+#EXTINF:-1,[24H] South Park [S18]
+http://ccdn.so:80/vsabG/499AKVptc/137048.ts
+#EXTINF:-1,[24H] South Park [S19]
+http://ccdn.so:80/vsabG/499AKVptc/137049.ts
+#EXTINF:-1,[24H] South Park [S20]
+http://ccdn.so:80/vsabG/499AKVptc/137050.ts
+#EXTINF:-1,[24H] South Park [S21]
+http://ccdn.so:80/vsabG/499AKVptc/137051.ts
+#EXTINF:-1,[24H] South Park [S22]
+http://ccdn.so:80/vsabG/499AKVptc/137052.ts
+#EXTINF:-1,[24H] South Park [S23]
+http://ccdn.so:80/vsabG/499AKVptc/137053.ts
+#EXTINF:-1,[24H] South Park [S24]
+http://ccdn.so:80/vsabG/499AKVptc/137054.ts
+#EXTINF:-1,[24H] Star Trek Discovery [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137055.ts
+#EXTINF:-1,[24H] Star Trek Discovery [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137056.ts
+#EXTINF:-1,[24H] Star Trek Discovery [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137057.ts
+#EXTINF:-1,[24H] Star Trek Lower Decks [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137058.ts
+#EXTINF:-1,[24H] Star Trek Lower Decks [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137059.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137060.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137061.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137062.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137063.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137064.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137065.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137066.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137067.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137068.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137069.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137070.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137072.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137073.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137074.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137075.ts
+#EXTINF:-1,[24H] Star Wars The Bad Batch [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137071.ts
+#EXTINF:-1,[24H] Star Wars Visions [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137076.ts
+#EXTINF:-1,[24H] Steven Universo Futuro [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137082.ts
+#EXTINF:-1,[24H] Steven Universo [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137077.ts
+#EXTINF:-1,[24H] Steven Universo [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137078.ts
+#EXTINF:-1,[24H] Steven Universo [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137079.ts
+#EXTINF:-1,[24H] Steven Universo [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137080.ts
+#EXTINF:-1,[24H] Steven Universo [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137081.ts
+#EXTINF:-1,[24H] Super Amigos
+http://ccdn.so:80/vsabG/499AKVptc/149605.ts
+#EXTINF:-1,[24H] Super Choque
+http://ccdn.so:80/vsabG/499AKVptc/140535.ts
+#EXTINF:-1,[24H] Super Hero Girls [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137083.ts
+#EXTINF:-1,[24H] Supermaes [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138723.ts
+#EXTINF:-1,[24H] Supermaes [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138724.ts
+#EXTINF:-1,[24H] Supermaes [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138725.ts
+#EXTINF:-1,[24H] Supermaes [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138726.ts
+#EXTINF:-1,[24H] Supermaes [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138727.ts
+#EXTINF:-1,[24H] Superman A Serie Animada [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137084.ts
+#EXTINF:-1,[24H] Superman A Serie Animada [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137085.ts
+#EXTINF:-1,[24H] Superman A Serie Animada [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137086.ts
+#EXTINF:-1,[24H] Supermansion [S01]
+http://ccdn.so:80/vsabG/499AKVptc/149540.ts
+#EXTINF:-1,[24H] Supermansion [S02]
+http://ccdn.so:80/vsabG/499AKVptc/149541.ts
+#EXTINF:-1,[24H] Supermansion [S03]
+http://ccdn.so:80/vsabG/499AKVptc/149542.ts
+#EXTINF:-1,[24H] Supernatural [S01]
+http://ccdn.so:80/vsabG/499AKVptc/136726.ts
+#EXTINF:-1,[24H] Supernatural [S01] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136741.ts
+#EXTINF:-1,[24H] Supernatural [S02]
+http://ccdn.so:80/vsabG/499AKVptc/136727.ts
+#EXTINF:-1,[24H] Supernatural [S02] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136742.ts
+#EXTINF:-1,[24H] Supernatural [S03]
+http://ccdn.so:80/vsabG/499AKVptc/136728.ts
+#EXTINF:-1,[24H] Supernatural [S03] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136743.ts
+#EXTINF:-1,[24H] Supernatural [S04]
+http://ccdn.so:80/vsabG/499AKVptc/136729.ts
+#EXTINF:-1,[24H] Supernatural [S04] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136744.ts
+#EXTINF:-1,[24H] Supernatural [S05]
+http://ccdn.so:80/vsabG/499AKVptc/136730.ts
+#EXTINF:-1,[24H] Supernatural [S05] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136745.ts
+#EXTINF:-1,[24H] Supernatural [S06]
+http://ccdn.so:80/vsabG/499AKVptc/136731.ts
+#EXTINF:-1,[24H] Supernatural [S06] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136746.ts
+#EXTINF:-1,[24H] Supernatural [S07]
+http://ccdn.so:80/vsabG/499AKVptc/136732.ts
+#EXTINF:-1,[24H] Supernatural [S07] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136747.ts
+#EXTINF:-1,[24H] Supernatural [S08]
+http://ccdn.so:80/vsabG/499AKVptc/136733.ts
+#EXTINF:-1,[24H] Supernatural [S08] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136748.ts
+#EXTINF:-1,[24H] Supernatural [S09]
+http://ccdn.so:80/vsabG/499AKVptc/136734.ts
+#EXTINF:-1,[24H] Supernatural [S09] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136749.ts
+#EXTINF:-1,[24H] Supernatural [S10]
+http://ccdn.so:80/vsabG/499AKVptc/136735.ts
+#EXTINF:-1,[24H] Supernatural [S10] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136750.ts
+#EXTINF:-1,[24H] Supernatural [S11]
+http://ccdn.so:80/vsabG/499AKVptc/136736.ts
+#EXTINF:-1,[24H] Supernatural [S11] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136751.ts
+#EXTINF:-1,[24H] Supernatural [S12]
+http://ccdn.so:80/vsabG/499AKVptc/136737.ts
+#EXTINF:-1,[24H] Supernatural [S12] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136752.ts
+#EXTINF:-1,[24H] Supernatural [S13]
+http://ccdn.so:80/vsabG/499AKVptc/136738.ts
+#EXTINF:-1,[24H] Supernatural [S13] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136753.ts
+#EXTINF:-1,[24H] Supernatural [S14]
+http://ccdn.so:80/vsabG/499AKVptc/136739.ts
+#EXTINF:-1,[24H] Supernatural [S14] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136754.ts
+#EXTINF:-1,[24H] Supernatural [S15]
+http://ccdn.so:80/vsabG/499AKVptc/136740.ts
+#EXTINF:-1,[24H] Supernatural [S15] [L]
+http://ccdn.so:80/vsabG/499AKVptc/136755.ts
+#EXTINF:-1,[24H] Sítio do Picapau Amarelo (1977) [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137024.ts
+#EXTINF:-1,[24H] Sítio do Picapau Amarelo (1977) [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137025.ts
+#EXTINF:-1,[24H] Sítio do Picapau Amarelo (1977) [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137026.ts
+#EXTINF:-1,[24H] Ta Puxado
+http://ccdn.so:80/vsabG/499AKVptc/140756.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137111.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137112.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137113.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137114.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137115.ts
+#EXTINF:-1,[24H] Taz Mania
+http://ccdn.so:80/vsabG/499AKVptc/140757.ts
+#EXTINF:-1,[24H] The Archie Show
+http://ccdn.so:80/vsabG/499AKVptc/145947.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135456.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135457.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135458.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135459.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135460.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135461.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S07]
+http://ccdn.so:80/vsabG/499AKVptc/135462.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S08]
+http://ccdn.so:80/vsabG/499AKVptc/135463.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S09]
+http://ccdn.so:80/vsabG/499AKVptc/135464.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S10]
+http://ccdn.so:80/vsabG/499AKVptc/135465.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S11]
+http://ccdn.so:80/vsabG/499AKVptc/135466.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S12]
+http://ccdn.so:80/vsabG/499AKVptc/135467.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137087.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137088.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137089.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137090.ts
+#EXTINF:-1,[24H] ThunderCats
+http://ccdn.so:80/vsabG/499AKVptc/135468.ts
+#EXTINF:-1,[24H] ThunderCats (2011)
+http://ccdn.so:80/vsabG/499AKVptc/135489.ts
+#EXTINF:-1,[24H] Tico e Teco Defensores da Lei
+http://ccdn.so:80/vsabG/499AKVptc/135490.ts
+#EXTINF:-1,[24H] Tico e Teco Vida no Parque
+http://ccdn.so:80/vsabG/499AKVptc/135493.ts
+#EXTINF:-1,[24H] Tigue E Lupa Os Detetives
+http://ccdn.so:80/vsabG/499AKVptc/149543.ts
+#EXTINF:-1,[24H] To de Graca [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137178.ts
+#EXTINF:-1,[24H] To de Graca [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137179.ts
+#EXTINF:-1,[24H] To de Graca [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137180.ts
+#EXTINF:-1,[24H] To de Graca [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137181.ts
+#EXTINF:-1,[24H] To de Graca [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137182.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135469.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135470.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135471.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135472.ts
+#EXTINF:-1,[24H] Tom e Jerry
+http://ccdn.so:80/vsabG/499AKVptc/136814.ts
+#EXTINF:-1,[24H] Toma La da Ca
+http://ccdn.so:80/vsabG/499AKVptc/138938.ts
+#EXTINF:-1,[24H] Top Chef Brasil [S01]
+http://ccdn.so:80/vsabG/499AKVptc/145948.ts
+#EXTINF:-1,[24H] Top Chef Brasil [S02]
+http://ccdn.so:80/vsabG/499AKVptc/145949.ts
+#EXTINF:-1,[24H] Top Chef Brasil [S03]
+http://ccdn.so:80/vsabG/499AKVptc/145950.ts
+#EXTINF:-1,[24H] Top Wing
+http://ccdn.so:80/vsabG/499AKVptc/151952.ts
+#EXTINF:-1,[24H] Transformers War for Cybertron O Cerco
+http://ccdn.so:80/vsabG/499AKVptc/135502.ts
+#EXTINF:-1,[24H] Transformers War for Cybertron O Nascer da Terra
+http://ccdn.so:80/vsabG/499AKVptc/135503.ts
+#EXTINF:-1,[24H] Transformers War for Cybertron O Reino
+http://ccdn.so:80/vsabG/499AKVptc/135504.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137095.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137096.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137097.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137098.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137099.ts
+#EXTINF:-1,[24H] Tres Espias Demais
+http://ccdn.so:80/vsabG/499AKVptc/140758.ts
+#EXTINF:-1,[24H] Tubacao
+http://ccdn.so:80/vsabG/499AKVptc/135505.ts
+#EXTINF:-1,[24H] Turma da Monica
+http://ccdn.so:80/vsabG/499AKVptc/137612.ts
+#EXTINF:-1,[24H] TV Quack O Pato Donald e Seus Sobrinhos
+http://ccdn.so:80/vsabG/499AKVptc/137116.ts
+#EXTINF:-1,[24H] Ultimate Beastmaster Brasil [S01]
+http://ccdn.so:80/vsabG/499AKVptc/141496.ts
+#EXTINF:-1,[24H] Ultimate Beastmaster Brasil [S02]
+http://ccdn.so:80/vsabG/499AKVptc/141497.ts
+#EXTINF:-1,[24H] Ultimate Beastmaster Brasil [S03]
+http://ccdn.so:80/vsabG/499AKVptc/141498.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S01]
+http://ccdn.so:80/vsabG/499AKVptc/135445.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S02]
+http://ccdn.so:80/vsabG/499AKVptc/135446.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S03]
+http://ccdn.so:80/vsabG/499AKVptc/135448.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S04]
+http://ccdn.so:80/vsabG/499AKVptc/135449.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S05]
+http://ccdn.so:80/vsabG/499AKVptc/135450.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S06]
+http://ccdn.so:80/vsabG/499AKVptc/135451.ts
+#EXTINF:-1,[24H] Um Planeta Perfeito
+http://ccdn.so:80/vsabG/499AKVptc/138010.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S01]
+http://ccdn.so:80/vsabG/499AKVptc/155454.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S02]
+http://ccdn.so:80/vsabG/499AKVptc/155455.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S03]
+http://ccdn.so:80/vsabG/499AKVptc/155456.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S04]
+http://ccdn.so:80/vsabG/499AKVptc/155457.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S05]
+http://ccdn.so:80/vsabG/499AKVptc/155458.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S06]
+http://ccdn.so:80/vsabG/499AKVptc/155459.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S07]
+http://ccdn.so:80/vsabG/499AKVptc/155460.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S08]
+http://ccdn.so:80/vsabG/499AKVptc/155461.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S09]
+http://ccdn.so:80/vsabG/499AKVptc/155462.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S10]
+http://ccdn.so:80/vsabG/499AKVptc/155463.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S11]
+http://ccdn.so:80/vsabG/499AKVptc/155464.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S12]
+http://ccdn.so:80/vsabG/499AKVptc/155465.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S13]
+http://ccdn.so:80/vsabG/499AKVptc/155466.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S14]
+http://ccdn.so:80/vsabG/499AKVptc/155467.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S15]
+http://ccdn.so:80/vsabG/499AKVptc/155468.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S16]
+http://ccdn.so:80/vsabG/499AKVptc/155469.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S17]
+http://ccdn.so:80/vsabG/499AKVptc/155470.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S18]
+http://ccdn.so:80/vsabG/499AKVptc/155471.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S19]
+http://ccdn.so:80/vsabG/499AKVptc/155472.ts
+#EXTINF:-1,[24H] Ursinhos Carinhosos e Seus Primos
+http://ccdn.so:80/vsabG/499AKVptc/151623.ts
+#EXTINF:-1,[24H] Vai Que Cola [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137440.ts
+#EXTINF:-1,[24H] Vai Que Cola [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137441.ts
+#EXTINF:-1,[24H] Vai Que Cola [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137442.ts
+#EXTINF:-1,[24H] Vai Que Cola [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137443.ts
+#EXTINF:-1,[24H] Vai Que Cola [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137444.ts
+#EXTINF:-1,[24H] Vai Que Cola [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137445.ts
+#EXTINF:-1,[24H] Vai Que Cola [S07]
+http://ccdn.so:80/vsabG/499AKVptc/137446.ts
+#EXTINF:-1,[24H] Vai Que Cola [S08]
+http://ccdn.so:80/vsabG/499AKVptc/137447.ts
+#EXTINF:-1,[24H] Vai Que Cola [S09]
+http://ccdn.so:80/vsabG/499AKVptc/137448.ts
+#EXTINF:-1,[24H] Vampirina
+http://ccdn.so:80/vsabG/499AKVptc/138941.ts
+#EXTINF:-1,[24H] Velozes e Furiosos Espioes do Asfalto
+http://ccdn.so:80/vsabG/499AKVptc/138942.ts
+#EXTINF:-1,[24H] X Men Evolution
+http://ccdn.so:80/vsabG/499AKVptc/138943.ts
+#EXTINF:-1,[24H] X Men Serie Animada
+http://ccdn.so:80/vsabG/499AKVptc/137173.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S01]
+http://ccdn.so:80/vsabG/499AKVptc/137117.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S02]
+http://ccdn.so:80/vsabG/499AKVptc/137118.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S03]
+http://ccdn.so:80/vsabG/499AKVptc/137119.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S04]
+http://ccdn.so:80/vsabG/499AKVptc/137120.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S05]
+http://ccdn.so:80/vsabG/499AKVptc/137121.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S06]
+http://ccdn.so:80/vsabG/499AKVptc/137122.ts
+#EXTINF:-1,[24H] Yabba Dabba Dinossauros
+http://ccdn.so:80/vsabG/499AKVptc/139305.ts
+#EXTINF:-1,[24H] Yu Yu Hakusho
+http://ccdn.so:80/vsabG/499AKVptc/140759.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S01]
+http://ccdn.so:80/vsabG/499AKVptc/138012.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S02]
+http://ccdn.so:80/vsabG/499AKVptc/138013.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S03]
+http://ccdn.so:80/vsabG/499AKVptc/138014.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S04]
+http://ccdn.so:80/vsabG/499AKVptc/138015.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S05]
+http://ccdn.so:80/vsabG/499AKVptc/138016.ts
+#EXTINF:-1,[24H] Zorro [S01]
+http://ccdn.so:80/vsabG/499AKVptc/136818.ts
+#EXTINF:-1,[24H] Zorro [S02]
+http://ccdn.so:80/vsabG/499AKVptc/136819.ts
+#EXTINF:-1,[24H] [Canal YouTube] 4 Amigos Stand Up Comedy
+http://ccdn.so:80/vsabG/499AKVptc/138721.ts
+#EXTINF:-1,[24H] [Canal YouTube] 5 Alguma Coisa
+http://ccdn.so:80/vsabG/499AKVptc/138729.ts
+#EXTINF:-1,[24H] [Canal YouTube] Master Trash e Panicos Chef
+http://ccdn.so:80/vsabG/499AKVptc/138790.ts
+#EXTINF:-1,[24H] [Filmes] Homem Aranha
+http://ccdn.so:80/vsabG/499AKVptc/135556.ts
+#EXTINF:-1,[24H] [Filmes] Minha Mae E Uma Peca
+http://ccdn.so:80/vsabG/499AKVptc/141501.ts
+#EXTINF:-1,[24H] [Filmes] Transformers
+http://ccdn.so:80/vsabG/499AKVptc/135555.ts
+#EXTINF:-1,[24H] [Filmes] Velozes e Furiosos
+http://ccdn.so:80/vsabG/499AKVptc/137618.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Catolicas 2021
+http://ccdn.so:80/vsabG/499AKVptc/140541.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Gospel 2021
+http://ccdn.so:80/vsabG/499AKVptc/140494.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 MPB 2021
+http://ccdn.so:80/vsabG/499AKVptc/140542.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Sertanejo 2021
+http://ccdn.so:80/vsabG/499AKVptc/140495.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Spotify 2021
+http://ccdn.so:80/vsabG/499AKVptc/140496.ts
+#EXTINF:-1,[24H] Freakazoid Alto Forte e Maluco
+http://ccdn.so:80/vsabG/499AKVptc/162374.ts
+#EXTINF:-1,[24H] Milo
+http://ccdn.so:80/vsabG/499AKVptc/162375.ts
+#EXTINF:-1,[24H] Os Apuros de Penélope Charmosa
+http://ccdn.so:80/vsabG/499AKVptc/162376.ts
+#EXTINF:-1,[24H] Shaman King
+http://ccdn.so:80/vsabG/499AKVptc/162377.ts
+#EXTINF:-1,[24H] Topo Gigio
+http://ccdn.so:80/vsabG/499AKVptc/162378.ts
+#EXTINF:-1,Playboy 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103483.ts
+#EXTINF:-1,[+18] Playboy TV FHD
+http://ccdn.so:80/vsabG/499AKVptc/72221.ts
+#EXTINF:-1,[+18] Playboy TV FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/72224.ts
+#EXTINF:-1,[+18] Playboy TV HD
+http://ccdn.so:80/vsabG/499AKVptc/72222.ts
+#EXTINF:-1,[+18] Playboy TV SD
+http://ccdn.so:80/vsabG/499AKVptc/72223.ts
+#EXTINF:-1,[+18] Sextreme SD
+http://ccdn.so:80/vsabG/499AKVptc/91430.ts
+#EXTINF:-1,[+18] Sexy Hot SD
+http://ccdn.so:80/vsabG/499AKVptc/72310.ts
+#EXTINF:-1,[+18] Venus SD
+http://ccdn.so:80/vsabG/499AKVptc/91429.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 01]
+http://ccdn.so:80/vsabG/499AKVptc/140487.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 02]
+http://ccdn.so:80/vsabG/499AKVptc/140488.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 03]
+http://ccdn.so:80/vsabG/499AKVptc/140489.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 04]
+http://ccdn.so:80/vsabG/499AKVptc/140490.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 05]
+http://ccdn.so:80/vsabG/499AKVptc/140491.ts
+#EXTINF:-1,[24H] [+18] Anal Only
+http://ccdn.so:80/vsabG/499AKVptc/149544.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 01]
+http://ccdn.so:80/vsabG/499AKVptc/140536.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 02]
+http://ccdn.so:80/vsabG/499AKVptc/140537.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 03]
+http://ccdn.so:80/vsabG/499AKVptc/140538.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 04]
+http://ccdn.so:80/vsabG/499AKVptc/140539.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 05]
+http://ccdn.so:80/vsabG/499AKVptc/140540.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 06]
+http://ccdn.so:80/vsabG/499AKVptc/149545.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 07]
+http://ccdn.so:80/vsabG/499AKVptc/150115.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 08]
+http://ccdn.so:80/vsabG/499AKVptc/150116.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 09]
+http://ccdn.so:80/vsabG/499AKVptc/150492.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 10]
+http://ccdn.so:80/vsabG/499AKVptc/150493.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 11]
+http://ccdn.so:80/vsabG/499AKVptc/155424.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 12]
+http://ccdn.so:80/vsabG/499AKVptc/155425.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 13]
+http://ccdn.so:80/vsabG/499AKVptc/155426.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 14]
+http://ccdn.so:80/vsabG/499AKVptc/155427.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 15]
+http://ccdn.so:80/vsabG/499AKVptc/155428.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 01]
+http://ccdn.so:80/vsabG/499AKVptc/145382.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 02]
+http://ccdn.so:80/vsabG/499AKVptc/145383.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 03]
+http://ccdn.so:80/vsabG/499AKVptc/149546.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 04]
+http://ccdn.so:80/vsabG/499AKVptc/149547.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 05]
+http://ccdn.so:80/vsabG/499AKVptc/150117.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 05]
+http://ccdn.so:80/vsabG/499AKVptc/155440.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 06]
+http://ccdn.so:80/vsabG/499AKVptc/155441.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 07]
+http://ccdn.so:80/vsabG/499AKVptc/155442.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 08]
+http://ccdn.so:80/vsabG/499AKVptc/155443.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 09]
+http://ccdn.so:80/vsabG/499AKVptc/155444.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 10]
+http://ccdn.so:80/vsabG/499AKVptc/155445.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 11]
+http://ccdn.so:80/vsabG/499AKVptc/155446.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 12]
+http://ccdn.so:80/vsabG/499AKVptc/155447.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 13]
+http://ccdn.so:80/vsabG/499AKVptc/155448.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 15]
+http://ccdn.so:80/vsabG/499AKVptc/155449.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 16]
+http://ccdn.so:80/vsabG/499AKVptc/155450.ts
+#EXTINF:-1,[24H] [+18] Homossexual Masculino [Pack 01]
+http://ccdn.so:80/vsabG/499AKVptc/140492.ts
+#EXTINF:-1,[24H] [+18] Homossexual Masculino [Pack 02]
+http://ccdn.so:80/vsabG/499AKVptc/140493.ts
+#EXTINF:-1,[24H] [+18] Interesseiras
+http://ccdn.so:80/vsabG/499AKVptc/149606.ts
+#EXTINF:-1,[24H] [+18] Lets Try Anal [Pack 01]
+http://ccdn.so:80/vsabG/499AKVptc/140760.ts
+#EXTINF:-1,[24H] [+18] Lets Try Anal [Pack 02]
+http://ccdn.so:80/vsabG/499AKVptc/141499.ts
+#EXTINF:-1,[24H] [+18] Lets Try Anal [Pack 03]
+http://ccdn.so:80/vsabG/499AKVptc/141500.ts
+#EXTINF:-1,[24H] [+18] Pornhub Yinyleon
+http://ccdn.so:80/vsabG/499AKVptc/149548.ts
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade [Pack 01]
+http://ccdn.so:80/vsabG/499AKVptc/140761.ts
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade [Pack 02]
+http://ccdn.so:80/vsabG/499AKVptc/140762.ts
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade [Pack 03]
+http://ccdn.so:80/vsabG/499AKVptc/145384.ts
+#EXTINF:-1,[24H] [+18] All Anal
+http://ccdn.so:80/vsabG/499AKVptc/162379.ts
